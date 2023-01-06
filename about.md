@@ -18,7 +18,7 @@ description: >-
 
 ## About
 
-This page contains all the material needed for PS2543 (spring 2023).
+This page contains all the material needed for PS 1599 (spring 2023).
 
 ## Contact
 
