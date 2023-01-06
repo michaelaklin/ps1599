@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Politics of Growth
+title: Analysis of International Relations
 nav_exclude: true
 permalink: index.html
 seo:
   type: Course
-  name: Politics of Growth
+  name: Analysis of International Relations
 ---
 
-This is the website for Politics of Growth (PS2543). 
+This is the website for _Analysis of International Relations_ (PS 1599) at the University of Pittsburgh. 

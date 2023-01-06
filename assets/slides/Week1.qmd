@@ -1,0 +1,48 @@
+---
+title: "Analysis of IR"
+subtitle: "PS 1599 | Week 1 and 2"
+institute: "University of Pittsburgh"
+author: "Michaël Aklin"
+format:
+  revealjs:
+    incremental: true
+    theme: [white, revealjs_customization.scss]
+    logo: materials/PASU_Logo.png
+    center: true
+    chalkboard: true
+title-slide-attributes: 
+    data-background-image: https://upload.wikimedia.org/wikipedia/commons/1/13/VReumerswale_Money_Changers_Hermitage.jpg
+    data-background-opacity: "0.4"
+editor: visual
+---
+
+# Welfare and technology
+
+##
+
+::: {.r-fit-text}
+What did we talk about last time?
+:::
+
+## Plan for today
+
+
+# Welfare
+
+## 
+
+
+
+# Questions?
+
+aklin@pitt.edu
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<font size="5">Source for title page painting: Quentin Matsys, _he Money Changer and His Wife_</font>

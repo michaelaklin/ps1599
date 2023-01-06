@@ -7,19 +7,20 @@ description: Links to course material.
 # Slides
 
 <!-- * Week 1 [slides](./assets/slides/Session_1.html) -->
-* Week 1 link
-* Week 2 link
-* Week 3 link
-* Week 4 link
-* Week 5 link
-* Week 6 link
-* Week 7 link
-* Week 8 link
-* Week 9 link
-* Week 10 link
-* Week 11 link
-* Week 12 link
-* Week 13 link
-* Week 14 link
+* Introduction [slides](./assets/slides/Introduction.html)
+* Week 1 slides
+* Week 2 slides
+* Week 3 slides
+* Week 4 slides
+* Week 5 slides
+* Week 6 slides
+* Week 7 slides
+* Week 8 slides
+* Week 9: spring break, no class
+* Week 10 slides
+* Week 11 slides
+* Week 12 slides
+* Week 13 slides
+* Week 14 slides
 
 

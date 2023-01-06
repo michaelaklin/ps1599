@@ -1,0 +1,535 @@
+---
+output: 
+  pdf_document:
+    keep_tex: false
+    keep_md: false
+    fig_caption: yes
+    latex_engine: pdflatex
+    template: ~/Dropbox/Teaching/svm-latex-syllabus.tex
+geometry: margin=1in
+title: "Analysis of International Relations (PS 1599)"
+author: Michaël Aklin
+email: "aklin@pitt.edu"
+web: "michaelaklin.github.io/ps1599"
+officehours: "Mo 10-11am"
+office: "4621"
+classroom: "239 Cathedral of Learning"
+classhours: "Mo/Wed 3-4:15"
+fontfamily: mathpazo
+fontsize: 11pt
+header-includes:
+   - \linespread{1.05}
+---
+
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(cache=FALSE, echo = FALSE, results="asis", dev='pdf')
+
+
+mon <- as.Date("2023-01-09")
+wed <- as.Date("2023-01-11")
+#mon <- as.Date("2021-01-25")
+# fri <- as.Date("2016-01-08")
+advdate <- function(obj, adv) {
+ tmon <- obj + 7*(adv-1)
+ twed <- obj + 2 + 7*(adv-1)
+ tmon <- format(tmon, format="%m/%d")
+ twed <- format(twed, format="%m/%d")
+ zadv <- sprintf("%02d", adv)
+ tmp <- paste("Week ", zadv, sep='',", ", tmon, " and ", twed)
+# tmp <- paste("Week ",zadv,sep='',", ", tmon," - ",tfri)
+ return(tmp)
+}
+
+
+# Bib file
+#biblio = bibtex::read.bib("~/Dropbox/BibLibrary.bib")
+
+# A small function to shorten the command for bib references
+# ref = function(key) {
+# #  print(biblio[key])
+#     capture.output(biblio[key])
+# # capture.output(print(biblio[key])) # This would be the way to print the ref
+#   
+  
+# Alternative way to to citations:
+library(RefManageR)
+bib = ReadBib("~/Dropbox/BibLibrary.bib")
+BibOptions(bib.style = "authoryear", style="latex", first.inits=FALSE, max.names = 20)
+ref = function(key) {
+    capture.output(bib[key])
+}
+
+```
+
+# Important links
+
+This syllabus is a live document (ie, it can be updated). This version of the syllabus is from: `r Sys.Date()`. Click [here](https://michaelaklin.github.io/ps1599/assets/ps1599_syllabus.pdf) for the latest version.
+
+This syllabus and other material for the class are available here: [https://michaelaklin.github.io/ps1599](https://michaelaklin.github.io/ps1599).
+
+\bigskip
+
+# Teaching assistant
+
+The teaching assistant for this course is Chuang Chen (chen.chuang@pitt.edu). He will be in charge of helping students complete their _research report_ (see "Assignments"). 
+
+Note that all questions regarding the substance of this course or its organization should be addressed to me instead (aklin@pitt.edu).
+
+\bigskip
+
+# Course Objectives
+
+This course has two objectives. First, it has a _substantive_ objective. It is to help students understand the politics behind sustainable development and technology. Technology has been the driver of unprecedented improvements in welfare over the last 2-3 centuries. Yet technological innovation is also connected to many challenges that our societies face, such as climate change. Not addressing them properly creates major risks for our future welfare.
+
+Second, this course has also an _analytical_ objective. Students will be asked to do applied research with an eye on developing their problem-solving skills to address real issues. 
+
+\bigskip
+
+# Requirements
+
+**Assignments**. 
+
+* Midterm: 30%. See schedule.
+
+* Research report: 40%. Due on 21/4.
+
+* Policy report: 30%. Due on 21/4.
+
+More details about these assignments will be provided in class. The Research report and the Policy report must be submitted on Canvas.
+
+<!--  
+Midterm
+Research report = short research memo.
+Policy report = literature + summary of research report + policy suggestions
+-->
+
+**Grade scale**: 0 < 60: F, 60 < 64: D-, 64 < 67: D, 67 < 70: D+, 70 < 73: C-, 74 < 77: C, 77 < 80: C+, 80 < 84: B-, 84 < 87: B, 87 < 90: B+, 90 < 94: A-, 93 or more: A. "Y < X" means: "from Y up to, but not including X." Grades are not rounded up.
+
+**Late submissions** are penalized by a loss of 2 percentage points per day. If you have issues that prevent you from submitting an assignment on time, then please let me know immediately. If you inform me _after_ a deadline has passed, I will need to be provided justification (e.g. doctor's note) to cancel the late submission penalty. 
+
+**Important note**: you can discuss ideas with your fellow students, but you must do your assignments individually. For pedagogical reasons, it is essential that you must try to understand the material on your own.
+
+\bigskip
+
+# Readings
+
+There is no required textbook for this course. The readings are available online for free (via Pitt's library) or on the course's webpage if necessary.
+
+
+\newpage
+
+# Class Schedule
+
+The schedule is subject to change. Check the course's homepage regularly. 
+
+<!--------------- Break --------------->
+\bigskip
+\begin{center} 
+\textcolor{blue}{\textsc{Part I: Welfare, Technology, and Sustainability}} 
+\end{center}
+\bigskip
+<!--------------- Break --------------->
+## `r advdate(mon, 1)`. Introduction + Welfare
+
+What should the goal of our societies be?
+
+<!-- Theme: 
+Goals of society: deontology vs consequentialism
+Two forms of consequentialism
+Conclusion: we often want to generate the best consequences
+What consequences? Happiness (=utility)!
+But: doesn't work that great. Nepal. Trump paradox.
+Instead: human development.
+But: complicated.
+Instead: GDP!
+Thus: centrality of development for our societies.
+-->
+
+_Required reading_:
+
+* Chapter 1: `r ref("EBDM2016")`
+
+_Suggested reading_:
+
+* `r ref("Sen1999")`
+
+* `r ref("easterlin2003explaining")`
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 2)`. Welfare and technology
+
+<!-- Theme
+Welfare is great!
+Where does development come from? Technology!
+- Brynjolfson
+Technology:
+- is something that has been both liked and disklided: Dracula vs. Frankenstein
+- In an idea world
+-->
+
+In the long-term, welfare depends almost entirely on innovations and their deployment. 
+
+Note: no class on Monday (MLK Day).
+
+_Required reading_:
+
+* `r ref("Jones2016")`
+
+_Suggested reading_:
+
+* `r ref("BrynjolfssonMcAfee2016")`
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 3)`. Technology and sustainability
+
+Technology has also a darker side and creates considerable negative side effects.
+
+<!-- Themes: 
+Last time: development is key and it is caused by technology.
+
+But: negative externalities of technology
+- Society (social media)
+- Economy (automation, coal phaseout)
+- Environment (climate, air pollution)
+-> Consequences: rise of extremism!
+
+Creates the problem of sustainability
+- What do we mean by sustainability and sustainable development?
+Need for new sustainable technology
+Problem: all kinds of reasons this doesn't work
+-->
+
+_Required reading_:
+
+* `r ref("Solow1991")`
+
+_Suggested reading_:
+
+* `r ref("ostrom2009general")`
+
+* `r ref("tucker2018social")`
+
+<!--------------- Break --------------->
+\bigskip
+\begin{center} 
+\textcolor{blue}{\textsc{Part II: Politics and Technology}} 
+\end{center}
+\bigskip
+<!--------------- Break --------------->
+## `r advdate(mon, 4)`. Supply-side failures: innovations as public goods
+
+New technology needs to be developed. But who wants to pay for research?
+
+<!-- Themes: 
+
+Models/theory:
+- Ideak case: S-curve
+- Works under perfect competition
+- Market failures
+- intellectual property as public goods, Stiglitz, innovator's dilemma 
+
+Examples/cases:
+- Covid drugs: who pays for research?
+- Human capital and non-compete contracts
+- Example: clean energy R&D
+
+Solutions:
+- How to solve it? Domestic: laws. International: World Intellectual Property Organization
+-->
+
+_Required reading_:
+
+* Chapter 1: `r ref("Foster1986")`
+
+* `r ref("MartinScott2000")`
+
+_Suggested reading_:
+
+* Chapter 4: `r ref("Foster1986")`
+
+* `r ref("christensen2013innovator")`
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 5)`. Supply-side failures: non-market competition
+
+One reason for the challenges faced by new technologies is tough political competition from incumbents. 
+
+<!-- Themes 
+
+Models/theory:
+- Carbon lock-in
+- Infrastructures
+- Status quo: Path dependence
+- Why alternatives are blocked: Olson and lobbying
+
+Cases:
+- US energy
+- Renewable energy
+
+Solution:
+- Changing preferences
+- Endogenously creating interests (Policy -> Politics)
+-->
+
+_Required reading_:
+
+* `r ref("Unruh2000")`
+
+* `r ref("breetz2018political")`
+
+_Suggested reading_:
+
+* `r ref("olson65")`
+
+* `r ref("AklinUrpelainen2018")`
+
+* `r ref("Stokes2020")`
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 6)`. Demand failure: individuals and households
+
+Even if new technologies exist, we sometimes individually fail to ask for them. Why?
+
+<!-- Themes: credit constraints, gender dynamics psychology, acceptance, culture, clean cooking stoves 
+
+Models/theory:
+- Household decision model
+- Simple decision-theoretic models
+
+Empirics/cases:
+- Credit constraints
+
+Solutions:
+- 
+
+-->
+
+_Required reading_:
+
+* `r ref("Brown:2008aa")`
+
+_Suggested reading_:
+
+* `r ref("Aklinetal2018d")`
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 7)`: Research workshop
+
+<!-- _Required reading_: -->
+
+_Suggested reading_:
+
+* `r ref("Tufte2001")`
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 8)`: Research workshop
+
+
+<!-- _Required reading_: -->
+
+<!-- _Suggested reading_: -->
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 9)`: Spring break
+
+Spring recess, no class.
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 10)`: Midterm
+
+Monday: optional recitation.
+
+Wednesday: midterm.
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 11)`. Policy workshop
+
+<!-- Theme
+Do my intro on public policy-->
+
+<!-- _Required reading_: -->
+
+_Suggested reading_:
+
+* Chapter 1, 3: `r ref("Peters2016")`
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 12)`. Demand failures -- social dynamics
+
+There is a range of social dynamics that slow down the uptake of technologies.
+
+<!-- Themes: credit constraints, gender dynamics psychology, acceptance, culture, clean cooking stoves 
+
+Models/theory:
+- Network effects/network externalities
+
+Empirics/cases:
+- Credit constraints
+- NIMBYISM
+- Solar
+
+Solutions:
+- 
+
+-->
+
+
+_Required reading_:
+
+* `r ref("Wuestenhagenetal2007")`
+
+_Suggested reading_:
+
+\bigskip
+
+* Chapter 10: `r ref("Page2018")`
+
+* `r ref("mildenberger2019households")`
+
+<!--------------- Break --------------->
+## `r advdate(mon, 13)`. Demand failures -- coordination problems
+
+Societies are complicated. In some cases, coordination is needed to help push through new technologies. Is _industrial policy_ the solution?
+
+<!-- Themes: 
+Models/theory:
+- Coordination problems
+- Definition
+- Difference with public goods
+
+Empirics/cases:
+- electric cars
+- poverty traps
+- IRA
+
+Solutions:
+- Industrial policy
+- Tennessee River Authority
+
+-->
+
+_Required reading_:
+
+* `r ref("rapson2021economics")`
+
+_Suggested reading_:
+
+* `r ref("Schelling1960")`
+
+* Chapter 1: `r ref("Nahm2021")`
+
+\bigskip
+<!--------------- Break --------------->
+\bigskip
+\begin{center} 
+\textcolor{blue}{\textsc{Part III: Big Picture}} 
+\end{center}
+\bigskip
+<!--------------- Break --------------->
+<!--------------- Break --------------->
+## `r advdate(mon, 14)`. Labor markets
+
+Sustainable technology will require dramatic changes in the ways in which our societies work. 
+
+<!-- Themes: 
+Models/theory:
+- Capital labor
+
+Empirics/cases:
+- Coal phaseout
+- Music players
+
+Solutions:
+- Just transition
+
+-->
+
+_Required reading_:
+
+* Notes by Aklin
+
+_Suggested reading_:
+
+* `r ref("rodrik2004industrial")`
+
+* `r ref("BrynjolfssonMcAfee2016")`
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 15)`. Conclusion
+
+What could a sustainable society look like?
+
+<!-- Themes
+Models/theory
+- Sustainability: resilience vs adaptation
+- Futurism
+- Circular economy
+
+Empirics/cases
+- Failing to predict: Ehrlich, Limits to Growth
+
+Solutions
+-->
+
+_Required reading_:
+
+* `r ref("geissdoerfer2017circular")`
+
+_Suggested reading_:
+
+* `r ref("Bouldin1966")`
+
+\bigskip
+
+<!--------------- Break --------------->
+\newpage
+# Course policies
+
+## Pandemic/COVID
+
+During this pandemic, it is extremely important that you abide by the public health regulations, the University of Pittsburgh’s health standards and guidelines, and Pitt's Health Rules. These rules have been developed to protect the health and safety of all of us.  Universal face covering is required in all classrooms and in every building on campus, without exceptions, regardless of vaccination status. This means you must wear a face covering that properly covers your nose and mouth when you are in the classroom. If you do not comply, you will be asked to leave class.  It is your responsibility have the required face covering when entering a university building or classroom. For the most up-to-date information and guidance, please visit https://coronavirus.pitt.edu and check your Pitt email for updates before each class.
+
+If you are required to isolate or quarantine, become sick, or are unable to come to class, contact me as soon as possible to discuss arrangements.
+
+## Disability Resource Services
+
+If you have a disability for which you are or may be requesting an accommodation, you are encouraged to contact both your instructor and the Office of Disability Resources and Services, 140 William Pitt Union, 412-648-7890, as early as possible in the term. Disability Resources and Services will verify your disability and determine reasonable accommodations for this course.
+
+## Academic Integrity Policy 
+
+Cheating/plagiarism will not be tolerated. Students suspected of violating the University of Pittsburgh Policy on Academic Integrity, noted below, will be required to participate in the outlined procedural process as initiated by the instructor. A minimum sanction of a zero score for the quiz, exam or paper will be imposed. (For the full Academic Integrity policy, go to www.provost.pitt.edu/info/ai1.html.)
+
+## E-mail Communication Policy
+
+Each student is issued a University e-mail address (username@pitt.edu) upon admittance. This e-mail address may be used by the University for official communication with students. Students are expected to read e-mail sent to this account on a regular basis. Failure to read and react to University communications in a timely manner does not absolve the student from knowing and complying with the content of the communications. The University provides an e-mail forwarding service that allows students to read their e-mail via other service providers (e.g., Hotmail, AOL, Yahoo). Students that choose to forward their e-mail from their pitt.edu address to another address do so at their own risk. If e-mail is lost as a result of forwarding, it does not absolve the student from responding to official communications sent to their University e-mail address. To forward e-mail sent to your University account, go to http://accounts.pitt.edu, log into your account, click on Edit Forwarding Addresses, and follow the instructions on the page. Be sure to log out of your account when you have finished. (For the full E-mail Communication Policy, go to www.bc.pitt.edu/policies/policy/09/09-10-01.html.)
+
+## Diversity and Inclusion
+
+The University of Pittsburgh does not tolerate any form of discrimination,harassment, or retaliation based on disability, race, color, religion, national origin, ancestry, geneticinformation, marital status, familial status, sex, age, sexual orientation, veteran status or gender iden-tity or other factors as stated in the University’s Title IX policy. The University is committed to takingprompt action to end a hostile environment that interferes with the University’s mission. For moreinformation about policies, procedures, and practices, see: https://www.diversity.pitt.edu/about. I ask that everyone in the class strive to help ensure that other members of this class can learn in a support-ive and respectful environment. If there are instances of the aforementioned issues, please contact theTitle IX Coordinator, by calling 412-648-7860, or e-mailing titleixcoordinator@pitt.edu. Reports canalso be filed online: https://www.diversity.pitt.edu/civil-rights-title-ix-compliance/make-report.
+
+
+

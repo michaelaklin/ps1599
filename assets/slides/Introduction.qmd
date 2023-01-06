@@ -1,0 +1,226 @@
+---
+title: "Analysis of IR"
+subtitle: "PS 1599 | Introduction"
+institute: "University of Pittsburgh"
+author: "Michaël Aklin"
+format:
+  revealjs:
+    incremental: true
+    theme: [white, revealjs_customization.scss]
+    logo: materials/PASU_Logo.png
+    center: true
+    chalkboard: true
+title-slide-attributes: 
+    data-background-image: https://cmoa-collection-images.s3.amazonaws.com/thing/135096/sizes/70911-1680.jpg
+    data-background-opacity: "0.4"
+editor: visual
+---
+
+::: {.r-fit-text}
+If you could pick [any year]{.red} to live in...
+:::
+
+::: {.r-fit-text}
+which one would it be?
+:::
+
+## We never had it better...
+
+![Life expectancy](materials/life-expectancy.png)
+
+##
+
+![Income](materials/gdp-per-capita-maddison-1800-2020.png)
+
+## 
+
+- Made possible thanks to [technological innovation]{.red}
+
+- From 1st to 4th Industrial Revolutions (1760-today)
+
+- More energy devote to more goods and services than ever
+
+- And yet...
+
+
+## A time of ["polycrises"]{.red}
+
+::: {.nonincremental}
+
+- Economy
+
+- Health
+
+- Environment
+
+- Society
+
+- Politics
+
+:::
+
+## Economy
+
+![Source: Center on Budget and Policy Priorities.](materials/CBPP_us_income_decile_47-73.png)
+
+## Health
+
+![Source: Johns Hopkins University.](materials/jhu_covid.png)
+
+
+## Health
+
+![Source: CDC via Scientific American.](materials/scientific_american_lifeExpectancy_graphic_d1.webp)
+
+
+## Environment
+
+![Source: climate.gov.](materials/ClimateDashboard-global-surface-temperature-graph-20220624-1400px.jpg)
+
+
+
+## Society...
+
+![Plummeting trust](materials/public-trust-in-government.png)
+
+
+## and politics
+
+![Far-right vote goes up 30% after a financial crisis. Source: Funke et al 2016.](materials/funke_etal_2016.png)
+
+##
+
+- Key: both [+]{.red} _and_ [-]{.red} are caused by technology
+
+- Innovations have [helped]{.red} so much...
+
+- But: from climate change to social media, they are also a source of malaise
+
+- Questions:
+
+    - Why is [bad technology]{.red} succeeding?
+    
+    - Why is [good technology]{.red} too often struggling?
+    
+    - Can we make our societies more [sustainable]{.red}?
+    
+    - What kind of [policies]{.red} are needed?
+
+
+## Welcome!
+
+The [(international) politics]{.red} of [technology]{.red} and [sustainability]{.red}
+
+- Substance during regular classes
+
+    - learn about the role of [technology]{.blue} in our [societies]{.blue}
+    
+    - develop a sophisticated understanding of [sustainability]{.blue}
+    
+    - _politics_ behind this + how to design [public policies]{.blue}
+    
+- Skills during workshops
+  
+    - [analyze]{.blue} and [report]{.blue} real data for policymaking
+
+    - develop your [problem-solving skills]{.blue}
+    
+
+## Concretely
+
+
+Semester divided in 3 parts
+
+1. Welfare, technology, and sustainable development
+
+2. Politics of sustainable technology
+
+3. Big picture: challenges ahead
+
+. . .
+
+Lectures
+
+- Theory
+
+- Case studies
+
+- Policy solutions
+
+
+## Requirements
+
+- Midterm: 30%. In class. 
+
+- Research report: 
+
+    - Analyze real US survey data to find out who is willing to adopt clean technology.
+
+    - 40%. Due on 21/4.
+
+* Policy report: 
+
+    - Scientific literature review + policy recommendations on a problem connected to technology adoption. 
+
+    - 30%. Due on 21/4.
+
+
+## Rules
+
+- (Respectful) engagement - lots of opportunities!
+
+- Readings: multi-disciplinary, technical, online
+
+- Attendance is mandatory but not checked
+
+- COVID policy
+
+- Canvas/webpage: syllabus, slides, assignments
+
+- Office hours
+
+- [Communication]{.red} is key to avoid grade penalties
+
+##
+
+![Syllabus](frame.png)
+
+
+# Questions?
+
+aklin@pitt.edu
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<font size="5">Source for title page painting: Raymond Simboli, _Allegheny-Ludlum Steel Mill, Pittsburgh_</font>
+
+<!-- [test 2]{.yellow} -->
+
+<!-- [test]{style="color:red;"} -->
+
+<!-- ![bg right:33%](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Saint_Paul%2C_Rembrandt_van_Rijn_%28and_Workshop%3F%29%2C_c._1657.jpg/1280px-Saint_Paul%2C_Rembrandt_van_Rijn_%28and_Workshop%3F%29%2C_c._1657.jpg) -->
+
+<!-- ## Quarto -->
+
+<!-- Quarto enables you to weave together content and executable code into a finished presentation. To learn more about Quarto presentations see <https://quarto.org/docs/presentations/>. -->
+
+<!-- ## Bullets -->
+
+<!-- When you click the **Render** button a document will be generated that includes: -->
+
+<!-- -   Content authored with markdown -->
+<!-- -   Output from executable code -->
+
+<!-- ## Code -->
+
+<!-- When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this: -->
+
+<!-- ```{r} -->
+<!-- 1 + 1 -->
+<!-- ``` -->

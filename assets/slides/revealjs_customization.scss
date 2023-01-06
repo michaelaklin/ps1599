@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+
+// This defines a few themes that can be used later.
+$theme-darkblue: #01364C;
+$theme-blue: #1A85FF;
+$theme-white: #F7F8F9;
+$theme-yellow: #F4BA02;
+$theme-red: #D41159;
+$theme-green: #01d713ec;
+
+/*-- scss:rules --*/
+
+// This defines fonts. They can then be used as [test]{.blue}
+.blue {
+  color: $theme-blue;
+}
+
+.yellow {
+  color: $theme-yellow;
+}
+
+.red {
+  color: $theme-red;
+}
+
+.green {
+  color: $theme-green;
+}
