@@ -1,6 +1,6 @@
 ---
 title: "Analysis of IR"
-subtitle: "PS 1599 | Week 1 and 2"
+subtitle: "PS 1599 | Week 1 and 2: Welfare and Technology"
 institute: "University of Pittsburgh"
 author: "Michaël Aklin"
 format:
@@ -9,7 +9,7 @@ format:
     theme: [white, revealjs_customization.scss]
     logo: materials/PASU_Logo.png
     center: true
-    chalkboard: true
+    chalkboard: false
 title-slide-attributes: 
     data-background-image: https://upload.wikimedia.org/wikipedia/commons/1/13/VReumerswale_Money_Changers_Hermitage.jpg
     data-background-opacity: "0.4"
@@ -26,12 +26,23 @@ What did we talk about last time?
 
 ## Plan for today
 
+<!-- Theme: 
+Goals of society: deontology vs consequentialism
+Two forms of consequentialism
+Conclusion: we often want to generate the best consequences
+What consequences? Happiness (=utility)!
+But: doesn't work that great. Nepal. Trump paradox.
+Instead: human development.
+But: complicated.
+Instead: GDP!
+Thus: centrality of development for our societies.
+-->
 
 # Welfare
 
 ## 
 
-
+# 
 
 # Questions?
 

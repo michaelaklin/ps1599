@@ -9,7 +9,7 @@ format:
     theme: [white, revealjs_customization.scss]
     logo: materials/PASU_Logo.png
     center: true
-    chalkboard: true
+    chalkboard: false
 title-slide-attributes: 
     data-background-image: https://cmoa-collection-images.s3.amazonaws.com/thing/135096/sizes/70911-1680.jpg
     data-background-opacity: "0.4"
