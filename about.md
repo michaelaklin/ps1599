@@ -5,7 +5,7 @@ description: >-
     Course policies and information.
 ---
 
-# About
+<!-- # About
 {:.no_toc}
 
 ## Table of contents
@@ -14,12 +14,10 @@ description: >-
 1. TOC
 {:toc}
 
----
+--- -->
 
-## About
+# Welcome
 
-This page contains all the material needed for PS 1599 (spring 2023).
-
-## Contact
+This page contains all the material needed for Analysis of International Relations, PS 1599 (spring 2023).
 
 For any question, please reach out to aklin@pitt.edu. 

@@ -1,6 +1,6 @@
 ---
 title: "Analysis of IR"
-subtitle: "PS 1599 | Week 1: Welfare"
+subtitle: "PS 1599 | Week 3: Technology and Sustainbility"
 institute: "University of Pittsburgh"
 author: "Michaël Aklin"
 format:
@@ -16,7 +16,7 @@ title-slide-attributes:
 editor: visual
 ---
 
-<!-- # Welfare
+# Technology and Sustainbility
 
 ##
 
@@ -24,7 +24,7 @@ editor: visual
 What did we talk about last time?
 :::
 
-## Plan for today -->
+## Plan for today
 
 <!-- Theme: 
 Goals of society: deontology vs consequentialism
@@ -40,22 +40,9 @@ Thus: centrality of development for our societies.
 
 # Welfare
 
-::: {.r-fit-text}
-What did we talk about last time?
-:::
-
 ## 
 
-Two approaches to 
-
-# Measurement
-
-::: {.r-fit-text}
-How would you measure welfare?
-:::
-
-##
-
+# 
 
 # Questions?
 

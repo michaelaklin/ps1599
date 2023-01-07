@@ -125,6 +125,9 @@ The [(international) politics]{.red} of [technology]{.red} and [sustainability]{
 
     - develop your [problem-solving skills]{.blue}
     
+::: {.notes}
+New course!
+:::
 
 ## Concretely
 
@@ -183,7 +186,7 @@ Lectures
 
 ##
 
-![Syllabus](frame.png)
+![Webpage for the course](frame.png)
 
 
 # Questions?

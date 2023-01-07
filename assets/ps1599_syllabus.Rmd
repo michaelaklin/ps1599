@@ -211,6 +211,8 @@ _Required reading_:
 
 _Suggested reading_:
 
+* `r ref("Kramer:2009aa)`
+
 * `r ref("ostrom2009general")`
 
 * `r ref("tucker2018social")`
@@ -237,7 +239,8 @@ Models/theory:
 Examples/cases:
 - Covid drugs: who pays for research?
 - Human capital and non-compete contracts
-- Example: clean energy R&D
+- Clean energy R&D
+- CCS
 
 Solutions:
 - How to solve it? Domestic: laws. International: World Intellectual Property Organization
@@ -423,6 +426,7 @@ Empirics/cases:
 - electric cars
 - poverty traps
 - IRA
+- Residency matching
 
 Solutions:
 - Industrial policy
