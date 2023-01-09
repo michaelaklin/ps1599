@@ -82,9 +82,13 @@ $\rightarrow$ time of global crises of all sorts
 
 ![Far-right vote goes up 30% after a financial crisis. Source: Funke et al 2016.](materials/funke_etal_2016.png)
 
-## AI
+## and AI...
 
 ![Source: twitter.com](materials/robertrmorris_koko_tweet.png)
+
+##
+
+![Article: McLaughlin, Ducoing, and Oxley. Source: Stuart Walden/Alamy.](https://images.theconversation.com/files/483776/original/file-20220909-16-gxrnk9.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=926&fit=clip)
 
 ##
 
@@ -92,7 +96,7 @@ $\rightarrow$ time of global crises of all sorts
 
 - Innovations have [helped]{.red} so much...
 
-- But: from climate change to social media, they are also a source of malaise
+- But: from climate change to social media: malaise
 
 - Questions:
 
@@ -108,6 +112,8 @@ $\rightarrow$ time of global crises of all sorts
 ## Welcome!
 
 The [(international) politics]{.red} of [technology]{.red} and [sustainability]{.red}
+
+- Draws on ~15yrs of [policy]{.red}+[research]{.red} experience
 
 - Substance during regular classes
 
