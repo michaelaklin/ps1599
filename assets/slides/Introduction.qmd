@@ -27,9 +27,14 @@ which one would it be?
 
 ![Life expectancy](materials/life-expectancy.png)
 
-##
+## Income 1500-1950
 
-![Income](materials/gdp-per-capita-maddison-1800-2020.png)
+![Income 1500-1950. Source: Maddison.](materials/1024px-Maddison_GDP_per_capita_1500-1950.png)
+
+## Income 1800-2020
+
+![Income 1800-2020. Source: Maddison.](materials/gdp-per-capita-maddison-1800-2020.png)
+
 
 ## 
 
