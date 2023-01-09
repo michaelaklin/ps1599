@@ -1,0 +1,59 @@
+---
+title: "Analysis of IR"
+subtitle: "PS 1599 | Week 4: Innovations"
+institute: "University of Pittsburgh"
+author: "Michaël Aklin"
+format:
+  revealjs:
+    incremental: true
+    theme: [white, revealjs_customization.scss]
+    logo: materials/PASU_Logo.png
+    center: true
+    chalkboard: false
+title-slide-attributes: 
+    data-background-image: https://upload.wikimedia.org/wikipedia/commons/1/13/VReumerswale_Money_Changers_Hermitage.jpg
+    data-background-opacity: "0.4"
+editor: visual
+---
+
+# Technology and Sustainbility
+
+##
+
+::: {.r-fit-text}
+What did we talk about last time?
+:::
+
+## Plan for today
+
+<!-- Theme: 
+Goals of society: deontology vs consequentialism
+Two forms of consequentialism
+Conclusion: we often want to generate the best consequences
+What consequences? Happiness (=utility)!
+But: doesn't work that great. Nepal. Trump paradox.
+Instead: human development.
+But: complicated.
+Instead: GDP!
+Thus: centrality of development for our societies.
+-->
+
+# Welfare
+
+## 
+
+# 
+
+# Questions?
+
+aklin@pitt.edu
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<font size="5">Source for title page painting: Quentin Matsys, _he Money Changer and His Wife_</font>

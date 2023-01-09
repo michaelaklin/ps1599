@@ -7,6 +7,7 @@ $theme-white: #F7F8F9;
 $theme-yellow: #F4BA02;
 $theme-red: #D41159;
 $theme-green: #01d713ec;
+$theme-gray: #9a9a9aec;
 
 /*-- scss:rules --*/
 
@@ -25,4 +26,8 @@ $theme-green: #01d713ec;
 
 .green {
   color: $theme-green;
+}
+
+.gray {
+  color: $theme-gray;
 }

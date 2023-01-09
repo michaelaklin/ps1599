@@ -211,7 +211,7 @@ _Required reading_:
 
 _Suggested reading_:
 
-* `r ref("Kramer:2009aa)`
+* `r ref("Kramer:2009aa")`
 
 * `r ref("ostrom2009general")`
 
@@ -232,6 +232,7 @@ New technology needs to be developed. But who wants to pay for research?
 
 Models/theory:
 - Ideak case: S-curve
+Note: many technologies don't make it. Minidisk!
 - Works under perfect competition
 - Market failures
 - intellectual property as public goods, Stiglitz, innovator's dilemma 
