@@ -11,7 +11,6 @@ format:
     center: true
     chalkboard: false
     slide-number: true
-    embed-resources: true
 title-slide-attributes: 
     data-background-image: https://upload.wikimedia.org/wikipedia/commons/1/13/VReumerswale_Money_Changers_Hermitage.jpg
     data-background-opacity: "0.4"
@@ -40,45 +39,8 @@ Instead: GDP!
 Thus: centrality of development for our societies.
 -->
 
-
-::: {.r-fit-text}
-Since you woke up...
-:::
-
-::: {.r-fit-text}
-which of the items/services you used
-:::
-
-:::{.r-fit-text}
-[existed in 1900]{.red}?
-:::
-
-::: {.r-fit-text}
-And which ones [didn't]{.red}?
-:::
-
-## Why a focus on technology?
-
-- Technology has expanded what we can consume
-
-  - Richer = more goods/services
-
-  - Bigger diversity in goods/services
-
-  - Example: cars
-
-- Tech is essential for (economic) [development]{.red}
-
-- Yet concept of development is [controversial]{.blue}: western-centric, consumerism, materialism
-
-- What is the solution? No tech? More tech? Better tech?
-
-:::{.notes}
-Anecdote of opapa
-Anecdote of talk at Toronto+Amish
-:::
-
-## To answer all these questions...
+<!-- ---
+## 
 
 This semester will proceed in three steps:
 
@@ -88,57 +50,53 @@ This semester will proceed in three steps:
 
 3. "Big picture": the big challenges ahead
 
-# Part I: Welfare, technology, and sustainability
+- Plan today: 
 
-<!-- Plan today:
+  - history of development
+ -->
 
-- Clarify why we care about development
+So...
 
-- Understand that we could care about other things
+My friend Bob is getting [married]{.blue}. 
 
-- Define what development is and how to measure it -->
+My friend Anthony [disapproves]{.red} of Bob's partner. 
 
-##
+Yet my friend Anthony is also Bob's best man...
 
-Why do we care about development?
+[Should Anthony let Bob know that he disapproves? Or should he stay silent?]{.blue}
 
-- Link: technology $\rightarrow$ development $\rightarrow$ welfare
-
-- Thus: if you want to increase welfare, need to understand barriers to technology
-
-- Two problems with this:
-
-  1. Why should we prioritize welfare?
-
-  2. Why should welfare be measured by development?
+Anthony says that it's the right thing to do, regardless of the consequences...
 
 
-# 1. Why welfare?
+## Thesis of this course
 
-- Need to think about [ethics]{.red} of our societies
+1. What we want: improve people's [welfare]{.red}
+
+2. What determines welfare? [Economic growth/development]{.red}
+
+3. How do we get development? [Technological innovations]{.red}
+
+- But how [legitimate]{.blue} is this thesis?
+
+- Lots of pushback against the idea that development=good
+
+  - Environmentalists, religions, nationalists, traditionalists
+
+- Today: ethics and development
+
+# Ethics and politics
+
+## Principles of ethics
+
+- To justify a goal: need to think about [ethics]{.red} of our societies
 
 - Three main families of views on an [ideal]{.blue} society looks like [(Bueno de Mesquita et al 2016)]{.gray}
 
-##
+  1. Consequentialist ethics
 
-![](/materials/ethics1.png)
+  2. Deontological ethics
 
-##
-
-![](/materials/ethics2.png)
-
-##
-
-![](/materials/ethics3.png)
-
-##
-
-![](/materials/ethics4.png)
-
-##
-
-![](/materials/ethics5.png)
-
+  3. (Virtue ethics)
 
 ## 1. Consequentialism
 
@@ -164,7 +122,7 @@ Why do we care about development?
 
 - What determines utility?
 
-- **Thus: if utility=consumption, then development is 'good' goal**
+- **[Thus: if utility=consumption, then development is just]{.red}**
 
 - **Corollary**: tech is justified when it helps development
 
@@ -188,11 +146,11 @@ Why do we care about development?
 
 - Extreme version: equality of outcomes
 
-- **Thus: development is okay when it reduces inequality**
+- **[Thus: development is good when it reduces inequality]{.red}**
 
 - Variants
 
-  - Equality of opportunities and resources (R Dworkin)
+  - Equality of opportunities and resources (Dworkin)
 
   - Rawls and Sen
 
@@ -208,7 +166,7 @@ Why do we care about development?
 
 - Inequality is tolerable [only]{.blue} if it helps the most disadvantaged ([difference principle]{.red})
 
-- **Thus: development is essential when it helps the poor**
+- **[Thus: development is just when it helps the poor]{.red}**
 
 ## Sen
 
@@ -216,120 +174,156 @@ Why do we care about development?
 
 - [Freedom]{.red} is a moral imperative
 
-- (Different from libertarianism)
+- Being free$\neq$no prison
 
-- To be truly free: need capabilities
+- Being free$\neq$no gov (libertarianism)
 
-- Eg being poor, illiterate w/o gov isn't freedom
+- Freedom: having capabilities to meet your aspirations
 
-- **Thus: development is essential for freedom**
+- **[Thus: development is just when it contributes to freedom]{.red}**
 
 ## 2. Other ethical schools
 
-- Virtue ethics. 
-  - Ethics is a personal matter
-  - As such: not particularly relevant to us
-
 - Kantian deontology
 
-  - What matters are [actions]{.red}, not [consequences]{.red}
+- What matters are [actions]{.red}, not [consequences]{.red}
 
-  - Just actions are those that are universal and rational ([categorical imperative]{.red})
+- Just actions are those that are universal and rational ([categorical imperative]{.red})
 
-  - Major challenge against consequentialism
+- Major challenge against consequentialism
+
+##
+
+My friend Bob is getting [married]{.blue}. 
+
+My friend Anthony [disapproves]{.red} of Bob's partner. 
+
+Yet my friend Anthony is also Bob's best man...
+
+[Should Anthony let Bob know that he disapproves? Or should he stay silent?]{.blue}
+
+Anthony says that it's the right thing to do, regardless of the consequences...
+
+<!-- ::: {.r-fit-text}
+What would your [ideal]{.red} society be like?
+::: -->
 
 ## Summary so far
 
-- Many reasons to criticize the idea of [development]{.red}
+- Consequentialist ethics cares about [outcomes]{.red}
 
-- However, good reasons to be in favor...
+- Outcomes that matter for U and E: [welfare]{.red}
 
-- Good for [aggregate welfare]{.red} (utilitarianism)
+  - Utilitarianism: [average/total]{.blue} welfare
 
-- Strengthens [individual freedom]{.red} (Sen)
+  - Egalitarianism: [distribution]{.blue} of welfare. 
+  
+  - Rawls, Sen: poorest
 
-- Caveats when it increase [inequality]{.red} (egalitarianism)...
-
-- Even then: okay if it lifts everyone up (Rawls)
-
-. . .
-
-$\rightarrow$ [We will assume that development is generally desirable]{.blue}
-
-. . .
-
-[(... when it is sustainable)]{.blue}
-
-# 2. Definition and measurement of development
-
-## 
-
-::: {.r-fit-text}
-[How would you measure welfare (and development)?]{.red}
-:::
-
-::: {.nonincremental}
-- (Note that welfare$\neq$development)
-
-- Welfare: possible ideal of a society
-
-- Development: one way to achieve this ideal
-:::
-
-## 1st approach
-
-- Measure people's 'utility'
-
-- Problem: how do you do this in practice? 
-
-- One attempt: Gross National Happiness (Bhutan)
-
-- Problems:
-
-  - Hard to measure
-
-  - Is happiness always legitimate?
+- Others tend to care less about welfare. Justifiable!
 
 ##
 
-![Source: 538.](materials/538_economy.webp)
+- [My thesis this semester: we should prioritize welfare]{.red}
 
-## 2nd approach
+- (Global) political problems are defined by lower welfare than feasible
 
-- Assume you know what people want
+- Major caveats!
 
-- Seems weird but consistant with Sen's capability approach
+  - We should think about levels _and_ distribution of welfare
 
-- Example: Human Development Index (HDI) combines
+  - Sometimes: doing the right thing $\neq$ improving welfare
 
-  - Life expectancy
+  - Welfare is not just about material pleasures
 
-  - Years of schooling
-
-  - Gross National Income (GNI). Variant of GDP: total value created in a jurisdiction over a time period (eg country-year).
+- Next step: how should we [define]{.blue} and [measure]{.blue} welfare?
+<!-- 
+# Welfare and its definition(s)
 
 ##
 
-![HDI 2022. Source: wiki.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2021-22_UN_Human_Development_Report.svg/2880px-2021-22_UN_Human_Development_Report.svg.png)
+- Welfare = good. Okay, but what is welfare?
 
+- In practice: vastly diverging views. [Example?]{.red}
 
-## In practice
+- Some communities: spiritual values
 
-- In practice: GDP/GNI tell us a lot already (more in a sec)
+- Others (majority?): economic output and growth
 
-- Note: not perfect by any means!
+## Definitions
 
-  - GDP doesn't tell you what goods are available
+- Development (narrow): how advanced an economy is (service sector, innovations, etc.)
 
-  - GDP doesn't distinguish between coal plants and solar farm
+- Development (Sen): 
 
-  - GDP can go up with destruction of wealth
+  - Economic opportunities
 
-  - GDP doesn't measure well new technologies (eg wikipedia)
+  - Political freedom
 
-- But note: HDI isn't perfect either (eg HK)
+  - Protection from extreme poverty
 
+- Extended version: social development (gender rights, minorities, etc.), modernization
 
+## Sidenote
+
+- Concept of [development]{.blue} is relatively recent: Truman 1949
+
+- Context: Cold War, United Nations, World Bank
+
+- Criticized concept [(Esteva, etc.)]{.gray}:
+
+  - Who decides what counts as 'developed'?
+
+  - Do all countries need to follow the West's path?
+
+- Extensions: imposing western values (eg on gender, capitalism)
+
+- In this class: narrow perspective on economic wellbeing
+
+## Measurement
+
+- Development: sometimes proxied by [GDP]{.blue}
+
+  - Total value created in a jurisdiction over a time period
+
+  - Not the same as household income/wage, but close
+
+  - Doesn't tell us about distribution of income
+
+- Development: sometimes proxied by [Human Development Index]{.blue} (HDI)
+
+  - Schooling + GNI (similar to GDP) + Life expectancy
+
+- GDP vs. HDI
+
+##
+
+- So: welfare = economic growth/development?
+
+- Ultimately: matter of [personal values]{.blue}
+
+  - Eg religion, politics, etc.
+
+- In practice: large shares of populations appear to value economic development (revealed preferences)
+
+- Why? Economic development correlates with many desirable things -->
+
+<!-- ## 
+
+::: {#fig-height layout-ncol=2}
+
+![Figure: Our World in Data. Source: Bank of England.](materials/GDP-per-capita-in-the-uk-since-1270.png)
+
+![Source: Clark (2008), _A Farewell to Alms_.](materials/male-heights-from-skeletons-in-europe-1-2000-clark.png)
+
+Height
+:::
+
+## Nutrition
+
+![Source: Ecker, Breisinger, and Pauw 2011.](materials/EckerBreisingerPauw2011.png) -->
+
+<!-- 
 ##
 
 ```{r}
@@ -354,8 +348,8 @@ ylab("Life expectancy") +
 theme(legend.position="none")
 
 ```
-
-
+ -->
+<!-- 
 ##
 
 ```{r}
@@ -383,29 +377,62 @@ xlab("GDP per capita") +
 ylab("Literacy (%)") +
 theme(legend.position="none")
 
-```
+``` 
+-->
+<!-- 
+##
 
-# Conclusion
+![Source: Oulton 2012.](materials/Oulton2012_fig1.png)
 
-Covered lots of ground!
+##
 
-- [Technology]{.red}, [development]{.red}, and [welfare]{.red} are connected
+![Source: Oulton 2012.](materials/Oulton2012_fig2.png)
 
-- If you care about [consequences]{.red}, then you should care about technology
 
-- Whether a technology is desirable depends on your ethical beliefs
+## Happiness
 
-  - Does it help the [average]{.blue} person (Bentham, Mills)?
+- Happiness: end goal?
 
-  - Does it empower the [poorest]{.blue} (Dworkin, Rawls, Sen)?
+  - Locke: yes!
 
-- In practice: we generally rely on shortcuts to measure welfare
+  - Bentham: yes!
 
-  - Average GDP (utilitarianism)
+  - US declaration of indepence: yes!
 
-  - Distribution of income (egalitarianism)
+- Does happiness increase with economic development? 
 
-  - Range of additional factors (literacy, health, etc.)
+  - Yes [within and across countries]{.blue}
+
+  - Not [over time]{.blue}
+
+  - = Paradox of happiness [(Easterlin 1974)]{.gray}
+
+  - One explanation: hedonic treadmill
+
+## Individual effect of income
+
+![Source: Easterlin and Angelescu 2009.](materials/EasterlinAngelescu2009.png)
+
+## Aggregate effect of income over time
+
+![Source: Easterlin and Angelescu 2009.](materials/EasterlinAngelescu2009_fig6.png)
+
+## Summary so far
+
+1. What we want: improve people's [welfare]{.red}
+
+  - Reason: welfare is plausibly a **just** goal!
+
+2. What determines welfare? [Economic growth/development]{.red}
+
+  - Welfare could be equated to well-being
+
+  - Development correlates highly with well-being
+
+  - Thus: development is probably good!
+
+3. How do we get development? [Technological innovations]{.red} -->
+
 
 # Questions?
 

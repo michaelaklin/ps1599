@@ -14,44 +14,451 @@ title-slide-attributes:
     data-background-image: https://mymodernmet.com/wp/wp-content/uploads/2018/06/realism-art-3.jpg
     data-background-opacity: "0.4"
 editor: visual
+bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
 ---
+
+## Admin
+
+- Office hours
+
+- Email
+
+- Website (slides)
+
+##
 
 ::: {.r-fit-text}
 [What did we talk about last time?]{.red}
 :::
 
-## Plan for today
+## Today
 
 - Last time: 
-  - Good reasons to care about development
-  - Development can be (imperfectly) proxied with economic and social measures
-- Today: 
-  - History global development 
+  - Welfare can be a legitimate goal for humankind
+- Today (and next week): 
+  - Definition of welfare (+measurement)
+  - History global/European development 
   - Connection to technology
+
 
 <!-- Theme: 
 
 -->
 
+# Welfare: definition and measurement
+
+##
+
+- Welfare = good
+
+- True for both [utilitarianism]{.red} and [egalitarianism]{.red}
+
+- Okay, but _what_ is welfare?
+
+- In practice: vastly diverging views. 
+
+##
+
+::: {.r-fit-text}
+How would you [define]{.blue}
+:::
+
+::: {.r-fit-text}
+(and [measure]{.blue}) [welfare]{.red}?
+:::
+
+##
+
+- Not an academic question
+
+- Two approaches to define welfare
+
+- 1st: [subjective]{.blue}. Let people say what makes them "well"
+
+- [Pros]{.blue}: flexible, respectful of personal views
+
+- [Cons]{.blue}: 
+
+  - Are all personal views legitimate in society?
+  - Hard to measure
+
+##
+
+- 2nd approach: [objective]{.blue}. Decide for all of us what is 'legitimate' welfare.
+
+- Potential candidates: physical wellbeing, happiness, equality of opportunity, access to resources, etc
+  
+- [Pros]{.blue}: avoids 'bad' preferences; can be measured
+
+- [Cons]{.blue}: defines welfare in a narrow way (spiritual? etc.)
+
+## Two things to note...
+
+- 1. These obj measures can be equated to ["development"]{.red}
+
+- [Narrow]{.red} version: how modern an economy is
+
+- [Amartya Sen]{.red}'s version: economic opportunities + political freedom + protection from extreme poverty
+
+- [Broad]{.red} version: adds social stuff (gender rights, etc.)
+
+- Often [criticized]{.blue}: western-centric, materialistic
+
+- Often [measured]{.blue} by the [Human Development Index]{.blue}: schooling + GNI (similar to GDP) + life expectancy
+
+##
+
+- 2. Most of these measures can be proxied by [economic growth]{.red}
+
+- Often measured by GDP: 
+
+  - Value of goods+services produced in a jurisdiction during a certain time
+
+  - Eg GDP of Pennsylvania for 2022 is $722b
+
+- Note:
+
+  - Not the same as household income/wage, but close
+
+  - Doesn't tell us about [distribution]{.red} of income
+
+  - Economic growth $\neq$ development
+
+
+##  Physical well-being
+
+::: {#fig-height layout-ncol=2}
+
+![Figure: Our World in Data. Source: Bank of England.](materials/GDP-per-capita-in-the-uk-since-1270.png)
+
+![Source: @clark2008farewell.](materials/male-heights-from-skeletons-in-europe-1-2000-clark.png)
+
+Height
+:::
+
+## 
+
+![Nutrition. Source: @ecker2011growth.](materials/EckerBreisingerPauw2011.png)
+
+##
+
+```{r}
+#| fig-cap: "GDP per capita and life expectancy. Figure: Aklin. Source: WDI."
+library(tidyverse)
+library(WDI)
+
+data.wdi = WDI(indicator = c("gdp.cap" = "NY.GDP.PCAP.KD",
+"life.exp" = "SP.DYN.LE00.IN", "infant.mortality" = "SP.DYN.IMRT.IN", "literacy"="SE.ADT.1524.LT.ZS"),
+    start = 1960,
+    end = 2020,
+    extra = FALSE,
+    cache = NULL,
+    latest = NULL,
+    language = "en")
+
+data.wdi %>% ggplot(aes(x=log(gdp.cap), y=as.numeric(life.exp), color=country)) + 
+geom_smooth(span=1, se=F) +
+theme_bw() +
+xlab("GDP per capita") +
+ylab("Life expectancy") +
+theme(legend.position="none")
+
+```
+
+
+##
+
+```{r}
+#| fig-cap: "GDP per capita and infant mortality (death per 1,000 births). Figure: Aklin. Source: WDI."
+
+data.wdi %>% ggplot(aes(x=log(gdp.cap), y=infant.mortality, color=country)) + 
+geom_smooth(se=F) +
+theme_bw() +
+xlab("GDP per capita") +
+ylab("Infant mortality (per 1k births)") +
+theme(legend.position="none")
+
+```
+
+##
+
+![Source: @oulton2012hooray.](materials/Oulton2012_fig1.png)
+
+##
+
+![Source: @oulton2012hooray.](materials/Oulton2012_fig2.png)
+
+
+## Opportunities
+
+```{r}
+#| fig-cap: "GDP per capita and literacy. Figure: Aklin. Source: WDI."
+
+data.wdi %>% ggplot(aes(x=log(gdp.cap), y=literacy, color=country)) + 
+geom_smooth(span=1, se=F) +
+theme_bw() +
+xlab("GDP per capita") +
+ylab("Literacy (%)") +
+theme(legend.position="none")
+
+```
+
+<!-- ##
+
+![HDI 2022. Source: wiki.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2021-22_UN_Human_Development_Report.svg/2880px-2021-22_UN_Human_Development_Report.svg.png) -->
+
+## Happiness
+
+- Happiness: end goal?
+
+  - Locke: yes! Bentham: yes!
+
+  - US declaration of indepence: yes!
+
+  - But remember: could be happy for bad reasons
+
+- Does happiness increase with economic development? 
+
+  - Yes [within and across countries]{.blue}
+
+  - Not [over time]{.blue}
+
+  - = Paradox of happiness [(Easterlin 1974)]{.gray}
+
+  - One explanation: hedonic treadmill
+
+## Individual effect of income
+
+![Source: Easterlin and Angelescu 2009.](materials/EasterlinAngelescu2009.png)
+
+## Aggregate effect of income over time
+
+![Source: Easterlin and Angelescu 2009.](materials/EasterlinAngelescu2009_fig6.png)
+
+## Summary so far
+
+- a. What we want: improve people's [welfare]{.red}
+
+  - Reason: welfare is plausibly a **just** goal!
+
+- b. What determines welfare? [Economic growth/development]{.red}
+
+  - Welfare could be equated to well-being
+
+  - Development correlates highly with well-being
+
+  - Thus: development is probably good!
+
+- c. How do we get development? [Technological innovations]{.red}
+
+
+
+
 # History of development
 
-## Pre-modern era
+## Development vs growth
 
-## Critical moment 1: mid-1600s
+- [Growth]{.blue}: increase in prod and diversity of goods and services
 
-Global trade
+- [Development]{.blue}: deep econ transformation (+pol & social)
 
-Development of science: experimental science, theoretical science (probability theory)
+  - Example: shift from manufacturing to services
 
-## Critical moment 2: late 1700s
+- Note:
 
-Political revolution (US, France)
+  - Growth w/o development is possible
 
-1st Industrial Revolution
+  - Development w/o growth is possible
 
-Energy revolution
+  - But the two are generally connected
 
-## GDP take-off
+##
+
+- Development is continuous, but two critical junctures
+
+1. Neolithic period ("Stone Age") (~12,000 BCE)
+
+2. Industrial revolution (~1760-1890s)
+
+# 1. Neolithic revolution
+
+## Pre-neolithic period
+
+- Early homo sapiens: nomadic hunter-gatherers
+
+- Strong limits on population growth
+
+  - Europe: 1 person needed ~4 sq miles
+
+  - Tropical regions: 1 person needed 0.4 sq m
+
+- [Implications?]{.red}
+
+- Small tribes, no surplus, few activities outside of food, no trade, no innovation
+
+## Neolithic period
+
+![Source: @matranga2022.](materials/Matranga2022.png)
+
+New [technology]{.red}: agriculture [(@Bairoch1997)]{.gray}
+
+
+
+##
+
+- [Causes]{.blue}: climatic change 
+
+  - End of [Last Glacial Period]{.blue} (~12,000 BCE)
+
+  - Higher temperatures = harder to hunt
+
+  - Longer dry season: need food that can be stored
+
+- Additional causes: social development, property rights (animals, storage, gardens)
+
+::: footer
+@mccorriston1991ecology, @bowles2019neolithic
+:::
+
+##
+
+![Source: @bowles2019neolithic](materials/BowlesChoice2019.png)
+
+
+## Consequences of Neolithic revolution
+
+- Short term: few benefits (smaller, more joint health issues)
+
+- Long term: radical transformation...
+
+- [Population]{.blue}: agri surplus $\rightarrow$ larger pop
+
+- [Labor]{.blue}: non-farming jobs (crafts, trade)
+
+- [Social]{.blue}: development of [cities]{.blue}: Middle East: ~3500 BCE, Harrapa (Punjab, India): ~2000 BCE, China: ~1400 BCE
+
+- [Laws]{.blue} and [institutions]{.blue}: Hammurabi code (1750 BCE), common defense, taxes, etc.
+
+- Civilizations Mesopotamia, Egypt, Greece, Rome
+
+:::footer
+@matranga2022, @Bairoch1997
+:::
+
+# 2. Industrial revolution
+
+## 
+
+- Period of profound [economic]{.blue}, [social]{.blue}, [political]{.blue} transformations (1760-1890)
+
+- Shift from agriculture to industry
+
+  - 1st Industrial rev: ~1760-1800
+
+  - 2nd Industrial rev: 1860-1890
+
+  - Since then: 3rd and 4th IR
+
+- Enabled by new energy tech & services: steam, coal, oil, electricity
+
+## England
+
+|                  | 1500 | 1700 | 1900 | 1950 |
+|---------        |------|------|------|------|
+| Calories        |       1.8k | 2.2k | 3k  | 3.1k |
+| Life expectancy |       34  |  38 |  46 | 69 |
+| Location        |  Rural |  Rural  | Rural | Urban |
+| Literacy rate   | 5-15% | ~50% | 90%+ | 95%+ |
+
+:::footer
+@broadberry2015british (calories), Our World in Data (literacy), @klein2010long (urbanization), @zijdeman2014life (life expectancy)
+:::
+
+## Context
+
+- Neolithic to 1600s: no big trend in living standards for median
+
+- Does _not_ mean stability (Black Death:~-50%, Thirty Years War: 4-8m deaths; climate shocks)
+
+- Does _not_ mean [stagnation]{.blue}. Many innovations!
+
+- Medieval Europe:
+
+  - Trade: global trade network (Asia, Americas)
+
+  - Capitalism: banking, accounting, money
+
+  - Technology: agri, paper, medical science, universities
+
+::: footer
+@le1992medieval, @Greif1993, @cesana2017origin
+:::
+
+##
+
+- Change centered around western Europe starting in 1600s ("[Age of Reason]{.red}")
+
+  - Science: physics, statistics, philosophy (Hume, Descartes)
+
+  - Modern state (property rights+law, "proto-democracy")
+
+  - Markets
+
+:::footer
+@Bairoch1997, @mokyr2018british, @North1991
+:::
+
+## 1st Industrial revolution
+
+- Starts in UK, 1760s
+
+- Driven by new [innovations]{.red} in [energy]{.red}
+
+- Cause(s)
+
+:::footer
+@mokyr2018british, @allen2009british
+:::
+
+## 2nd Industrial revolution
+
+## 
+
+::: {.r-fit-text}
+What were the [consequences]{.red} 
+:::
+
+::: {.r-fit-text}
+of the 2nd Industrial revolution?
+:::
+
+## World is becoming small
+
+![Isochrome map of US. Source: Atlas of the historical geography of the United States](materials/Atlas_hist_geo_us.png)
+
+##
+
+![Isochrome map of France](materials/distance_map_france_extract.png)
+
+## Some consequences
+
+- [Labor market]{.blue}. Eg:
+
+  - UK w/ train station $\rightarrow$ pop growth + shift male workers away from agriculture
+
+  - Germany: train tracks $\rightarrow$ pop growth for bigger parishes 
+
+- Erasure of local [culture]{.blue}. Eg France: 50% of pop doesn't speak French in 1789
+
+- [Urbanization]{.blue}: working class, marxism, demand for social protection, education
+
+:::footer
+@bogart2022railways, @braun_franke_2022, @hobsbawm2012nations
+:::
+
+## 3rd Industrial revolution
+
+## What's next?
 
 ## GDP/capita since 1950
 
@@ -74,6 +481,65 @@ theme_bw() +
 theme(legend.position="none") 
 ```
 
+
+
+# Conclusion
+
+- [Development]{.blue} $\neq$ economic growth and $\neq$ [linear]{.blue}
+
+- Two key moments: ~12,000 BCE and 1760-1890
+
+  - Neolithic revolution
+  - Industrial revolution
+
+- Both: dramatic changes for humanity caused by [technology]{.red}
+
+  - Agriculture (Neolithic)
+  - Energy (Industrial revolution)
+
+- Next: the [side effects]{.blue} of the Industrial revolution
+
+
+# Questions?
+
+aklin@pitt.edu
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<font size="5">Source for title page painting: Jean-François Millet, "The Gleaners"</font>
+
+
+## References{.scrollable .smaller}
+
+
+
+<!-- 
+
+## Critical moment 1: mid-1600s
+
+Global trade
+
+Development of science: experimental science, theoretical science (probability theory)
+
+## Critical moment 2: late 1700s
+
+Political revolution (US, France)
+
+1st Industrial Revolution
+
+Energy revolution
+
+## GDP take-off
+
+## GDP/capita since 1950 -->
+
+<!-- 
 
 ## Deep social changes
 
@@ -171,4 +637,4 @@ aklin@pitt.edu
 
 <br>
 
-<font size="5">Source for title page painting: Jean-François Millet, "The Gleaners"</font>
+<font size="5">Source for title page painting: Jean-François Millet, "The Gleaners"</font> -->

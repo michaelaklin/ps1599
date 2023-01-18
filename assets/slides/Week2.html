@@ -28,6 +28,25 @@
       margin: 0 0.8em 0.2em -1.6em;
       vertical-align: middle;
     }
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+    }
+    .hanging div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }
   </style>
   <link rel="stylesheet" href="Week2_files/libs/revealjs/dist/theme/quarto.css" id="theme">
   <link href="Week2_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
@@ -339,23 +358,31 @@ Michaël Aklin
 </div>
 
 </section>
-<section class="slide level2 center">
-
+<section id="admin" class="slide level2 center">
+<h2>Admin</h2>
+<ul>
+<li class="fragment"><p>Office hours</p></li>
+<li class="fragment"><p>Email</p></li>
+<li class="fragment"><p>Website (slides)</p></li>
+</ul>
+</section>
+<section id="section" class="slide level2 center">
+<h2></h2>
 <div class="r-fit-text">
 <p><span class="red">What did we talk about last time?</span></p>
 </div>
 </section>
-<section id="plan-for-today" class="slide level2 center">
-<h2>Plan for today</h2>
+<section id="today" class="slide level2 center">
+<h2>Today</h2>
 <ul>
 <li class="fragment">Last time:
 <ul>
-<li class="fragment">Good reasons to care about development</li>
-<li class="fragment">Development can be (imperfectly) proxied with economic and social measures</li>
+<li class="fragment">Welfare can be a legitimate goal for humankind</li>
 </ul></li>
-<li class="fragment">Today:
+<li class="fragment">Today (and next week):
 <ul>
-<li class="fragment">History global development</li>
+<li class="fragment">Definition of welfare (+measurement)</li>
+<li class="fragment">History global/European development</li>
 <li class="fragment">Connection to technology</li>
 </ul></li>
 </ul>
@@ -364,106 +391,443 @@ Michaël Aklin
 -->
 </section>
 <section>
+<section id="welfare-definition-and-measurement" class="title-slide slide level1 center">
+<h1>Welfare: definition and measurement</h1>
+
+</section>
+<section id="section-1" class="slide level2 center">
+<h2></h2>
+<ul>
+<li class="fragment"><p>Welfare = good</p></li>
+<li class="fragment"><p>True for both <span class="red">utilitarianism</span> and <span class="red">egalitarianism</span></p></li>
+<li class="fragment"><p>Okay, but <em>what</em> is welfare?</p></li>
+<li class="fragment"><p>In practice: vastly diverging views.</p></li>
+</ul>
+</section>
+<section id="section-2" class="slide level2 center">
+<h2></h2>
+<div class="r-fit-text">
+<p>How would you <span class="blue">define</span></p>
+</div>
+<div class="r-fit-text">
+<p>(and <span class="blue">measure</span>) <span class="red">welfare</span>?</p>
+</div>
+</section>
+<section id="section-3" class="slide level2 center">
+<h2></h2>
+<ul>
+<li class="fragment"><p>Not an academic question</p></li>
+<li class="fragment"><p>Two approaches to define welfare</p></li>
+<li class="fragment"><p>1st: <span class="blue">subjective</span>. Let people say what makes them “well”</p></li>
+<li class="fragment"><p><span class="blue">Pros</span>: flexible, respectful of personal views</p></li>
+<li class="fragment"><p><span class="blue">Cons</span>:</p>
+<ul>
+<li class="fragment">Are all personal views legitimate in society?</li>
+<li class="fragment">Hard to measure</li>
+</ul></li>
+</ul>
+</section>
+<section id="section-4" class="slide level2 center">
+<h2></h2>
+<ul>
+<li class="fragment"><p>2nd approach: <span class="blue">objective</span>. Decide for all of us what is ‘legitimate’ welfare.</p></li>
+<li class="fragment"><p>Potential candidates: physical wellbeing, happiness, equality of opportunity, access to resources, etc</p></li>
+<li class="fragment"><p><span class="blue">Pros</span>: avoids ‘bad’ preferences; can be measured</p></li>
+<li class="fragment"><p><span class="blue">Cons</span>: defines welfare in a narrow way (spiritual? etc.)</p></li>
+</ul>
+</section>
+<section id="two-things-to-note" class="slide level2 center">
+<h2>Two things to note…</h2>
+<ul>
+<li class="fragment"><ol type="1">
+<li class="fragment">These obj measures can be equated to <span class="red">“development”</span></li>
+</ol></li>
+<li class="fragment"><p><span class="red">Narrow</span> version: how modern an economy is</p></li>
+<li class="fragment"><p><span class="red">Amartya Sen</span>’s version: economic opportunities + political freedom + protection from extreme poverty</p></li>
+<li class="fragment"><p><span class="red">Broad</span> version: adds social stuff (gender rights, etc.)</p></li>
+<li class="fragment"><p>Often <span class="blue">criticized</span>: western-centric, materialistic</p></li>
+<li class="fragment"><p>Often <span class="blue">measured</span> by the <span class="blue">Human Development Index</span>: schooling + GNI (similar to GDP) + life expectancy</p></li>
+</ul>
+</section>
+<section id="section-5" class="slide level2 center">
+<h2></h2>
+<ul>
+<li class="fragment"><ol start="2" type="1">
+<li class="fragment">Most of these measures can be proxied by <span class="red">economic growth</span></li>
+</ol></li>
+<li class="fragment"><p>Often measured by GDP:</p>
+<ul>
+<li class="fragment"><p>Value of goods+services produced in a jurisdiction during a certain time</p></li>
+<li class="fragment"><p>Eg GDP of Pennsylvania for 2022 is $722b</p></li>
+</ul></li>
+<li class="fragment"><p>Note:</p>
+<ul>
+<li class="fragment"><p>Not the same as household income/wage, but close</p></li>
+<li class="fragment"><p>Doesn’t tell us about <span class="red">distribution</span> of income</p></li>
+<li class="fragment"><p>Economic growth <span class="math inline">\(\neq\)</span> development</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="physical-well-being" class="slide level2 center">
+<h2>Physical well-being</h2>
+<div id="fig-height" class="quarto-layout-panel">
+<figure>
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="materials/GDP-per-capita-in-the-uk-since-1270.png"></p>
+<p></p><figcaption>Figure: Our World in Data. Source: Bank of England.</figcaption><p></p>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell" style="flex-basis: 50.0%;justify-content: center;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="materials/male-heights-from-skeletons-in-europe-1-2000-clark.png"></p>
+<p></p><figcaption>Source: <span class="citation" data-cites="clark2008farewell">Clark (<a href="#/references" role="doc-biblioref" onclick="">2008</a>)</span>.</figcaption><p></p>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption>Figure&nbsp;1: Height</figcaption><p></p>
+</figure>
+</div>
+</section>
+<section id="section-6" class="slide level2 center">
+<h2></h2>
+
+<img data-src="materials/EckerBreisingerPauw2011.png" class="r-stretch quarto-figure-center"><p class="caption">Nutrition. Source: <span class="citation" data-cites="ecker2011growth">Ecker, Breisinger, and Pauw (<a href="#/references" role="doc-biblioref" onclick="">2011</a>)</span>.</p></section>
+<section id="section-7" class="slide level2 center">
+<h2></h2>
+
+<img data-src="Week2_files/figure-revealjs/unnamed-chunk-1-1.png" width="960" class="r-stretch quarto-figure-center"><p class="caption">GDP per capita and life expectancy. Figure: Aklin. Source: WDI.</p></section>
+<section id="section-8" class="slide level2 center">
+<h2></h2>
+
+<img data-src="Week2_files/figure-revealjs/unnamed-chunk-2-1.png" width="960" class="r-stretch quarto-figure-center"><p class="caption">GDP per capita and infant mortality (death per 1,000 births). Figure: Aklin. Source: WDI.</p></section>
+<section id="section-9" class="slide level2 center">
+<h2></h2>
+
+<img data-src="materials/Oulton2012_fig1.png" class="r-stretch quarto-figure-center"><p class="caption">Source: <span class="citation" data-cites="oulton2012hooray">Oulton (<a href="#/references" role="doc-biblioref" onclick="">2012</a>)</span>.</p></section>
+<section id="section-10" class="slide level2 center">
+<h2></h2>
+
+<img data-src="materials/Oulton2012_fig2.png" class="r-stretch quarto-figure-center"><p class="caption">Source: <span class="citation" data-cites="oulton2012hooray">Oulton (<a href="#/references" role="doc-biblioref" onclick="">2012</a>)</span>.</p></section>
+<section id="opportunities" class="slide level2 center">
+<h2>Opportunities</h2>
+
+<!-- ##
+
+![HDI 2022. Source: wiki.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2021-22_UN_Human_Development_Report.svg/2880px-2021-22_UN_Human_Development_Report.svg.png) -->
+<img data-src="Week2_files/figure-revealjs/unnamed-chunk-3-1.png" width="960" class="r-stretch quarto-figure-center"><p class="caption">GDP per capita and literacy. Figure: Aklin. Source: WDI.</p></section>
+<section id="happiness" class="slide level2 center">
+<h2>Happiness</h2>
+<ul>
+<li class="fragment"><p>Happiness: end goal?</p>
+<ul>
+<li class="fragment"><p>Locke: yes! Bentham: yes!</p></li>
+<li class="fragment"><p>US declaration of indepence: yes!</p></li>
+<li class="fragment"><p>But remember: could be happy for bad reasons</p></li>
+</ul></li>
+<li class="fragment"><p>Does happiness increase with economic development?</p>
+<ul>
+<li class="fragment"><p>Yes <span class="blue">within and across countries</span></p></li>
+<li class="fragment"><p>Not <span class="blue">over time</span></p></li>
+<li class="fragment"><p>= Paradox of happiness <span class="gray">(Easterlin 1974)</span></p></li>
+<li class="fragment"><p>One explanation: hedonic treadmill</p></li>
+</ul></li>
+</ul>
+</section>
+<section id="individual-effect-of-income" class="slide level2 center">
+<h2>Individual effect of income</h2>
+
+<img data-src="materials/EasterlinAngelescu2009.png" class="r-stretch quarto-figure-center"><p class="caption">Source: Easterlin and Angelescu 2009.</p></section>
+<section id="aggregate-effect-of-income-over-time" class="slide level2 center">
+<h2>Aggregate effect of income over time</h2>
+
+<img data-src="materials/EasterlinAngelescu2009_fig6.png" class="r-stretch quarto-figure-center"><p class="caption">Source: Easterlin and Angelescu 2009.</p></section>
+<section id="summary-so-far" class="slide level2 center">
+<h2>Summary so far</h2>
+<ul>
+<li class="fragment"><ol type="a">
+<li class="fragment">What we want: improve people’s <span class="red">welfare</span></li>
+</ol>
+<ul>
+<li class="fragment">Reason: welfare is plausibly a <strong>just</strong> goal!</li>
+</ul></li>
+<li class="fragment"><ol start="2" type="a">
+<li class="fragment">What determines welfare? <span class="red">Economic growth/development</span></li>
+</ol>
+<ul>
+<li class="fragment"><p>Welfare could be equated to well-being</p></li>
+<li class="fragment"><p>Development correlates highly with well-being</p></li>
+<li class="fragment"><p>Thus: development is probably good!</p></li>
+</ul></li>
+<li class="fragment"><ol start="3" type="a">
+<li class="fragment">How do we get development? <span class="red">Technological innovations</span></li>
+</ol></li>
+</ul>
+</section></section>
+<section>
 <section id="history-of-development" class="title-slide slide level1 center">
 <h1>History of development</h1>
 
 </section>
-<section id="pre-modern-era" class="slide level2 center">
-<h2>Pre-modern era</h2>
-</section>
-<section id="critical-moment-1-mid-1600s" class="slide level2 center">
-<h2>Critical moment 1: mid-1600s</h2>
-<p>Global trade</p>
-<p>Development of science: experimental science, theoretical science (probability theory)</p>
-</section>
-<section id="critical-moment-2-late-1700s" class="slide level2 center">
-<h2>Critical moment 2: late 1700s</h2>
-<p>Political revolution (US, France)</p>
-<p>1st Industrial Revolution</p>
-<p>Energy revolution</p>
-</section>
-<section id="gdp-take-off" class="slide level2 center">
-<h2>GDP take-off</h2>
-</section>
-<section id="gdpcapita-since-1950" class="slide level2 center">
-<h2>GDP/capita since 1950</h2>
-
-<img data-src="Week2_files/figure-revealjs/unnamed-chunk-1-1.png" width="960" class="r-stretch quarto-figure-center"><p class="caption">GDP per capita. Figure: Aklin. Data source: Penn World Tables.</p></section>
-<section id="deep-social-changes" class="slide level2 center">
-<h2>Deep social changes</h2>
-<p>Urbanization</p>
-</section>
-<section id="critical-moment-3-midlate-1800s" class="slide level2 center">
-<h2>Critical moment 3: mid/late-1800s</h2>
+<section id="development-vs-growth" class="slide level2 center">
+<h2>Development vs growth</h2>
 <ul>
-<li class="fragment"><p>2nd Industrial Revolution</p></li>
-<li class="fragment"><p>New boundaries thanks to new technologies</p></li>
-<li class="fragment"><p>Transportation</p>
+<li class="fragment"><p><span class="blue">Growth</span>: increase in prod and diversity of goods and services</p></li>
+<li class="fragment"><p><span class="blue">Development</span>: deep econ transformation (+pol &amp; social)</p>
 <ul>
-<li class="fragment">Railroads</li>
-<li class="fragment">Steamboats</li>
+<li class="fragment">Example: shift from manufacturing to services</li>
 </ul></li>
-<li class="fragment"><p>Other infrastructures</p>
+<li class="fragment"><p>Note:</p>
 <ul>
-<li class="fragment">Electricity</li>
+<li class="fragment"><p>Growth w/o development is possible</p></li>
+<li class="fragment"><p>Development w/o growth is possible</p></li>
+<li class="fragment"><p>But the two are generally connected</p></li>
 </ul></li>
-<li class="fragment"><p>Electricity (lighting, factories)</p></li>
 </ul>
+</section>
+<section id="section-11" class="slide level2 center">
+<h2></h2>
+<ul>
+<li class="fragment">Development is continuous, but two critical junctures</li>
+</ul>
+<ol type="1">
+<li class="fragment"><p>Neolithic period (“Stone Age”) (~12,000 BCE)</p></li>
+<li class="fragment"><p>Industrial revolution (~1760-1890s)</p></li>
+</ol>
+</section></section>
+<section>
+<section id="neolithic-revolution" class="title-slide slide level1 center">
+<h1>1. Neolithic revolution</h1>
+
+</section>
+<section id="pre-neolithic-period" class="slide level2 center">
+<h2>Pre-neolithic period</h2>
+<ul>
+<li class="fragment"><p>Early homo sapiens: nomadic hunter-gatherers</p></li>
+<li class="fragment"><p>Strong limits on population growth</p>
+<ul>
+<li class="fragment"><p>Europe: 1 person needed ~4 sq miles</p></li>
+<li class="fragment"><p>Tropical regions: 1 person needed 0.4 sq m</p></li>
+</ul></li>
+<li class="fragment"><p><span class="red">Implications?</span></p></li>
+<li class="fragment"><p>Small tribes, no surplus, few activities outside of food, no trade, no innovation</p></li>
+</ul>
+</section>
+<section id="neolithic-period" class="slide level2 center">
+<h2>Neolithic period</h2>
+
+<img data-src="materials/Matranga2022.png" class="r-stretch quarto-figure-center"><p class="caption">Source: <span class="citation" data-cites="matranga2022">Matranga (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span>.</p><p>New <span class="red">technology</span>: agriculture <span class="gray">(<span class="citation" data-cites="Bairoch1997">Bairoch (<a href="#/references" role="doc-biblioref" onclick="">1997</a>)</span>)</span></p>
+</section>
+<section id="section-12" class="slide level2 center">
+<h2></h2>
+<ul>
+<li class="fragment"><p><span class="blue">Causes</span>: climatic change</p>
+<ul>
+<li class="fragment"><p>End of <span class="blue">Last Glacial Period</span> (~12,000 BCE)</p></li>
+<li class="fragment"><p>Higher temperatures = harder to hunt</p></li>
+<li class="fragment"><p>Longer dry season: need food that can be stored</p></li>
+</ul></li>
+<li class="fragment"><p>Additional causes: social development, property rights (animals, storage, gardens)</p></li>
+</ul>
+<div class="footer">
+<p><span class="citation" data-cites="mccorriston1991ecology">McCorriston and Hole (<a href="#/references" role="doc-biblioref" onclick="">1991</a>)</span>, <span class="citation" data-cites="bowles2019neolithic">Bowles and Choi (<a href="#/references" role="doc-biblioref" onclick="">2019</a>)</span></p>
+</div>
+</section>
+<section id="section-13" class="slide level2 center">
+<h2></h2>
+
+<img data-src="materials/BowlesChoice2019.png" class="r-stretch quarto-figure-center"><p class="caption">Source: <span class="citation" data-cites="bowles2019neolithic">Bowles and Choi (<a href="#/references" role="doc-biblioref" onclick="">2019</a>)</span></p></section>
+<section id="consequences-of-neolithic-revolution" class="slide level2 center">
+<h2>Consequences of Neolithic revolution</h2>
+<ul>
+<li class="fragment"><p>Short term: few benefits (smaller, more joint health issues)</p></li>
+<li class="fragment"><p>Long term: radical transformation…</p></li>
+<li class="fragment"><p><span class="blue">Population</span>: agri surplus <span class="math inline">\(\rightarrow\)</span> larger pop</p></li>
+<li class="fragment"><p><span class="blue">Labor</span>: non-farming jobs (crafts, trade)</p></li>
+<li class="fragment"><p><span class="blue">Social</span>: development of <span class="blue">cities</span>: Middle East: ~3500 BCE, Harrapa (Punjab, India): ~2000 BCE, China: ~1400 BCE</p></li>
+<li class="fragment"><p><span class="blue">Laws</span> and <span class="blue">institutions</span>: Hammurabi code (1750 BCE), common defense, taxes, etc.</p></li>
+<li class="fragment"><p>Civilizations Mesopotamia, Egypt, Greece, Rome</p></li>
+</ul>
+<div class="footer">
+<p><span class="citation" data-cites="matranga2022">Matranga (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span>, <span class="citation" data-cites="Bairoch1997">Bairoch (<a href="#/references" role="doc-biblioref" onclick="">1997</a>)</span></p>
+</div>
+</section></section>
+<section>
+<section id="industrial-revolution" class="title-slide slide level1 center">
+<h1>2. Industrial revolution</h1>
+
+</section>
+<section id="section-14" class="slide level2 center">
+<h2></h2>
+<ul>
+<li class="fragment"><p>Period of profound <span class="blue">economic</span>, <span class="blue">social</span>, <span class="blue">political</span> transformations (1760-1890)</p></li>
+<li class="fragment"><p>Shift from agriculture to industry</p>
+<ul>
+<li class="fragment"><p>1st Industrial rev: ~1760-1800</p></li>
+<li class="fragment"><p>2nd Industrial rev: 1860-1890</p></li>
+<li class="fragment"><p>Since then: 3rd and 4th IR</p></li>
+</ul></li>
+<li class="fragment"><p>Enabled by new energy tech &amp; services: steam, coal, oil, electricity</p></li>
+</ul>
+</section>
+<section id="england" class="slide level2 center">
+<h2>England</h2>
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th>1500</th>
+<th>1700</th>
+<th>1900</th>
+<th>1950</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Calories</td>
+<td>1.8k</td>
+<td>2.2k</td>
+<td>3k</td>
+<td>3.1k</td>
+</tr>
+<tr class="even">
+<td>Life expectancy</td>
+<td>34</td>
+<td>38</td>
+<td>46</td>
+<td>69</td>
+</tr>
+<tr class="odd">
+<td>Location</td>
+<td>Rural</td>
+<td>Rural</td>
+<td>Rural</td>
+<td>Urban</td>
+</tr>
+<tr class="even">
+<td>Literacy rate</td>
+<td>5-15%</td>
+<td>~50%</td>
+<td>90%+</td>
+<td>95%+</td>
+</tr>
+</tbody>
+</table>
+<div class="footer">
+<p><span class="citation" data-cites="broadberry2015british">Broadberry et al. (<a href="#/references" role="doc-biblioref" onclick="">2015</a>)</span> (calories), Our World in Data (literacy), <span class="citation" data-cites="klein2010long">Klein Goldewijk, Beusen, and Janssen (<a href="#/references" role="doc-biblioref" onclick="">2010</a>)</span> (urbanization), <span class="citation" data-cites="zijdeman2014life">Zijdeman and Silva (<a href="#/references" role="doc-biblioref" onclick="">2014</a>)</span> (life expectancy)</p>
+</div>
+</section>
+<section id="context" class="slide level2 center">
+<h2>Context</h2>
+<ul>
+<li class="fragment"><p>Neolithic to 1600s: no big trend in living standards for median</p></li>
+<li class="fragment"><p>Does <em>not</em> mean stability (Black Death:~-50%, Thirty Years War: 4-8m deaths; climate shocks)</p></li>
+<li class="fragment"><p>Does <em>not</em> mean <span class="blue">stagnation</span>. Many innovations!</p></li>
+<li class="fragment"><p>Medieval Europe:</p>
+<ul>
+<li class="fragment"><p>Trade: global trade network (Asia, Americas)</p></li>
+<li class="fragment"><p>Capitalism: banking, accounting, money</p></li>
+<li class="fragment"><p>Technology: agri, paper, medical science, universities</p></li>
+</ul></li>
+</ul>
+<div class="footer">
+<p><span class="citation" data-cites="le1992medieval">Le Goff (<a href="#/references" role="doc-biblioref" onclick="">1992</a>)</span>, <span class="citation" data-cites="Greif1993">Greif (<a href="#/references" role="doc-biblioref" onclick="">1993</a>)</span>, <span class="citation" data-cites="cesana2017origin">Cesana, Benedictow, and Bianucci (<a href="#/references" role="doc-biblioref" onclick="">2017</a>)</span></p>
+</div>
+</section>
+<section id="section-15" class="slide level2 center">
+<h2></h2>
+<ul>
+<li class="fragment"><p>Change centered around western Europe starting in 1600s (“<span class="red">Age of Reason</span>”)</p>
+<ul>
+<li class="fragment"><p>Science: physics, statistics, philosophy (Hume, Descartes)</p></li>
+<li class="fragment"><p>Modern state (property rights+law, “proto-democracy”)</p></li>
+<li class="fragment"><p>Markets</p></li>
+</ul></li>
+</ul>
+<div class="footer">
+<p><span class="citation" data-cites="Bairoch1997">Bairoch (<a href="#/references" role="doc-biblioref" onclick="">1997</a>)</span>, <span class="citation" data-cites="mokyr2018british">Mokyr (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span>, <span class="citation" data-cites="North1991">North (<a href="#/references" role="doc-biblioref" onclick="">1991</a>)</span></p>
+</div>
+</section>
+<section id="st-industrial-revolution" class="slide level2 center">
+<h2>1st Industrial revolution</h2>
+<ul>
+<li class="fragment"><p>Starts in UK, 1760s</p></li>
+<li class="fragment"><p>Driven by new <span class="red">innovations</span> in <span class="red">energy</span></p></li>
+<li class="fragment"><p>Cause(s)</p></li>
+</ul>
+<div class="footer">
+<p><span class="citation" data-cites="mokyr2018british">Mokyr (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span>, <span class="citation" data-cites="allen2009british">Allen (<a href="#/references" role="doc-biblioref" onclick="">2009</a>)</span></p>
+</div>
+</section>
+<section id="nd-industrial-revolution" class="slide level2 center">
+<h2>2nd Industrial revolution</h2>
+</section>
+<section id="section-16" class="slide level2 center">
+<h2></h2>
+<div class="r-fit-text">
+<p>What were the <span class="red">consequences</span></p>
+</div>
+<div class="r-fit-text">
+<p>of the 2nd Industrial revolution?</p>
+</div>
 </section>
 <section id="world-is-becoming-small" class="slide level2 center">
 <h2>World is becoming small</h2>
 
 <img data-src="materials/Atlas_hist_geo_us.png" class="r-stretch quarto-figure-center"><p class="caption">Isochrome map of US. Source: Atlas of the historical geography of the United States</p></section>
-<section id="section" class="slide level2 center">
+<section id="section-17" class="slide level2 center">
 <h2></h2>
 
 <img data-src="materials/distance_map_france_extract.png" class="r-stretch quarto-figure-center"><p class="caption">Isochrome map of France</p></section>
-<section id="section-1" class="slide level2 center">
-<h2></h2>
-<p>Consequences of transportation technology revolution</p>
+<section id="some-consequences" class="slide level2 center">
+<h2>Some consequences</h2>
 <ul>
-<li class="fragment"><p><span class="blue">Job market</span>. Eg UK: towns that received a train station <span class="math inline">\(\rightarrow\)</span> population growth + shift male workers away from agriculture</p></li>
-<li class="fragment"><p>Erasure of local <span class="blue">culture</span>. Eg France: 50% of pop doesn’t speak French in 1789 <span class="gray">(Hobsbawm 1990)</span></p></li>
+<li class="fragment"><p><span class="blue">Labor market</span>. Eg:</p>
+<ul>
+<li class="fragment"><p>UK w/ train station <span class="math inline">\(\rightarrow\)</span> pop growth + shift male workers away from agriculture</p></li>
+<li class="fragment"><p>Germany: train tracks <span class="math inline">\(\rightarrow\)</span> pop growth for bigger parishes</p></li>
+</ul></li>
+<li class="fragment"><p>Erasure of local <span class="blue">culture</span>. Eg France: 50% of pop doesn’t speak French in 1789</p></li>
+<li class="fragment"><p><span class="blue">Urbanization</span>: working class, marxism, demand for social protection, education</p></li>
 </ul>
+<div class="footer">
+<p><span class="citation" data-cites="bogart2022railways">Bogart et al. (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span>, <span class="citation" data-cites="braun_franke_2022">Braun and Franke (<a href="#/references" role="doc-biblioref" onclick="">2022</a>)</span>, <span class="citation" data-cites="hobsbawm2012nations">Hobsbawm (<a href="#/references" role="doc-biblioref" onclick="">2012</a>)</span></p>
+</div>
 </section>
-<section id="critical-moment-4" class="slide level2 center">
-<h2>Critical moment 4</h2>
-</section></section>
-<section id="development-and-technology" class="title-slide slide level1 center">
-<h1>Development and technology</h1>
+<section id="rd-industrial-revolution" class="slide level2 center">
+<h2>3rd Industrial revolution</h2>
+</section>
+<section id="whats-next" class="slide level2 center">
+<h2>What’s next?</h2>
+</section>
+<section id="gdpcapita-since-1950" class="slide level2 center">
+<h2>GDP/capita since 1950</h2>
 
+<img data-src="Week2_files/figure-revealjs/unnamed-chunk-4-1.png" width="960" class="r-stretch quarto-figure-center"><p class="caption">GDP per capita. Figure: Aklin. Data source: Penn World Tables.</p></section></section>
+<section id="conclusion" class="title-slide slide level1 center">
+<h1>Conclusion</h1>
+<ul>
+<li class="fragment"><p><span class="blue">Development</span> <span class="math inline">\(\neq\)</span> economic growth and <span class="math inline">\(\neq\)</span> <span class="blue">linear</span></p></li>
+<li class="fragment"><p>Two key moments: ~12,000 BCE and 1760-1890</p>
+<ul>
+<li class="fragment">Neolithic revolution</li>
+<li class="fragment">Industrial revolution</li>
+</ul></li>
+<li class="fragment"><p>Both: dramatic changes for humanity caused by <span class="red">technology</span></p>
+<ul>
+<li class="fragment">Agriculture (Neolithic)</li>
+<li class="fragment">Energy (Industrial revolution)</li>
+</ul></li>
+<li class="fragment"><p>Next: the <span class="blue">side effects</span> of the Industrial revolution</p></li>
+</ul>
 </section>
 
 <section>
-<section id="conclusion" class="title-slide slide level1 center">
-<h1>Conclusion</h1>
-
-</section>
-<section id="section-2" class="slide level2 center">
-<h2></h2>
-<ul>
-<li class="fragment"><p>If you care about <span class="red">consequences</span> (consequentialism)…</p></li>
-<li class="fragment"><p>If the consequences you care is <span class="red">welfare</span> (welfarism)</p></li>
-<li class="fragment"><p>If you define welfare in terms of (economic) <span class="red">development</span> (material or not)…</p></li>
-<li class="fragment"><p>Then you will need <span class="red">technological innovations</span></p></li>
-</ul>
-</section>
-<section id="section-3" class="slide level2 center">
-<h2></h2>
-<p>Ideal society</p>
-<div class="fragment">
-<p><span class="math inline">\(\downarrow\)</span></p>
-<p>Welfare</p>
-</div>
-<div class="fragment">
-<p><span class="math inline">\(\downarrow\)</span></p>
-<p>Development</p>
-</div>
-<div class="fragment">
-<p><span class="math inline">\(\downarrow\)</span></p>
-<p>Technology</p>
-</div>
-</section></section>
 <section id="questions" class="title-slide slide level1 center">
 <h1>Questions?</h1>
 <p>aklin@pitt.edu</p>
@@ -472,11 +836,191 @@ Michaël Aklin
 <p><br></p>
 <p><br></p>
 <p><font size="5">Source for title page painting: Jean-François Millet, “The Gleaners”</font></p>
+</section>
+<section id="references" class="slide level2 scrollable smaller">
+<h2>References</h2>
+<!-- 
+
+## Critical moment 1: mid-1600s
+
+Global trade
+
+Development of science: experimental science, theoretical science (probability theory)
+
+## Critical moment 2: late 1700s
+
+Political revolution (US, France)
+
+1st Industrial Revolution
+
+Energy revolution
+
+## GDP take-off
+
+## GDP/capita since 1950 -->
+<!-- 
+
+## Deep social changes
+
+Urbanization
+
+
+## Critical moment 3: mid/late-1800s
+
+- 2nd Industrial Revolution
+
+- New boundaries thanks to new technologies
+
+
+- Transportation
+  - Railroads
+  - Steamboats
+- Other infrastructures
+  - Electricity
+- Electricity (lighting, factories)
+
+## World is becoming small
+
+
+![Isochrome map of US. Source: Atlas of the historical geography of the United States](materials/Atlas_hist_geo_us.png)
+
+##
+
+![Isochrome map of France](materials/distance_map_france_extract.png)
+
+##
+
+Consequences of transportation technology revolution
+
+- [Job market]{.blue}. Eg:
+
+  - UK: towns that received a train station $\rightarrow$ population growth + shift male workers away from agriculture ([Bogart et al 2022]{.gray})
+
+  - Germany: train tracks $\rightarrow$ population growth, but only for parishes that were already bigger and more advanced ([Braun and Franke 2022]{.gray})
+
+- Erasure of local [culture]{.blue}. Eg France: 50% of pop doesn't speak French in 1789 [(Hobsbawm 1990)]{.gray}
+
+
+## Critical moment 4
+
+
+# Development and technology
+
+
+
+
+# Conclusion
+
+##
+
+- If you care about [consequences]{.red} (consequentialism)...
+
+- If the consequences you care is [welfare]{.red} (welfarism)
+
+- If you define welfare in terms of (economic) [development]{.red} (material or not)...
+
+- Then you will need [technological innovations]{.red}
+
+##
+
+Ideal society 
+
+. . .
+
+$\downarrow$ 
+
+Welfare 
+
+. . .
+
+$\downarrow$ 
+
+Development 
+
+. . .
+
+$\downarrow$  
+
+Technology
+
+
+# Questions?
+
+aklin@pitt.edu
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<font size="5">Source for title page painting: Jean-François Millet, "The Gleaners"</font> -->
 
 <img src="materials/PASU_Logo.png" class="slide-logo r-stretch"><div class="footer footer-default">
 
 </div>
-</section>
+<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-allen2009british" class="csl-entry" role="doc-biblioentry">
+Allen, Robert C. 2009. <em>The British Industrial Revolution in Global Perspective</em>. Cambridge University Press.
+</div>
+<div id="ref-Bairoch1997" class="csl-entry" role="doc-biblioentry">
+Bairoch, Paul. 1997. <em>Victoires Et d<span>é</span>boires</em>. folio.
+</div>
+<div id="ref-bogart2022railways" class="csl-entry" role="doc-biblioentry">
+Bogart, Dan, Xuesheng You, Eduard J Alvarez-Palau, Max Satchell, and Leigh Shaw-Taylor. 2022. <span>“Railways, Divergence, and Structural Change in 19th Century England and Wales.”</span> <em>Journal of Urban Economics</em> 128: 103390.
+</div>
+<div id="ref-bowles2019neolithic" class="csl-entry" role="doc-biblioentry">
+Bowles, Samuel, and Jung-Kyoo Choi. 2019. <span>“The Neolithic Agricultural Revolution and the Origins of Private Property.”</span> <em>Journal of Political Economy</em> 127 (5): 2186–2228.
+</div>
+<div id="ref-braun_franke_2022" class="csl-entry" role="doc-biblioentry">
+Braun, Sebastian Till, and Richard Franke. 2022. <span>“Railways, Growth, and Industrialization in a Developing German Economy, 1829–1910.”</span> <em>Journal of Economic History</em> 82 (4): 1183–1221.
+</div>
+<div id="ref-broadberry2015british" class="csl-entry" role="doc-biblioentry">
+Broadberry, Stephen, Bruce MS Campbell, Alexander Klein, Mark Overton, and Bas Van Leeuwen. 2015. <em>British Economic Growth, 1270–1870</em>. Cambridge University Press.
+</div>
+<div id="ref-cesana2017origin" class="csl-entry" role="doc-biblioentry">
+Cesana, Deneb, Ole J Benedictow, and Raffaella Bianucci. 2017. <span>“The Origin and Early Spread of the Black Death in Italy: First Evidence of Plague Victims from 14th-Century Liguria (Northern Italy).”</span> <em>Anthropological Science</em>, 161011.
+</div>
+<div id="ref-clark2008farewell" class="csl-entry" role="doc-biblioentry">
+Clark, Gregory. 2008. <span>“A Farewell to Alms.”</span> In <em>A Farewell to Alms</em>. Princeton University Press.
+</div>
+<div id="ref-ecker2011growth" class="csl-entry" role="doc-biblioentry">
+Ecker, Olivier, Clemens Breisinger, and Karl Pauw. 2011. <span>“Growth Is Good, but Not Enough to Improve Nutrition.”</span>
+</div>
+<div id="ref-Greif1993" class="csl-entry" role="doc-biblioentry">
+Greif, Avner. 1993. <span>“Contract Enforceability and Economic Institutions in Early Trade: The Maghribi Traders’ Coalition.”</span> <em>American Economic Review</em> 83 (3): 525–48.
+</div>
+<div id="ref-hobsbawm2012nations" class="csl-entry" role="doc-biblioentry">
+Hobsbawm, Eric J. 2012. <em>Nations and Nationalism Since 1780: Programme, Myth, Reality</em>. Cambridge University Press.
+</div>
+<div id="ref-klein2010long" class="csl-entry" role="doc-biblioentry">
+Klein Goldewijk, Kees, Arthur Beusen, and Peter Janssen. 2010. <span>“Long-Term Dynamic Modeling of Global Population and Built-up Area in a Spatially Explicit Way: HYDE 3.1.”</span> <em>The Holocene</em> 20 (4): 565–73.
+</div>
+<div id="ref-le1992medieval" class="csl-entry" role="doc-biblioentry">
+Le Goff, Jacques. 1992. <em>The Medieval Imagination</em>. University of Chicago Press.
+</div>
+<div id="ref-matranga2022" class="csl-entry" role="doc-biblioentry">
+Matranga, Andrea. 2022. <span>“The Ant and the Grasshopper: Seasonality and the Invention of Agriculture.”</span>
+</div>
+<div id="ref-mccorriston1991ecology" class="csl-entry" role="doc-biblioentry">
+McCorriston, Joy, and Frank Hole. 1991. <span>“The Ecology of Seasonal Stress and the Origins of Agriculture in the Near East.”</span> <em>American Anthropologist</em> 93 (1): 46–69.
+</div>
+<div id="ref-mokyr2018british" class="csl-entry" role="doc-biblioentry">
+Mokyr, Joel. 2018. <em>The British Industrial Revolution: An Economic Perspective</em>. Routledge.
+</div>
+<div id="ref-North1991" class="csl-entry" role="doc-biblioentry">
+North, Douglass C. 1991. <span>“Institutions.”</span> <em>Journal of Economic Perspectives</em> 5 (1): 97–112.
+</div>
+<div id="ref-oulton2012hooray" class="csl-entry" role="doc-biblioentry">
+Oulton, Nicholas. 2012. <span>“Hooray for GDP!”</span>
+</div>
+<div id="ref-zijdeman2014life" class="csl-entry" role="doc-biblioentry">
+Zijdeman, Richard L, and Filipa Ribeiro de Silva. 2014. <span>“Life Expectancy Since 1820.”</span> In <em>How Was Life? Global Well-Being Since 1820</em>.
+</div>
+</div>
+</section></section>
     </div>
   </div>
 

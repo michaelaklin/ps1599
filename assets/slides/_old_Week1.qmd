@@ -1,0 +1,422 @@
+---
+title: "Analysis of IR"
+subtitle: "PS 1599 | Week 1: Welfare"
+institute: "University of Pittsburgh"
+author: "Michaël Aklin"
+format:
+  revealjs:
+    incremental: true
+    theme: [white, revealjs_customization.scss]
+    logo: materials/PASU_Logo.png
+    center: true
+    chalkboard: false
+    slide-number: true
+    embed-resources: true
+title-slide-attributes: 
+    data-background-image: https://upload.wikimedia.org/wikipedia/commons/1/13/VReumerswale_Money_Changers_Hermitage.jpg
+    data-background-opacity: "0.4"
+editor: visual
+---
+
+<!-- # Welfare
+
+##
+
+::: {.r-fit-text}
+What did we talk about last time?
+:::
+
+## Plan for today -->
+
+<!-- Theme: 
+Goals of society: deontology vs consequentialism
+Two forms of consequentialism
+Conclusion: we often want to generate the best consequences
+What consequences? Happiness (=utility)!
+But: doesn't work that great. Nepal. Trump paradox.
+Instead: human development. Amartya Sen: development as freedom
+But: complicated.
+Instead: GDP!
+Thus: centrality of development for our societies.
+-->
+
+
+::: {.r-fit-text}
+Since you woke up...
+:::
+
+::: {.r-fit-text}
+which of the items/services you used
+:::
+
+:::{.r-fit-text}
+[existed in 1900]{.red}?
+:::
+
+::: {.r-fit-text}
+And which ones [didn't]{.red}?
+:::
+
+## Why a focus on technology?
+
+- Technology has expanded what we can consume
+
+  - Richer = more goods/services
+
+  - Bigger diversity in goods/services
+
+  - Example: cars
+
+- Tech is essential for (economic) [development]{.red}
+
+- Yet concept of development is [controversial]{.blue}: western-centric, consumerism, materialism
+
+- What is the solution? No tech? More tech? Better tech?
+
+:::{.notes}
+Anecdote of opapa
+Anecdote of talk at Toronto+Amish
+:::
+
+## To answer all these questions...
+
+This semester will proceed in three steps:
+
+1. Explain the connections between [technology]{.red}, [development]{.red}, [sustainability]{.red}, and why we (could) want all of these
+
+2. Obstacles to sustainable tech
+
+3. "Big picture": the big challenges ahead
+
+# Part I: Welfare, technology, and sustainability
+
+<!-- Plan today:
+
+- Clarify why we care about development
+
+- Understand that we could care about other things
+
+- Define what development is and how to measure it -->
+
+##
+
+Why do we care about development?
+
+- Link: technology $\rightarrow$ development $\rightarrow$ welfare
+
+- Thus: if you want to increase welfare, need to understand barriers to technology
+
+- Two problems with this:
+
+  1. Why should we prioritize welfare?
+
+  2. Why should welfare be measured by development?
+
+
+# 1. Why welfare?
+
+- Need to think about [ethics]{.red} of our societies
+
+- Three main families of views on an [ideal]{.blue} society looks like [(Bueno de Mesquita et al 2016)]{.gray}
+
+##
+
+![](/materials/ethics1.png)
+
+##
+
+![](/materials/ethics2.png)
+
+##
+
+![](/materials/ethics3.png)
+
+##
+
+![](/materials/ethics4.png)
+
+##
+
+![](/materials/ethics5.png)
+
+
+## 1. Consequentialism
+
+- Idea: what matters is the [consequences]{.red} of our actions
+
+- Colloquially: ends justify the means
+
+- Question: what constitutes a 'good' outcome/consequence?
+
+-  Main views:
+
+  1. Utilitarianism
+
+  2. Egalitarianism
+
+## 1.1. Utilitarianism
+
+<q>Utilitarianism is the view that what matters morally is utility, or happiness, and that the right action in any situation is that which maximizes the total amount of it there is. [(Swift 2013)]{.gray}</q>
+
+- Jeremy Bentham (1748–1832): "the greatest happiness of the greatest number"
+
+- J.S. Mill: utility instead of happiness
+
+- What determines utility?
+
+- **Thus: if utility=consumption, then development is 'good' goal**
+
+- **Corollary**: tech is justified when it helps development
+
+## 
+
+[Can you think of reasons to disagree with utilitarianism?]{.red}
+
+## Key concerns
+
+- Do the ends justify the means?
+
+- How to deal with perverse preferences?
+
+- How can we measure utility?
+
+## 1.2. Egalitarianism
+
+- Egalitarians agree that consequences is what matters
+
+- Egalitarians disagree that it's about average or total welfare. What matters is its [distribution]{.red}
+
+- Extreme version: equality of outcomes
+
+- **Thus: development is okay when it reduces inequality**
+
+- Variants
+
+  - Equality of opportunities and resources (R Dworkin)
+
+  - Rawls and Sen
+
+## Rawls
+
+- John Rawls (1921-2002)
+
+- Equality is [rational]{.red}
+
+- Reason: that's what society would pick [behind a veil of ignorance]{.blue}
+
+- (Note: criticized by John Harsanyi and others)
+
+- Inequality is tolerable [only]{.blue} if it helps the most disadvantaged ([difference principle]{.red})
+
+- **Thus: development is essential when it helps the poor**
+
+## Sen
+
+- Amartya Sen (1933-)
+
+- [Freedom]{.red} is a moral imperative
+
+- (Different from libertarianism)
+
+- To be truly free: need capabilities
+
+- Eg being poor, illiterate w/o gov isn't freedom
+
+- **Thus: development is essential for freedom**
+
+## 2. Other ethical schools
+
+- Virtue ethics. 
+  - Ethics is a personal matter
+  - As such: not particularly relevant to us
+
+- Kantian deontology
+
+  - What matters are [actions]{.red}, not [consequences]{.red}
+
+  - Just actions are those that are universal and rational ([categorical imperative]{.red})
+
+  - Major challenge against consequentialism
+
+## Summary so far
+
+- Many reasons to criticize the idea of [development]{.red}
+
+- However, good reasons to be in favor...
+
+- Good for [aggregate welfare]{.red} (utilitarianism)
+
+- Strengthens [individual freedom]{.red} (Sen)
+
+- Caveats when it increase [inequality]{.red} (egalitarianism)...
+
+- Even then: okay if it lifts everyone up (Rawls)
+
+. . .
+
+$\rightarrow$ [We will assume that development is generally desirable]{.blue}
+
+. . .
+
+[(... when it is sustainable)]{.blue}
+
+# 2. Definition and measurement of development
+
+## 
+
+::: {.r-fit-text}
+[How would you measure welfare (and development)?]{.red}
+:::
+
+::: {.nonincremental}
+- (Note that welfare$\neq$development)
+
+- Welfare: possible ideal of a society
+
+- Development: one way to achieve this ideal
+:::
+
+## 1st approach
+
+- Measure people's 'utility'
+
+- Problem: how do you do this in practice? 
+
+- One attempt: Gross National Happiness (Bhutan)
+
+- Problems:
+
+  - Hard to measure
+
+  - Is happiness always legitimate?
+
+##
+
+![Source: 538.](materials/538_economy.webp)
+
+## 2nd approach
+
+- Assume you know what people want
+
+- Seems weird but consistant with Sen's capability approach
+
+- Example: Human Development Index (HDI) combines
+
+  - Life expectancy
+
+  - Years of schooling
+
+  - Gross National Income (GNI). Variant of GDP: total value created in a jurisdiction over a time period (eg country-year).
+
+##
+
+![HDI 2022. Source: wiki.](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/2021-22_UN_Human_Development_Report.svg/2880px-2021-22_UN_Human_Development_Report.svg.png)
+
+
+## In practice
+
+- In practice: GDP/GNI tell us a lot already (more in a sec)
+
+- Note: not perfect by any means!
+
+  - GDP doesn't tell you what goods are available
+
+  - GDP doesn't distinguish between coal plants and solar farm
+
+  - GDP can go up with destruction of wealth
+
+  - GDP doesn't measure well new technologies (eg wikipedia)
+
+- But note: HDI isn't perfect either (eg HK)
+
+
+##
+
+```{r}
+#| fig-cap: "GDP per capita and life expectancy. Figure: Aklin. Source: WDI."
+library(tidyverse)
+library(WDI)
+
+data.wdi = WDI(indicator = c("gdp.cap" = "NY.GDP.PCAP.KD",
+"life.exp" = "SP.DYN.LE00.IN", "infant.mortality" = "SP.DYN.IMRT.IN", "literacy"="SE.ADT.1524.LT.ZS"),
+    start = 1960,
+    end = 2020,
+    extra = FALSE,
+    cache = NULL,
+    latest = NULL,
+    language = "en")
+
+data.wdi %>% ggplot(aes(x=log(gdp.cap), y=as.numeric(life.exp), color=country)) + 
+geom_smooth(span=1, se=F) +
+theme_bw() +
+xlab("GDP per capita") +
+ylab("Life expectancy") +
+theme(legend.position="none")
+
+```
+
+
+##
+
+```{r}
+#| fig-cap: "GDP per capita and infant mortality (death per 1,000 births). Figure: Aklin. Source: WDI."
+
+data.wdi %>% ggplot(aes(x=log(gdp.cap), y=infant.mortality, color=country)) + 
+geom_smooth(se=F) +
+theme_bw() +
+xlab("GDP per capita") +
+ylab("Infant mortality (per 1k births)") +
+theme(legend.position="none")
+
+```
+
+
+##
+
+```{r}
+#| fig-cap: "GDP per capita and literacy. Figure: Aklin. Source: WDI."
+
+data.wdi %>% ggplot(aes(x=log(gdp.cap), y=literacy, color=country)) + 
+geom_smooth(span=1, se=F) +
+theme_bw() +
+xlab("GDP per capita") +
+ylab("Literacy (%)") +
+theme(legend.position="none")
+
+```
+
+# Conclusion
+
+Covered lots of ground!
+
+- [Technology]{.red}, [development]{.red}, and [welfare]{.red} are connected
+
+- If you care about [consequences]{.red}, then you should care about technology
+
+- Whether a technology is desirable depends on your ethical beliefs
+
+  - Does it help the [average]{.blue} person (Bentham, Mills)?
+
+  - Does it empower the [poorest]{.blue} (Dworkin, Rawls, Sen)?
+
+- In practice: we generally rely on shortcuts to measure welfare
+
+  - Average GDP (utilitarianism)
+
+  - Distribution of income (egalitarianism)
+
+  - Range of additional factors (literacy, health, etc.)
+
+# Questions?
+
+aklin@pitt.edu
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<font size="5">Source for title page painting: Quentin Matsys, _The Money Changer and His Wife_</font>
