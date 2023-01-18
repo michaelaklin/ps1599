@@ -86,7 +86,7 @@ How would you [define]{.blue}
 
 - 2nd approach: [objective]{.blue}. Decide for all of us what is 'legitimate' welfare.
 
-- Potential candidates: physical wellbeing, happiness, equality of opportunity, access to resources, etc
+- Potential candidates: physical well-being, happiness, equality of opportunity, access to resources, etc
   
 - [Pros]{.blue}: avoids 'bad' preferences; can be measured
 
@@ -96,7 +96,7 @@ How would you [define]{.blue}
 
 - 1. These obj measures can be equated to ["development"]{.red}
 
-- [Narrow]{.red} version: how modern an economy is
+- [Narrow]{.red} version: how "modern" an economy is
 
 - [Amartya Sen]{.red}'s version: economic opportunities + political freedom + protection from extreme poverty
 
@@ -108,11 +108,11 @@ How would you [define]{.blue}
 
 ##
 
-- 2. Most of these measures can be proxied by [economic growth]{.red}
+- 2. Most measures can be proxied by [economic growth]{.red}
 
 - Often measured by GDP: 
 
-  - Value of goods+services produced in a jurisdiction during a certain time
+  - Value of goods+services produced in a region over time
 
   - Eg GDP of Pennsylvania for 2022 is $722b
 
@@ -129,7 +129,7 @@ How would you [define]{.blue}
 
 ::: {#fig-height layout-ncol=2}
 
-![Figure: Our World in Data. Source: Bank of England.](materials/GDP-per-capita-in-the-uk-since-1270.png)
+![Figure: OwD. Source: Bank of England.](materials/GDP-per-capita-in-the-uk-since-1270.png)
 
 ![Source: @clark2008farewell.](materials/male-heights-from-skeletons-in-europe-1-2000-clark.png)
 
@@ -249,7 +249,7 @@ theme(legend.position="none")
 
   - Thus: development is probably good!
 
-- c. How do we get development? [Technological innovations]{.red}
+- Next Q: how do we get development? 
 
 
 
@@ -278,7 +278,7 @@ theme(legend.position="none")
 
 1. Neolithic period ("Stone Age") (~12,000 BCE)
 
-2. Industrial revolution (~1760-1890s)
+2. Industrial revolution(s) (~1760-1890s)
 
 # 1. Neolithic revolution
 
@@ -300,7 +300,7 @@ theme(legend.position="none")
 
 ![Source: @matranga2022.](materials/Matranga2022.png)
 
-New [technology]{.red}: agriculture [(@Bairoch1997)]{.gray}
+$\rightarrow$ New [technology]{.red}: agriculture [[@Bairoch1997]]{.gray}
 
 
 
@@ -349,17 +349,19 @@ New [technology]{.red}: agriculture [(@Bairoch1997)]{.gray}
 
 ## 
 
-- Period of profound [economic]{.blue}, [social]{.blue}, [political]{.blue} transformations (1760-1890)
+- Misnomer... 
+
+- Period of profound [economic]{.blue} (sup & dem), [social]{.blue}, [political]{.blue} transformations
 
 - Shift from agriculture to industry
 
-  - 1st Industrial rev: ~1760-1800
+  - 1st Industrial rev: ~1760-1830 (UK)
 
-  - 2nd Industrial rev: 1860-1890
+  - 2nd Industrial rev: 1880-1890
 
   - Since then: 3rd and 4th IR
 
-- Enabled by new energy tech & services: steam, coal, oil, electricity
+- Enabled by new energy tech: steam, coal, oil, electricity
 
 ## England
 
@@ -369,20 +371,19 @@ New [technology]{.red}: agriculture [(@Bairoch1997)]{.gray}
 | Life expectancy |       34  |  38 |  46 | 69 |
 | Location        |  Rural |  Rural  | Rural | Urban |
 | Literacy rate   | 5-15% | ~50% | 90%+ | 95%+ |
+| Cities >500k    | 2 | 7 | 44 | |
 
 :::footer
-@broadberry2015british (calories), Our World in Data (literacy), @klein2010long (urbanization), @zijdeman2014life (life expectancy)
+@broadberry2015british (calories), OWD (literacy), @klein2010long (urbanization), @zijdeman2014life (life expectancy), @Bairoch1997 (cities)
 :::
 
-## Context
+## Context: Medieval times and Renaissance
 
-- Neolithic to 1600s: no big trend in living standards for median
+- Neolithic to 1600s: no clear trend in living standards for median
 
-- Does _not_ mean stability (Black Death:~-50%, Thirty Years War: 4-8m deaths; climate shocks)
+- Does _not_ mean [stability]{.blue} (eg Black Death:~-50%)
 
-- Does _not_ mean [stagnation]{.blue}. Many innovations!
-
-- Medieval Europe:
+- Does _not_ mean [stagnation]{.blue}
 
   - Trade: global trade network (Asia, Americas)
 
@@ -390,19 +391,24 @@ New [technology]{.red}: agriculture [(@Bairoch1997)]{.gray}
 
   - Technology: agri, paper, medical science, universities
 
+- But few [permanent]{.blue} changes
+
 ::: footer
 @le1992medieval, @Greif1993, @cesana2017origin
 :::
 
-##
+## 1600s
 
 - Change centered around western Europe starting in 1600s ("[Age of Reason]{.red}")
 
-  - Science: physics, statistics, philosophy (Hume, Descartes)
+- Expansion of regional+global markets (goods, finance)
 
-  - Modern state (property rights+law, "proto-democracy")
+- Growth of science: physics, statistics, philosophy
 
-  - Markets
+- Development of modern state (property rights+law, "proto-democracy")
+
+- But little change in welfare
+
 
 :::footer
 @Bairoch1997, @mokyr2018british, @North1991
@@ -410,11 +416,80 @@ New [technology]{.red}: agriculture [(@Bairoch1997)]{.gray}
 
 ## 1st Industrial revolution
 
-- Starts in UK, 1760s
+- Starts in UK, 1760s-1830s 
 
-- Driven by new [innovations]{.red} in [energy]{.red}
+- Expansion of [industrial prod]{.red}
 
-- Cause(s)
+- [Productivity growth]{.red} (output per worker/h) 
+
+  - Cotton, wool, iron, machinery
+
+  - Importance of a driver of growth!
+
+- Three steps
+
+  1. Tech change in a small sector (eg cotton) ([industrialization]{.red})
+
+  2. That sector becomes more important overall
+
+  3. Tech spills over to other sectors
+
+:::footer
+@mokyr2018british
+:::
+
+## Broader view
+
+- Not just goods. Transformation (from Austen to Dickens)...
+
+- Local to impersonal markets ("[social change]{.red}" school; Polanyi)
+
+- Local to national economies ("[macroeconomic]{.red}" school; Kuznets)
+
+- Household prod to firms ("[industrial organization]{.red}" school; Marx)
+
+- Technology for labor and capital ("[technology]{.red}" school; Landes)
+
+
+:::footer
+@mokyr2018british, @allen2009british
+:::
+
+## Major impact
+
+- Overall improvements of life quality
+
+- Ambiguous short-term impact (wages, growth)
+
+- Long-term decline of rural areas
+
+- Emergence of urban poor ("proletariat")
+
+- Expansion of public services for labor
+
+  - Schools
+
+  - Health
+
+## Deep causes
+
+- Hard to ascertain
+
+- Hypotheses: 
+
+  - "Culture" (Max Weber, etc.)? But Belgium...
+
+  - Colonies? Small and poor...
+
+  - Political institutions? But Netherlands...
+
+  - Energy? Netherlands vs. Belgium...
+
+- Critical role played by changes in 
+
+  - Agriculture: weaker demand
+
+  - Industry: stronger demand
 
 :::footer
 @mokyr2018british, @allen2009british
@@ -422,7 +497,25 @@ New [technology]{.red}: agriculture [(@Bairoch1997)]{.gray}
 
 ## 2nd Industrial revolution
 
-## 
+- 1st IR: low growth. 
+
+- Not surprising:
+
+  - Industry is small at the time
+
+  - Innovations take time (eg internet)
+
+- 2nd half of 1800s: 
+
+  - 2nd generation of innovations
+
+  - Transportation infrastructures (trains)
+
+  - Energy infrastructures (grid) (factories, HH)
+
+## Impact
+
+##
 
 ::: {.r-fit-text}
 What were the [consequences]{.red} 
@@ -431,6 +524,8 @@ What were the [consequences]{.red}
 ::: {.r-fit-text}
 of the 2nd Industrial revolution?
 :::
+
+## Consequences
 
 ## World is becoming small
 
@@ -456,6 +551,7 @@ of the 2nd Industrial revolution?
 @bogart2022railways, @braun_franke_2022, @hobsbawm2012nations
 :::
 
+<!-- 
 ## 3rd Industrial revolution
 
 ## What's next?
@@ -480,8 +576,8 @@ ylab("GDP per capita") +
 theme_bw() +
 theme(legend.position="none") 
 ```
-
-
+ -->
+<!-- 
 
 # Conclusion
 
@@ -498,7 +594,7 @@ theme(legend.position="none")
   - Energy (Industrial revolution)
 
 - Next: the [side effects]{.blue} of the Industrial revolution
-
+ -->
 
 # Questions?
 
