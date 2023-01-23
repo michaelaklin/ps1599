@@ -131,8 +131,6 @@ Growth (and development) can happen in four ways
 @le1992medieval, @Greif1993, @cesana2017origin
 :::
 
-
-
 ## 1600s
 
 - Change in W Europe starting around 1600s ([Enlightenment]{.red})
@@ -151,11 +149,6 @@ Growth (and development) can happen in four ways
 :::
 
 
-
-:::footer
-@mokyr2018british
-:::
-
 ## 1st Industrial revolution
 
 - Schumpetarian process
@@ -164,22 +157,47 @@ Growth (and development) can happen in four ways
 
 - Rapid [productivity growth]{.red} (output per worker/year) 
 
-- Three steps
+  - More goods and products available
 
-  1. [Tech]{.red} change in small sectors ([industrialization]{.red} via [mechanization]{.red}): cotton, iron, etc.
+  - Declining prices of such goods
 
-  2. These sectors become more important overall
+  - Shift from agriculture to manufactuing ([industrialization]{.red})
 
-  3. After decades: technology spills over to other sectors
+  - Eventually: large increase in GDP and welfare
+
+## How?
+
+![Source: @goldsmith2014long.](./materials/Goldsmith2014.png)
+
+
+## How?
+
+Three steps
+
+- [Tech]{.red} change in small sectors ([mechanization]{.red}): 
+
+  - Textiles. Cotton and "spinning Jenny"
+
+  - Minnig. Coal, steam engine, deep mining.
+
+  - Metalurgy. Coal, blast furnace.
+
+- These sectors become more important overall
+
+  - Size of the economy
+
+  - Urban workers
+
+- Later: technological [spillovers]{.red} (learning)
 
 :::footer
 @mokyr2018british
 :::
 
-## Broader view
+## Broader impact
 <!-- view{.smaller} -->
 
-- Not just about goods. Transformation...
+- Not just about goods. Austen to Dickens...
 
 - Local to impersonal markets ("[social change]{.red}" school; Polanyi)
 
@@ -189,7 +207,7 @@ Growth (and development) can happen in four ways
 
 - Technology for labor and capital ("[technology]{.red}" school; Landes)
 
-- From Austen to Dickens...
+
 
 :::footer
 @mokyr2018british, @allen2009british
@@ -199,10 +217,11 @@ Growth (and development) can happen in four ways
 ## Deep causes
 
 <!-- - Hard to ascertain -->
+- Tech was key...
+
+- But what triggered its development?
 
 - Why UK 1760s? Mystery! Hypotheses: 
-
-  - "Culture" (Max Weber, etc.)? But Belgium...
 
   - Colonies? Small and poor...
 
@@ -210,13 +229,15 @@ Growth (and development) can happen in four ways
 
   - Energy? Netherlands vs. Belgium...
 
-- Critical role played by changes in 
+  - "Culture" (Max Weber, etc.)? But Belgium...
+
+<!-- - Critical role played by changes in 
 
   - Agriculture: weaker demand for workers
 
   - Industry: stronger demand for consumer goods
 
-  - Technology
+  - Technology -->
 
 :::footer
 @mokyr2018british, @allen2009british
@@ -225,13 +246,13 @@ Growth (and development) can happen in four ways
 
 ## Major consequences
 
-- Short term
+- [Short term]{.blue}
 
   - Period of low growth (!)
 
   - Low wages (!) and urban poor ("proletariat")
 
-- Long term
+- [Long term]{.blue}
 
   - Improvements in life quality
 
@@ -250,7 +271,7 @@ Growth (and development) can happen in four ways
 
 - 2nd generation of innovations
 
-  1. Transportation infrastructures (trains)
+  1. Transportation infrastructures (trains, steam boat)
 
   2. Energy infrastructures (eg grid) for [mass production]{.red}
 
