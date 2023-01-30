@@ -55,10 +55,15 @@ advdate <- function(obj, adv) {
   
 # Alternative way to to citations:
 library(RefManageR)
-bib = ReadBib("~/Dropbox/BibLibrary.bib")
-BibOptions(bib.style = "authoryear", style="latex", first.inits=FALSE, max.names = 20)
+# bib = ReadBib("~/Dropbox/BibLibrary.bib")
+# BibOptions(bib.style = "authoryear", style="latex", first.inits=FALSE, max.names = 20)
+# ref = function(key) {
+#     capture.output(bib[key], style = "text")
+# }
+
+bib = bibtex::read.bib("~/Dropbox/BibLibrary.bib")
 ref = function(key) {
-    capture.output(bib[key])
+    format(bib[key], style = "text")
 }
 
 ```

@@ -23,6 +23,8 @@ Administration
 
 - Emails
 
+- COVID
+
 - Website
 
 - Question?
@@ -33,355 +35,242 @@ Administration
 What did we talk about last time?
 :::
 
-## Plan for today
 
-- In theory:
-
-  - Welfare $\leftarrow$ Development
-
-  - Development $\leftarrow$ Technology
-
-  - Thus: technology $\checkmark$
-
-- Evidence #1: Neolithic revolution
-
-- Today: evidence #2, Industrial revolution(s)
-
-- Today/next time: when technology goes too far
-
-
-# 2. Industrial revolution
+# Sustainable development
 
 ## 
 
-- Misnomer... 
+- So far, my argument: [development]{.red} is [just]{.blue}
 
-- Period of [economic]{.blue}, [social]{.blue}, [political]{.blue} transformations
+  - Increases welfare...
 
-- Shift from agriculture to industry
+  - esp. among the poor (in long-run)
 
-  - 1st Industrial rev: ~1760-1830 (UK)
+- Since dev $\rightarrow$ tech: innovation is also [just]{.blue}
 
-  - 2nd Industrial rev: ~1870-1914
-
-  - Since then: 3rd and 4th IR
-
-- Enabled by new energy tech: steam, spinning jenny, etc
-
-## England
-
-|                  | 1500 | 1700 | 1900 | 1950 |
-|---------        |------|------|------|------|
-| Calories        |       1.8k | 2.2k | 3k  | 3.1k |
-| Life expectancy |       34  |  38 |  46 | 69 |
-| Location        |  Rural |  Rural  | Rural | Urban |
-| Literacy rate   | 5-15% | ~50% | 90%+ | 95%+ |
-| Cities >500k (world)   | 2 | 7 | 44 | |
-
-:::footer
-@broadberry2015british (calories), OWD (literacy), @klein2010long (urbanization), @zijdeman2014life (life expectancy), @Bairoch1997 (cities)
-:::
-
+- But is this still true?
 
 ##
 
 ::: {.r-fit-text}
-What makes countries/regions
+What are some of the [negative]{.red} 
 :::
 
 ::: {.r-fit-text}
-[grow]{.red} (economically)?
+side effects of tech? 
 :::
 
-## Types of growth
 
-Growth (and development) can happen in four ways
+## 
 
-1. _Smith-ian_ growth: [market]{.red} expansion
+- Many potential side effects... 
 
-2. _Solow-ian_ growth: [capital]{.red} accumulation (machines, etc.)
+- Three examples:
 
-3. Scale growth: more people, [division of labor]{.red}
+  - Mental health & social media
 
-4. _Schumpetarian_ growth: [technological]{.red} disruptions
+  - Economic health & middle class
 
-- #1 and #2 limited potential (cannot 'rediscover' China...)
+  - Environmental health & climate change
 
-- #3 helps but is slow
+## Mental health: social media
 
-- #4 is key
+![Source: @haidt2020scrutinizing](/materials/haidt_allen_2020_fig1.png)
 
-## Context: Medieval times and Renaissance
+##
 
-- Until 1600s: no clear trend in (median) living standards
+- Note: much scientific [uncertainty]{.blue} regarding social media
 
-- Does _not_ mean [stability]{.blue} (eg Black Death:~-50%)
+  - $\rightarrow$ unclear causal arrow
 
-- Does _not_ mean [stagnation]{.blue}
+- Repeated worries: TV, video games, etc.
 
-  - Trade (Smith-ian): global trade networks
+- Hypothesis that social media can help
 
-  - Capitalism (Solow-ian): banking, accounting, money
+- Yet concerns about how...
 
-  - Technology: agri, paper, medical science, universities
+  - to navigage new ways for social engagement
 
-- But few [permanent]{.blue} changes
+  - internet's memory
 
-::: footer
-@le1992medieval, @Greif1993, @cesana2017origin
-:::
+## Economic health for middle class?
 
-## 1600s
+- "American dream"
 
-- Change in W Europe starting around 1600s ([Enlightenment]{.red})
+- Historically (industrialization): 
 
-- Expansion of regional+global markets (goods, finance)
+  - tech [hurts]{.blue} in the short run... 
 
-- Growth of science: physics, statistics, philosophy
+  - but [helps]{.blue} in the long run: new jobs
 
-- Development of modern state (property rights+law)
+  - Example: from labor/agriculture to services
 
-- But still little change in welfare
+- But post-industrialization: less clear
 
+  - [Routine jobs]{.red} (=middle class) disappear (robots) 
+
+  - "[Winner-takes-all]{.red}" economy
+
+  - Increase in far right vote share (Gonzales-Rostani)
+
+## Environmental health: climate change
+
+- Modern economies [depend]{.blue} on modern energy tech
+
+- From human energy to animal (horses) to machines (steam)
+
+- New services: electricity, transportation fuel, etc.
+
+- Essential to allow industrialization
+
+##
+
+![Source: @Smil2018](materials/smil_2017_fig6_20.png)
+
+##
+
+![Source: @Smil2018](materials/smil_2017_fig7_3.png)
+
+
+##
+
+![Source: @Smil2018](materials/smil2017_b.png)
+
+
+## Problem...
+
+- Modern economies rely on fossil fuels (coal, gas, oil)
+
+- When burned: generate greenhouse gas emissions
+
+- Increase warming effect + destabilize climate
+
+- Environmental consequences: temperature, droughts, etc.
+
+- Social consequences: food shocks and conflicts
 
 :::footer
-@Bairoch1997, @mokyr2018british, @North1991
+@Burketal2015, @Hsiangetal2013, @IPCC2018
 :::
 
+## 
 
-## 1st Industrial revolution
-
-- Schumpetarian process
-
-- Starts in UK, 1760s-1830s (spreads later)
-
-- Rapid [productivity growth]{.red} (output per worker/year) 
-
-  - More goods and products available
-
-  - Declining prices of such goods
-
-  - Shift from agriculture to manufactuing ([industrialization]{.red})
-
-  - Eventually: large increase in GDP and welfare
-
-## How?
-
-![Source: @goldsmith2014long.](./materials/Goldsmith2014.png)
-
-
-## How?
-
-Three steps
-
-- [Tech]{.red} change in small sectors ([mechanization]{.red}): 
-
-  - Textiles. Cotton and "spinning Jenny"
-
-  - Minnig. Coal, steam engine, deep mining.
-
-  - Metalurgy. Coal, blast furnace.
-
-- These sectors become more important overall
-
-  - Size of the economy
-
-  - Urban workers
-
-- Later: technological [spillovers]{.red} (learning)
-
-:::footer
-@mokyr2018british
+::: {.r-fit-text}
+Fundamentally a problem of [sustainability]{.red}
 :::
 
-## Broader impact
-<!-- view{.smaller} -->
-
-- Not just about goods. Austen to Dickens...
-
-- Local to impersonal markets ("[social change]{.red}" school; Polanyi)
-
-- Local to national economies ("[macroeconomic]{.red}" school; Kuznets)
-
-- Household prod to firms ("[industrial organization]{.red}" school; Marx)
-
-- Technology for labor and capital ("[technology]{.red}" school; Landes)
-
-
-
-:::footer
-@mokyr2018british, @allen2009british
+::: {.r-fit-text}
+How would you define sustainability?
 :::
 
-
-## Deep causes
-
-<!-- - Hard to ascertain -->
-- Tech was key...
-
-- But what triggered its development?
-
-- Why UK 1760s? Mystery! Hypotheses: 
-
-  - Colonies? Small and poor...
-
-  - Political institutions? But Netherlands...
-
-  - Energy? Netherlands vs. Belgium...
-
-  - "Culture" (Max Weber, etc.)? But Belgium...
-
-<!-- - Critical role played by changes in 
-
-  - Agriculture: weaker demand for workers
-
-  - Industry: stronger demand for consumer goods
-
-  - Technology -->
-
-:::footer
-@mokyr2018british, @allen2009british
+::: {.r-fit-text}
+What's Solow's view?
 :::
 
+## New problems
 
-## Major consequences
+- 19th century: conservation movement (Sierra Club 1892: Muir, Pinchot)
 
-- [Short term]{.blue}
+- First half of 20th c: other priorities (WWI, WWII, Cold War)
 
-  - Period of low growth (!)
+- 1960s: 
 
-  - Low wages (!) and urban poor ("proletariat")
+  - Concerns about air, water pollution (_Silent Spring_)
 
-- [Long term]{.blue}
+  - Concern about over-population [@Ehrlich1971]
 
-  - Improvements in life quality
+- 1970s/80s: concerns about ozone layer
 
-  - Rise in living standards, esp among poor
+- About the same time: concern about climate change
+
+## New politics
+
+- Domestic: emergence of... 
+
+  - green [lobbies]{.red} (EDF 1967)
   
-  - Decline of rural world
+  - green [parties]{.red} (Germany, ...)
 
-  - Expansion of public services (schools, public health)
+- International: 
 
+  - International env treaties (Montreal Protocol, 1987)
 
-# 2nd Industrial revolution
+  - Enc activism: _Our Common Future_ (Brundtland Report, 1987)
 
-- Pause of innovation after 1820s
+## Sustainability
 
-- Around 1870s until WWI: 
+What defines [**sustainable** development]{.red}?
 
-- 2nd generation of innovations
+- Approach 1: "ecological" approach
 
-  1. Transportation infrastructures (trains, steam boat)
+- Bruntland report, _Population Bomb_, _Limits to Growth_
 
-  2. Energy infrastructures (eg grid) for [mass production]{.red}
+. . .
 
-##
+> "every generation should leave water, air and soil resources as pure and unpolluted as when it came on earth... each generation should leave undiminished all the species of animals it found existing on earth"
 
-::: {.r-fit-text}
-What were the [consequences]{.red} 
-:::
+. . .
 
-::: {.r-fit-text}
-of [transportation]{.blue} innovations?
-:::
+- Policy implication: hard curb on consumption
 
-
-## World is becoming small
-
-![Isochrome map of US. Source: Atlas of the historical geography of the United States](materials/Atlas_hist_geo_us.png)
-
-##
-
-![Isochrome map of France](materials/distance_map_france_extract.png)
-
-## Some consequences
-
-- [Labor market]{.blue}. Eg:
-
-  - UK w/ train station $\rightarrow$ pop growth + shift male workers away from agriculture
-
-  - Germany: train tracks $\rightarrow$ pop growth for bigger parishes 
-
-- Erasure of local [culture]{.blue}. Eg France: 50% of pop doesn't speak French in 1789
-
-- [Urbanization]{.blue}: working class, marxism, demand for social protection, education
-
-:::footer
-@bogart2022railways, @braun_franke_2022, @hobsbawm2012nations
-:::
-
-# 3rd and 4th Industrial revolutions
+- Thoughts?
 
 ## 
 
-- New phases of transformation of societies 
+- Impossible to implement + probably undesirable
 
-- 3rd IR: "digital" revolution (~1960s onward)
+- Approach 2: "economist's" approach
 
-- 4th IR: "cyber" revolution: AI, Internet of Things, etc. 
+- Solow, EDF, etc.
 
-- Technology is key
+- From a _sustainability_ perspective: you don't owe future gen specific resources...
 
-  - Energy services
+- you owe them the [services]{.blue} that they provide
 
-  - Computers
+- Eg: we don't owe "ipad kids" oil, we owe them the ability to travel from A to B at reasonable speed
 
-## GDP/capita since 1950
-
-```{r}
-#| fig-cap: "GDP per capita. Figure: Aklin. Data source: Penn World Tables."
-
-library(haven)
-library(ggplot2)
-library(dplyr)
-pwt100 = read_dta("./materials/pwt100.dta")
-
-# Remove small states with lots of variation in denominator
-pwt100 %>% data.frame() %>%
-dplyr::filter(country != "Brunei Darussalam" & country != "China, Macao SAR" &  country != "Luxembourg" & country != "Qatar" & country != "United Arab Emirates") %>%
-ggplot(aes(x=year, y=rgdpe/pop, color=country)) +
-geom_line() +
-xlab("Year") +
-ylab("GDP per capita") +
-theme_bw() +
-theme(legend.position="none") 
-```
-
-## Challenges
-
-1. Are technological innovations slowing down?
-
-  - Worry about [stagnation]{.red}
-
-  - Challenge measuring growth; GDP is not adequate
-
-2. Are technologies hurting us?
-
-  - Worry about [sustainability]{.red}
-
-  - Unprecedented risks of disaster
-
-# Conclusion
 
 ##
 
-- IR = unprecedented levels of welfare
+::: {.r-fit-text}
+How convincing is [Solow's]{.red} definition?
+:::
 
-- Diff with past: few cases of backsliding
+## Conclusion
 
-- Doesn't mean everything is great...
+- Technology has generally been a +
 
-  - Inequality across/within ctries
+  - (at least for material comfort)
 
-  - Hedonic treadmill
+- Technology has always been [disruptive]{.red} for society...
 
-- Yet: would you trade your seat with anyone in the past?
+- ... but current changes in tech are different:
 
-- Bigger problems: what's next?
+  - [simultaneous]{.blue} crises ("polycrisis")
 
-  - Negative side effects of tech
+  - [scale]{.blue} of crises: global
 
-  - Will growth stop?
+## 
+
+::: {.r-fit-text}
+Puzzle for this class:
+:::
+
+::: {.r-fit-text}
+How can we ensure [broad]{.blue} sustainability?
+:::
+
+# Conclusion to Part I
+
+- Familiar with ethics: welfare, consequentialism, utilitarianism, etc.
+
+- Familiar with the relations between tech, growth, development, welfare
+
+- **If** you care about welfare, and if you define welfare as dev, then tech innovation is **ethically** just
+
+- But: not all tech is desirable! Negative side effects
+
+- Next questions: where does innovation come from? How to stimulate good/discourage bad tech?
 
 # Questions?
 

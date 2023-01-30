@@ -1,0 +1,401 @@
+---
+title: "Analysis of IR"
+subtitle: "PS 1599 | Week 3: Technology and Sustainbility"
+institute: "University of Pittsburgh"
+author: "Michaël Aklin"
+format:
+  revealjs:
+    incremental: true
+    theme: [white, revealjs_customization.scss]
+    logo: materials/PASU_Logo.png
+    center: true
+    chalkboard: false
+title-slide-attributes: 
+    data-background-image: https://upload.wikimedia.org/wikipedia/commons/1/13/VReumerswale_Money_Changers_Hermitage.jpg
+    data-background-opacity: "0.4"
+editor: visual
+bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
+---
+
+Administration
+
+- Office hours + meetings
+
+- Emails
+
+- Website
+
+- Question?
+
+##
+
+::: {.r-fit-text}
+What did we talk about last time?
+:::
+
+## Plan for today
+
+- In theory:
+
+  - Welfare $\leftarrow$ Development
+
+  - Development $\leftarrow$ Technology
+
+  - Thus: technology $\checkmark$
+
+- Evidence #1: Neolithic revolution
+
+- Today: evidence #2, Industrial revolution(s)
+
+- Today/next time: when technology goes too far
+
+
+# 2. Industrial revolution
+
+## 
+
+- Misnomer... 
+
+- Period of [economic]{.blue}, [social]{.blue}, [political]{.blue} transformations
+
+- Shift from agriculture to industry
+
+  - 1st Industrial rev: ~1760-1830 (UK)
+
+  - 2nd Industrial rev: ~1870-1914
+
+  - Since then: 3rd and 4th IR
+
+- Enabled by new energy tech: steam, spinning jenny, etc
+
+## England
+
+|                  | 1500 | 1700 | 1900 | 1950 |
+|---------        |------|------|------|------|
+| Calories        |       1.8k | 2.2k | 3k  | 3.1k |
+| Life expectancy |       34  |  38 |  46 | 69 |
+| Location        |  Rural |  Rural  | Rural | Urban |
+| Literacy rate   | 5-15% | ~50% | 90%+ | 95%+ |
+| Cities >500k (world)   | 2 | 7 | 44 | |
+
+:::footer
+@broadberry2015british (calories), OWD (literacy), @klein2010long (urbanization), @zijdeman2014life (life expectancy), @Bairoch1997 (cities)
+:::
+
+
+##
+
+::: {.r-fit-text}
+What makes countries/regions
+:::
+
+::: {.r-fit-text}
+[grow]{.red} (economically)?
+:::
+
+## Types of growth
+
+Growth (and development) can happen in four ways
+
+1. _Smith-ian_ growth: [market]{.red} expansion
+
+2. _Solow-ian_ growth: [capital]{.red} accumulation (machines, etc.)
+
+3. Scale growth: more people, [division of labor]{.red}
+
+4. _Schumpetarian_ growth: [technological]{.red} disruptions
+
+- #1 and #2 limited potential (cannot 'rediscover' China...)
+
+- #3 helps but is slow
+
+- #4 is key
+
+## Context: Medieval times and Renaissance
+
+- Until 1600s: no clear trend in (median) living standards
+
+- Does _not_ mean [stability]{.blue} (eg Black Death:~-50%)
+
+- Does _not_ mean [stagnation]{.blue}
+
+  - Trade (Smith-ian): global trade networks
+
+  - Capitalism (Solow-ian): banking, accounting, money
+
+  - Technology: agri, paper, medical science, universities
+
+- But few [permanent]{.blue} changes
+
+::: footer
+@le1992medieval, @Greif1993, @cesana2017origin
+:::
+
+## 1600s
+
+- Change in W Europe starting around 1600s ([Enlightenment]{.red})
+
+- Expansion of regional+global markets (goods, finance)
+
+- Growth of science: physics, statistics, philosophy
+
+- Development of modern state (property rights+law)
+
+- But still little change in welfare
+
+
+:::footer
+@Bairoch1997, @mokyr2018british, @North1991
+:::
+
+
+## 1st Industrial revolution
+
+- Schumpetarian process
+
+- Starts in UK, 1760s-1830s (spreads later)
+
+- Rapid [productivity growth]{.red} (output per worker/year) 
+
+  - More goods and products available
+
+  - Declining prices of such goods
+
+  - Shift from agriculture to manufactuing ([industrialization]{.red})
+
+  - Eventually: large increase in GDP and welfare
+
+## How?
+
+![Source: @goldsmith2014long.](./materials/Goldsmith2014.png)
+
+
+## How?
+
+Three steps
+
+- [Tech]{.red} change in small sectors ([mechanization]{.red}): 
+
+  - Textiles. Cotton and "spinning Jenny"
+
+  - Minnig. Coal, steam engine, deep mining.
+
+  - Metalurgy. Coal, blast furnace.
+
+- These sectors become more important overall
+
+  - Size of the economy
+
+  - Urban workers
+
+- Later: technological [spillovers]{.red} (learning)
+
+:::footer
+@mokyr2018british
+:::
+
+## Broader impact
+<!-- view{.smaller} -->
+
+- Not just about goods. Austen to Dickens...
+
+- Local to impersonal markets ("[social change]{.red}" school; Polanyi)
+
+- Local to national economies ("[macroeconomic]{.red}" school; Kuznets)
+
+- Household prod to firms ("[industrial organization]{.red}" school; Marx)
+
+- Technology for labor and capital ("[technology]{.red}" school; Landes)
+
+
+
+:::footer
+@mokyr2018british, @allen2009british
+:::
+
+
+## Deep causes
+
+<!-- - Hard to ascertain -->
+- Tech was key...
+
+- But what triggered its development?
+
+- Why UK 1760s? Mystery! Hypotheses: 
+
+  - Colonies? Small and poor...
+
+  - Political institutions? But Netherlands...
+
+  - Energy? Netherlands vs. Belgium...
+
+  - "Culture" (Max Weber, etc.)? But Belgium...
+
+<!-- - Critical role played by changes in 
+
+  - Agriculture: weaker demand for workers
+
+  - Industry: stronger demand for consumer goods
+
+  - Technology -->
+
+:::footer
+@mokyr2018british, @allen2009british
+:::
+
+
+## Major consequences
+
+- [Short term]{.blue}
+
+  - Period of low growth (!)
+
+  - Low wages (!) and urban poor ("proletariat")
+
+- [Long term]{.blue}
+
+  - Improvements in life quality
+
+  - Rise in living standards, esp among poor
+  
+  - Decline of rural world
+
+  - Expansion of public services (schools, public health)
+
+
+# 2nd Industrial revolution
+
+- Pause of innovation after 1820s
+
+- Around 1870s until WWI: 
+
+- 2nd generation of innovations
+
+  1. Transportation infrastructures (trains, steam boat)
+
+  2. Energy infrastructures (eg grid) for [mass production]{.red}
+
+##
+
+::: {.r-fit-text}
+What were the [consequences]{.red} 
+:::
+
+::: {.r-fit-text}
+of [transportation]{.blue} innovations?
+:::
+
+
+## World is becoming small
+
+![Isochrome map of US. Source: Atlas of the historical geography of the United States](materials/Atlas_hist_geo_us.png)
+
+##
+
+![Isochrome map of France](materials/distance_map_france_extract.png)
+
+## Some consequences
+
+- [Labor market]{.blue}. Eg:
+
+  - UK w/ train station $\rightarrow$ pop growth + shift male workers away from agriculture
+
+  - Germany: train tracks $\rightarrow$ pop growth for bigger parishes 
+
+- Erasure of local [culture]{.blue}. Eg France: 50% of pop doesn't speak French in 1789
+
+- [Urbanization]{.blue}: working class, marxism, demand for social protection, education
+
+:::footer
+@bogart2022railways, @braun_franke_2022, @hobsbawm2012nations
+:::
+
+# 3rd and 4th Industrial revolutions
+
+## 
+
+- New phases of transformation of societies 
+
+- 3rd IR: "digital" revolution (~1960s onward)
+
+- 4th IR: "cyber" revolution: AI, Internet of Things, etc. 
+
+- Technology is key
+
+  - Energy services
+
+  - Computers
+
+## GDP/capita since 1950
+
+```{r}
+#| fig-cap: "GDP per capita. Figure: Aklin. Data source: Penn World Tables."
+
+library(haven)
+library(ggplot2)
+library(dplyr)
+pwt100 = read_dta("./materials/pwt100.dta")
+
+# Remove small states with lots of variation in denominator
+pwt100 %>% data.frame() %>%
+dplyr::filter(country != "Brunei Darussalam" & country != "China, Macao SAR" &  country != "Luxembourg" & country != "Qatar" & country != "United Arab Emirates") %>%
+ggplot(aes(x=year, y=rgdpe/pop, color=country)) +
+geom_line() +
+xlab("Year") +
+ylab("GDP per capita") +
+theme_bw() +
+theme(legend.position="none") 
+```
+
+## Challenges
+
+1. Are technological innovations slowing down?
+
+  - Worry about [stagnation]{.red}
+
+  - Challenge measuring growth; GDP is not adequate
+
+2. Are technologies hurting us?
+
+  - Worry about [sustainability]{.red}
+
+  - Unprecedented risks of disaster
+
+# Conclusion
+
+##
+
+- IR = unprecedented levels of welfare
+
+- Diff with past: few cases of backsliding
+
+- Doesn't mean everything is great...
+
+  - Inequality across/within ctries
+
+  - Hedonic treadmill
+
+- Yet: would you trade your seat with anyone in the past?
+
+- Bigger problems: what's next?
+
+  - Negative side effects of tech
+
+  - Will growth stop?
+
+# Questions?
+
+aklin@pitt.edu
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<font size="5">Source for title page painting: Quentin Matsys, _The Money Changer and His Wife_</font>
+
+## References{.scrollable .smaller}
+

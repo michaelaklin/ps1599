@@ -351,17 +351,17 @@ $\rightarrow$ New [technology]{.red}: agriculture [[@Bairoch1997]]{.gray}
 
 - Misnomer... 
 
-- Period of profound [economic]{.blue} (sup & dem), [social]{.blue}, [political]{.blue} transformations
+- Period of [economic]{.blue}, [social]{.blue}, [political]{.blue} transformations
 
 - Shift from agriculture to industry
 
   - 1st Industrial rev: ~1760-1830 (UK)
 
-  - 2nd Industrial rev: 1880-1890
+  - 2nd Industrial rev: ~1870-1914
 
   - Since then: 3rd and 4th IR
 
-- Enabled by new energy tech: steam, coal, oil, electricity
+- Enabled by new energy tech: steam, spinning jenny, etc
 
 ## England
 
@@ -371,23 +371,52 @@ $\rightarrow$ New [technology]{.red}: agriculture [[@Bairoch1997]]{.gray}
 | Life expectancy |       34  |  38 |  46 | 69 |
 | Location        |  Rural |  Rural  | Rural | Urban |
 | Literacy rate   | 5-15% | ~50% | 90%+ | 95%+ |
-| Cities >500k    | 2 | 7 | 44 | |
+| Cities >500k (world)   | 2 | 7 | 44 | |
 
 :::footer
 @broadberry2015british (calories), OWD (literacy), @klein2010long (urbanization), @zijdeman2014life (life expectancy), @Bairoch1997 (cities)
 :::
 
+
+##
+
+::: {.r-fit-text}
+What makes countries/regions
+:::
+
+::: {.r-fit-text}
+[grow]{.red} (economically)?
+:::
+
+## Types of growth
+
+Growth (and development) can happen in four ways
+
+1. _Smith-ian_ growth: [market]{.red} expansion
+
+2. _Solow-ian_ growth: [capital]{.red} accumulation (machines, etc.)
+
+3. Scale growth: more people, [division of labor]{.red}
+
+4. _Schumpetarian_ growth: [technological]{.red} disruptions
+
+- #1 and #2 limited potential (cannot 'rediscover' China...)
+
+- #3 helps but is slow
+
+- #4 is key
+
 ## Context: Medieval times and Renaissance
 
-- Neolithic to 1600s: no clear trend in living standards for median
+- Until 1600s: no clear trend in (median) living standards
 
 - Does _not_ mean [stability]{.blue} (eg Black Death:~-50%)
 
 - Does _not_ mean [stagnation]{.blue}
 
-  - Trade: global trade network (Asia, Americas)
+  - Trade (Smith-ian): global trade networks
 
-  - Capitalism: banking, accounting, money
+  - Capitalism (Solow-ian): banking, accounting, money
 
   - Technology: agri, paper, medical science, universities
 
@@ -399,48 +428,71 @@ $\rightarrow$ New [technology]{.red}: agriculture [[@Bairoch1997]]{.gray}
 
 ## 1600s
 
-- Change centered around western Europe starting in 1600s ("[Age of Reason]{.red}")
+- Change in W Europe starting around 1600s ([Enlightenment]{.red})
 
 - Expansion of regional+global markets (goods, finance)
 
 - Growth of science: physics, statistics, philosophy
 
-- Development of modern state (property rights+law, "proto-democracy")
+- Development of modern state (property rights+law)
 
-- But little change in welfare
+- But still little change in welfare
 
 
 :::footer
 @Bairoch1997, @mokyr2018british, @North1991
 :::
 
+
 ## 1st Industrial revolution
 
-- Starts in UK, 1760s-1830s 
+- Schumpetarian process
 
-- Expansion of [industrial prod]{.red}
+- Starts in UK, 1760s-1830s (spreads later)
 
-- [Productivity growth]{.red} (output per worker/h) 
+- Rapid [productivity growth]{.red} (output per worker/year) 
 
-  - Cotton, wool, iron, machinery
+  - More goods and products available
 
-  - Importance of a driver of growth!
+  - Declining prices of such goods
 
-- Three steps
+  - Shift from agriculture to manufactuing ([industrialization]{.red})
 
-  1. Tech change in a small sector (eg cotton) ([industrialization]{.red})
+  - Eventually: large increase in GDP and welfare
 
-  2. That sector becomes more important overall
+## How?
 
-  3. Tech spills over to other sectors
+![Source: @goldsmith2014long.](./materials/Goldsmith2014.png)
+
+
+## How?
+
+Three steps
+
+- [Tech]{.red} change in small sectors ([mechanization]{.red}): 
+
+  - Textiles. Cotton and "spinning Jenny"
+
+  - Minnig. Coal, steam engine, deep mining.
+
+  - Metalurgy. Coal, blast furnace.
+
+- These sectors become more important overall
+
+  - Size of the economy
+
+  - Urban workers
+
+- Later: technological [spillovers]{.red} (learning)
 
 :::footer
 @mokyr2018british
 :::
 
-## Broader view
+## Broader impact
+<!-- view{.smaller} -->
 
-- Not just goods. Transformation (from Austen to Dickens)...
+- Not just about goods. Austen to Dickens...
 
 - Local to impersonal markets ("[social change]{.red}" school; Polanyi)
 
@@ -451,33 +503,20 @@ $\rightarrow$ New [technology]{.red}: agriculture [[@Bairoch1997]]{.gray}
 - Technology for labor and capital ("[technology]{.red}" school; Landes)
 
 
+
 :::footer
 @mokyr2018british, @allen2009british
 :::
 
-## Major impact
-
-- Overall improvements of life quality
-
-- Ambiguous short-term impact (wages, growth)
-
-- Long-term decline of rural areas
-
-- Emergence of urban poor ("proletariat")
-
-- Expansion of public services for labor
-
-  - Schools
-
-  - Health
 
 ## Deep causes
 
-- Hard to ascertain
+<!-- - Hard to ascertain -->
+- Tech was key...
 
-- Hypotheses: 
+- But what triggered its development?
 
-  - "Culture" (Max Weber, etc.)? But Belgium...
+- Why UK 1760s? Mystery! Hypotheses: 
 
   - Colonies? Small and poor...
 
@@ -485,35 +524,66 @@ $\rightarrow$ New [technology]{.red}: agriculture [[@Bairoch1997]]{.gray}
 
   - Energy? Netherlands vs. Belgium...
 
-- Critical role played by changes in 
+  - "Culture" (Max Weber, etc.)? But Belgium...
 
-  - Agriculture: weaker demand
+<!-- - Critical role played by changes in 
 
-  - Industry: stronger demand
+  - Agriculture: weaker demand for workers
+
+  - Industry: stronger demand for consumer goods
+
+  - Technology -->
 
 :::footer
 @mokyr2018british, @allen2009british
 :::
 
-## 2nd Industrial revolution
 
-- 1st IR: low growth. 
+## Major consequences
 
-- Not surprising:
+- [Short term]{.blue}
 
-  - Industry is small at the time
+  - Period of low growth (!)
 
-  - Innovations take time (eg internet)
+  - Low wages (!) and urban poor ("proletariat")
 
-- 2nd half of 1800s: 
+- [Long term]{.blue}
 
-  - 2nd generation of innovations
+  - Improvements in life quality
 
-  - Transportation infrastructures (trains)
+  - Rise in living standards, esp among poor
+  
+  - Decline of rural world
 
-  - Energy infrastructures (grid) (factories, HH)
+  - Expansion of public services (schools, public health)
 
-## Impact
+
+##
+
+![Source: @clark2014industrial](./materials/clark_2014_fig5.png)
+
+
+# 2nd Industrial revolution
+
+##
+
+- Pause of innovation after 1820s
+
+- Around 1870s until WWI ([recombinant growth]{.red})
+
+- 2nd generation of innovations
+
+  1. Transportation infrastructures (trains, steam boat)
+
+  2. Energy infrastructures (eg grid) for [mass production]{.red}
+
+:::{.footer}
+@weitzman1998recombinant
+:::
+
+##
+
+![Source: @clark2014industrial](./materials/clark_2014_fig7.png)
 
 ##
 
@@ -522,10 +592,9 @@ What were the [consequences]{.red}
 :::
 
 ::: {.r-fit-text}
-of the 2nd Industrial revolution?
+of [transportation]{.blue} innovations?
 :::
 
-## Consequences
 
 ## World is becoming small
 
@@ -545,16 +614,27 @@ of the 2nd Industrial revolution?
 
 - Erasure of local [culture]{.blue}. Eg France: 50% of pop doesn't speak French in 1789
 
-- [Urbanization]{.blue}: working class, marxism, demand for social protection, education
+- [Urbanization]{.blue}: working class, marxism, social democracy demand for social protection, education
 
 :::footer
 @bogart2022railways, @braun_franke_2022, @hobsbawm2012nations
 :::
 
-<!-- 
-## 3rd Industrial revolution
+<!-- # 3rd and 4th Industrial revolutions
 
-## What's next?
+## 
+
+- New phases of transformation of societies 
+
+- 3rd IR: "digital" revolution (~1960s onward)
+
+- 4th IR: "cyber" revolution: AI, Internet of Things, etc. 
+
+- Technology is key
+
+  - Energy services
+
+  - Computers
 
 ## GDP/capita since 1950
 
@@ -575,26 +655,46 @@ xlab("Year") +
 ylab("GDP per capita") +
 theme_bw() +
 theme(legend.position="none") 
-```
- -->
-<!-- 
+``` 
+-->
+
+## Challenges
+
+- Currently: 3rd and 4th IR
+
+- Are technological innovations slowing down?
+
+  - Worry about [stagnation]{.red}
+
+  - But maybe just hard to measure?
+
+- Are technologies hurting us?
+
+  - Worry about [sustainability]{.red}
+
+  - Unprecedented risks of disaster
 
 # Conclusion
 
-- [Development]{.blue} $\neq$ economic growth and $\neq$ [linear]{.blue}
+##
 
-- Two key moments: ~12,000 BCE and 1760-1890
+- IR = unprecedented levels of welfare
 
-  - Neolithic revolution
-  - Industrial revolution
+- Diff with past: few cases of backsliding
 
-- Both: dramatic changes for humanity caused by [technology]{.red}
+- Doesn't mean everything is great...
 
-  - Agriculture (Neolithic)
-  - Energy (Industrial revolution)
+  - Inequality across/within ctries
 
-- Next: the [side effects]{.blue} of the Industrial revolution
- -->
+  - Hedonic treadmill
+
+- Yet: would you trade your seat with anyone in the past?
+
+- Bigger problems: what's next?
+
+  - Negative side effects of tech
+
+  - Will growth stop?
 
 # Questions?
 

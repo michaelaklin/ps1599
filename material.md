@@ -23,4 +23,12 @@ description: Links to course material.
 * Week 13 slides
 * Week 14 slides
 
+# Readings
 
+Some of the readings might be difficult to find. Here are a few pdfs:
+
+[Foster (1986), chapter 1](./assets/readings/Foster_1986_Chapter1.pdf)
+
+[Foster (1986), chapter 4](./assets/readings/Foster_1986_Chapter4.pdf)
+
+[Solow (1991)](./assets/readings/Solow.pdf)
