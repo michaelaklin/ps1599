@@ -1,0 +1,515 @@
+---
+title: "Analysis of IR"
+subtitle: "PS 1599 | Week 5: Non-market competition"
+institute: "University of Pittsburgh"
+author: "Michaël Aklin"
+format:
+  revealjs:
+    incremental: true
+    theme: [white, revealjs_customization.scss]
+    logo: materials/PASU_Logo.png
+    center: true
+    chalkboard: false
+title-slide-attributes: 
+    data-background-image: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/clock-of-universe-stoyanka-ivanova.jpg
+    data-background-opacity: "0.4"
+editor: visual
+bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
+---
+
+## Administration
+
+- Office hours
+
+- aklin@pitt.edu 
+
+- Workshops: rescheduling
+
+
+##
+
+::: {.r-fit-text}
+What did we talk about last time?
+:::
+
+## Today
+
+- [Politics]{.blue} of innovation, technology, development
+
+- Politics matters in several ways
+
+  - At [inception]{.blue} of new prods
+
+  - At [diffusion]{.blue} of new prods
+
+- Today: finish inception, start diffusion
+
+
+## Supply-side
+
+![Source: @Foster1986.](./materials/foster1986_fig2.png)
+
+## Demand-side
+
+![Source: wikipedia](./materials/wiki_diff_of_ideas.png)
+
+##
+
+![Source: @en9120990](./materials/Bointner_et_al_2016.png)
+
+##
+
+!["[Swanson's law]{.red}" (-20% cost to produce PV cells when production doubles) (from "Moore's law")](./materials/owd_swansons_law.png)
+
+##
+
+![](./materials/seia_2020.png)
+
+
+##
+
+- What's the problem with R&D? Can't the market solve that?
+
+- Fundamental problem: [collective action failures]{.red}
+
+  - = indivs behave in a way that's not optimal for society
+
+  - Note: optimal$\neq$rational. Optimal=normative
+
+  - Politics = study of CA problems
+
+- Main types of CA probs: [public goods]{.red}, [coordination failures]{.red}, [commitment problems]{.red}
+
+- Today: public goods
+
+##
+
+| | **Excludable**      | **Non excludable** |
+| --- | ----------- | ----------- |
+| **Rival** | Private      | Open-access       |
+| **Non-rival** | Club   | Public        |
+
+- Definitions
+
+  - [Excludable]{.red}: users can be excluded from accessing good
+
+  - [Rival]{.red}: stock of good decreases with consumption
+
+##
+
+- [Private goods]{.red}: your pen
+
+- [Open access good]{.red}: public parc
+
+- [Club good]{.red}: Netflix
+
+- [Public goods]{.red}: ideas!
+
+- [Market failure]{.red}:
+
+  - Situations where markets don't work optimally
+
+  - Common outside of private goods
+
+## 
+
+- Problem: public goods are generally [under-produced]{.blue}
+
+- Why? [Free-riding]{.red}
+
+- Often captured by the [prisoner's dilemma]{.red}
+
+- Example: you are asked to contribute to a group project
+
+- PD is useful, but doesn't capture uncertainty of result
+
+## {.smaller}
+
+- N: people who would benefit from project
+
+- n: people who contribute (aside from you)
+
+- B: your benefit if project succeeds; everybody gets it (public good)
+
+- $\frac{n}{N}$: probability of success of project
+
+- c: your cost of participating
+
+- Cost-benefit:
+
+  - If you don't participate: $B\cdot\frac{n}{N}$
+
+  - If you participate: $B\cdot\frac{(n+1)}{N}-c$
+
+  - Participation is worth it if $\frac{B}{N}>c$
+
+## 
+
+- R&D is a [public good]{.red}!
+
+- Thus: here, research is done if $\frac{B}{N}>c$ (if model is true!)
+
+- Suppose $N$ is the US (300m), $B=\mbox{\$}1m$
+
+- You won't contribute if costs > 0.3 cents!
+
+- R&D will be underprovided...
+
+- General insight by @olson65: with public goods...
+
+  - Large N: bad
+
+  - [Diffuse interests]{.red}: bad
+
+##
+
+- Problem: you don't capture benefits from your investments
+
+- [Ideas]{.blue} are [domestic+global public goods]{.red}!
+
+- Need solution to free-riding
+
+- How can we solve this problem?
+
+## Side note: problem-solving
+
+- Many models (Define-Measure-Analyze-Improve-Control)
+
+- First: define the [problem]{.blue}
+
+  - What _should_ the goal be? Ethics!
+
+- Second: establish [mechanisms]{.red} leading to prob
+
+  - What is the [cause]{.blue} of prob? Theory and evidence
+
+- Third: design+test [interventions]{.blue} (policies)
+
+  - What is the [solution]{.blue}? Experiment
+
+::: footer
+@linderman2003six, @de2012analysis, @Samii2023
+:::
+
+##
+
+::: {.r-fit-text}
+Problem: research is a [global]{.blue} [public good]{.red}!
+:::
+
+::: {.r-fit-text}
+How do you solve it?
+:::
+
+- Define goals
+
+- Mechanisms of prob
+
+- Solutions to (root of) prob
+
+## Goals and mechanisms
+
+- **Goal(s)**
+
+  - Possibly: _High levels of R&D_, _$700b/year_, _$500b in clean energy, $200 in electric cars_, _1000 startups by 2050_, etc.
+
+  - Consequentialism ethical view
+
+- **Mechanisms**
+
+  - Free-riding: investors don't get rewarded
+
+  - Domestic + international
+
+## Solutions
+
+- Need to solve [domestic]{.blue} free-riding: 
+
+  - [Incentivize]{.blue} private sector: patents, prizes, subsidies
+
+  - [Socialize]{.blue} research: public unis, research centers
+
+- Need to solve [global]{.blue} free-riding: 
+
+  - World Intellectual Property Organization (WIPO)
+
+  - International treaties (Patent Cooperation Treaty, 1970)
+
+  - Punishment?
+
+# Conclusion
+
+##
+
+- We (often) want new goods/services
+
+- Innovations are generally needed to obtain them
+
+- Innovation is often [under-produced]{.red} ([public good]{.red} and [free-riding]{.red})
+
+- Solutions: domestic+international rules to solve free-riding
+
+
+# Non-market competition
+
+##
+
+- So far: (international) politics of early innovations
+
+- Can happen in any market, even w/ perfect competition
+
+- Happens under other systems too!
+
+- Next: [non-market competition]{.red}. 
+
+  - =Competition that isn't occuring via [price]{.blue} or [quality]{.blue}
+
+  - Diffusion stage of innovation
+
+
+
+## Context
+
+![Source: @Foster1986.](./materials/foster1986_fig2.png)
+
+
+##
+
+![Source: Future Business Tech](./materials/futurebusinesstech.png)
+ 
+
+
+##
+
+- Competitive market: near [zero-sum game]{.red} for producers
+
+- Market strategies
+
+  - Cut [prices]{.blue} (possibly after adopting similar tech)
+
+  - Increase [product differentiation]{.red}
+
+- Not always feasible, affordable, efficient
+
+- Problem when new technologies appear
+
+##
+
+![Source: @Smil2018](./materials/smil_2017_fig5_5.png)
+ 
+
+##
+
+![Source: @Smil2018](./materials/smil_2017_fig7_7.png)
+ 
+## Puzzle
+
+- Before we go into NMS: why don't firms [adapt]{.blue}?
+
+- Firms adapt all the time
+
+  - Apple: computer to phone to iphone, etc.
+
+- Problem for firms: [disruptive]{.red} tech
+
+- Tech can represent an [existential]{.blue} threat
+
+  - [Sustaining]{.red} vs. [disruptive]{.red} tech
+
+  - Hard to switch to disruptive tech, thus NMS
+
+:::{.footer}
+@christensen2013innovator
+:::
+
+## Non-market strategies
+
+```{mermaid}
+flowchart TB
+
+
+A[Politics] <--> B(Firm 1) & C(Firm 2) <--> D(Society)
+
+    subgraph Market
+    B <--> C
+    end
+```
+
+## Non-market strategies
+
+- Idea: firms modify [(business) environment]{.blue}, not product
+
+- Some is "good": [corporate social responsibility]{.red}, ESG, ...
+
+- But some is "bad": eliminate competition
+
+- Bad = bad for consumers, society
+
+  - Higher prices
+
+  - Slower adoption of new tech
+
+- Happens w/ politics + w/ society + within markets
+
+:::{.footer}
+@mellahi2016review
+:::
+
+
+## Politics (1)
+
+- [Ideology]{.red}: policy preferences of govs 
+
+- Everyone has preferences!
+
+- Rulers: incentives to intervene to shape world accordingly
+
+- [Myth]{.blue} of neutral/benevolent/scientific ruler
+
+- Problem: markets w/ market failures are exposed to change in gov preferences
+
+## Example
+
+- Trump admin: opposed to climate policy
+
+- [Clean energy]{.blue}: primary tool to cut US GHG
+
+- US clean energy depends on [imports]{.blue}
+
+- 2019: 30% tariff (tax) on imports of solar equipment
+
+  - Domestic solar panel producers win (First Solar) (small share)
+
+  - Installer lose 
+
+##
+
+![Source: @Aklin2018a](./materials/aklin2018_bp.png)
+
+##
+
+![Source: @SEIA2019](./materials/seia_2019_a.png)
+
+##
+
+![Source: @SEIA2019](./materials/seia_2019_b.png)
+
+
+##
+
+![Source: @SEIA2019](./materials/SEIA-Section201-Tariff-Impact-Report-Jobs-Chart.png)
+
+
+
+## Politics (2)
+
+- [Lobbying]{.red} 
+
+- Modification of the law to disadvantage newcomers
+
+  - Outlawing newcomers (Uber)
+
+  - Barriers to entry (cost, eg via taxes)
+
+  - Standards
+
+- Note: often requires cooperation among firms (=public good)
+
+- Feasible for firms that can cooperate 
+
+## Example
+
+- FirstEnergy (Ohio): investor-owned utility that serves ~6m people ($10b+ in annual revenues)
+
+- Problem: it relies heavily on old coal nuclear plants
+
+- Not competitive against up-and-coming renewables
+
+- Solution: lobby Republican majority in Ohio House to subsidize their plants (2020) (House Bill 6)
+
+- Problem: illegal contributions (about $6m in exchange for $1.3b subsidies – NB: not bad!)
+
+- Ongoing legal battles
+
+
+## Within markets (1)
+
+[Predatory pricing]{.red}
+
+- Idea: reduce price below prod cost in foreign markets
+
+- Makes it impossible to newcomers to compete
+
+- Feasible for established firms with cash
+
+- Example: Walmart
+
+## Within markets (2)
+
+[Dumping]{.red}
+
+- Same as predatory pricing, but global
+
+- Producer in cntry A exports at low price to cntry B
+
+- Producers in cntry B go bust
+
+- Producer in cntry A becomes dominant
+
+## Within markets (3)
+
+- Monopolistic acquisitions
+
+- Acquisition of firms...
+
+- Acquisition of talent ([human capital]{.red})
+
+- Example: facebook
+
+
+##
+
+::: {.r-fit-text}
+How would you solve issues such as
+:::
+
+::: {.r-fit-text}
+[dumping]{.red}, [lobbying]{.red}, etc.?
+:::
+
+::: {.r-fit-text}
+Pick one and use problem-solving skills!
+:::
+
+
+# Conclusion
+
+##
+
+- Price/product competition is good...
+
+- But often doesn't happen
+
+- Disruptive tech is a threat to firms
+
+- In response: non-market strategies
+
+- Some are 'good'! But many are 'bad'
+
+- Threatens development
+
+# Questions?
+
+aklin@pitt.edu
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<font size="5">Source for title page painting: Stoyanka Ivanova, _Clock of Universe_</font>
+
+## References{.scrollable .smaller}

@@ -11,7 +11,7 @@ description: Links to course material.
 * Week 1 [slides](./assets/slides/Week1.pdf)
 * Week 2 [slides](./assets/slides/Week2.pdf)
 * Week 3 [slides](./assets/slides/Week3.pdf)
-* Week 4 slides
+* Week 4 [slides](./assets/slides/Week4.pdf)
 * Week 5 slides
 * Week 6 slides
 * Week 7 slides
@@ -27,8 +27,12 @@ description: Links to course material.
 
 Some of the readings might be difficult to find. Here are a few pdfs:
 
+[Breetz et al. (2018)](./assets/readings/Breetz_et_al_2018.pdf)
+
 [Foster (1986), chapter 1](./assets/readings/Foster_1986_Chapter1.pdf)
 
 [Foster (1986), chapter 4](./assets/readings/Foster_1986_Chapter4.pdf)
 
 [Solow (1991)](./assets/readings/Solow.pdf)
+
+[Unruh (2000)](./assets/readings/Unruh2000.pdf)
