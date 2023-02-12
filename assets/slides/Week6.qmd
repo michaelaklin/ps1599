@@ -1,0 +1,201 @@
+---
+title: "Analysis of IR"
+subtitle: "PS 1599 | Week 6: Demand failures"
+institute: "University of Pittsburgh"
+author: "Michaël Aklin"
+format:
+  revealjs:
+    incremental: true
+    theme: [white, revealjs_customization.scss]
+    logo: materials/PASU_Logo.png
+    center: true
+    chalkboard: false
+title-slide-attributes: 
+    data-background-image: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/clock-of-universe-stoyanka-ivanova.jpg
+    data-background-opacity: "0.4"
+editor: visual
+bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
+---
+
+## Administration
+
+- Office hours
+
+- aklin@pitt.edu 
+
+- Updated schedule
+
+- Slides
+
+- Readings
+
+
+##
+
+::: {.r-fit-text}
+What did we talk about last time?
+:::
+
+##
+
+- In 'regular' times: mostly competition via prices and quality
+
+- In times of disruptive tech: non-market strategies
+
+- Two so far: lobbying and electing friendly pols
+
+- Today:
+
+  - Finish NMS
+
+  - Start demand side issues
+
+
+## Within markets (1)
+
+[Predatory pricing]{.red}
+
+- Idea: reduce price [below]{.blue} prod cost
+
+- Makes it impossible to newcomers to compete
+
+- Feasible for established firms with cash
+
+- Example: Walmart
+
+- Hard to prove
+
+## Within markets (2)
+
+[Dumping]{.red}
+
+- Same as predatory pricing, but global
+
+- Producer in cntry A exports at low price to cntry B
+
+- Producers in cntry B go bust
+
+- Producer in cntry A becomes dominant
+
+## Within markets (3)
+
+- Monopolistic acquisitions
+
+- Sometimes: acquisition of firms...
+
+- Acquisition of talent ([human capital]{.red})
+
+- Example: facebook and drop.io (Sam Lessin)
+
+##
+
+::: {.r-fit-text}
+You work for a solar company.
+:::
+
+::: {.r-fit-text}
+How would you push back against [lobbying]{.red} by coal companies?
+:::
+
+::: {.r-fit-text}
+Use problem-solving skills!
+:::
+
+##
+
+- Goal: make your firm robust to political change
+
+- Problem: imbalance in lobbying power between you and fossil competition
+
+- Strategies
+
+  - Create a clean energy trade lobby
+
+  - Encourage investments in fossil regions
+
+  - Others?
+
+
+
+
+
+# Conclusion
+
+##
+
+- Price/product competition is good...
+
+- Disruptive tech is a threat to firms
+
+- In response: non-market strategies
+
+- Some are 'good'! But many are 'bad'
+
+- Threatens development
+
+- What about society NMS? Next topic!
+
+
+# Demand-side failures
+
+##
+
+- Puzzle: why doesn't new+better tech replace old+bad tech?
+
+- So far: supply-side explanations
+
+  - Innovation failures
+
+  - Diffusion failures
+
+- Assumption: people want new+better tech
+
+- Is this true? [Demand-side] failures
+
+## 
+
+<!-- 
+1. Preferences
+2. 
+3. Coordination problems -->
+
+- [Demand-side] failures: problems with demand for 'good' tech
+
+- Happens at three levels:
+
+  - Individual
+  
+  - Household
+
+  - Social/community
+
+##
+
+##
+
+![Source: wiki](./materials/Mary_Wollstonecraft_Shelley_Rothwell.tif.jpg){.absolute left=0}
+
+![Source: wiki](./materials/1280px-Bram_Stoker_1906.jpg){.absolute right=0}
+
+##
+
+# Conclusion
+
+##
+
+
+# Questions?
+
+aklin@pitt.edu
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<font size="5">Source for title page painting: Stoyanka Ivanova, _Clock of Universe_</font>
+
+## References{.scrollable .smaller}

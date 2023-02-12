@@ -334,7 +334,58 @@ _Suggested reading_:
 \bigskip
 
 <!--------------- Break --------------->
-## `r advdate(mon, 7)`. Demand failures: social dynamics
+## `r advdate(mon, 7)`: Research workshop
+
+<!-- _Required reading_: -->
+
+_Suggested reading_:
+
+* `r ref("Tufte2001")`
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 8)`: Research workshop
+
+
+<!-- _Required reading_: -->
+
+<!-- _Suggested reading_: -->
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 9)`: Spring break
+
+Spring recess, no class.
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 10)`: Midterm
+
+Monday: optional recitation.
+
+Wednesday: midterm.
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 11)`. Policy workshop
+
+<!-- Theme
+Do my intro on public policy-->
+
+<!-- _Required reading_: -->
+
+_Suggested reading_:
+
+* Chapter 1, 3: `r ref("Peters2016")`
+
+\bigskip
+
+<!--------------- Break --------------->
+## `r advdate(mon, 12)`. Demand failures -- social dynamics
 
 There is a range of social dynamics that slow down the uptake of technologies.
 
@@ -360,80 +411,11 @@ _Required reading_:
 
 _Suggested reading_:
 
+\bigskip
+
 * Chapter 10: `r ref("Page2018")`
 
 * `r ref("mildenberger2019households")`
-
-\bigskip
-
-<!--------------- Break --------------->
-\textcolor{red}{Monday 2/20}: research workshop
-
-_Suggested reading (for workshop)_:
-
-* `r ref("Tufte2001")`
-
-\bigskip
-
-<!--------------- Break --------------->
-## `r advdate(mon, 8)`. Demand failures -- social dynamics (end)
-
-<!-- Research workshop -->
-
-\textcolor{red}{Monday 2/27}: research workshop
-
-
-<!-- _Required reading_: -->
-
-<!-- _Suggested reading_: -->
-
-\bigskip
-
-<!--------------- Break --------------->
-## `r advdate(mon, 9)`. Spring break
-
-Spring recess, no class.
-
-\bigskip
-
-<!--------------- Break --------------->
-## `r advdate(mon, 10)`. Midterm
-
-Monday: optional recitation.
-
-Wednesday: midterm.
-
-\bigskip
-
-<!--------------- Break --------------->
-## `r advdate(mon, 11)`. Workshops
-
-\textcolor{red}{Monday 3/20}: research workshop
-
-\textcolor{red}{Wednesday 3/22}: policy workshop
-
-
-<!-- Policy workshop -->
-
-<!-- Theme
-Do my intro on public policy-->
-
-<!-- _Required reading_: -->
-
-_Suggested reading (for policy workshop)_:
-
-* Chapter 1, 3: `r ref("Peters2016")`
-
-\bigskip
-
-<!--------------- Break --------------->
-## `r advdate(mon, 12)`. Workshops
-
-<!-- Demand failures -- social dynamics -->
-
-\textcolor{red}{Monday 3/27}: research workshop
-
-\textcolor{red}{Wednesday 3/22}: policy workshop
 
 <!--------------- Break --------------->
 ## `r advdate(mon, 13)`. Demand failures -- coordination problems
@@ -475,6 +457,7 @@ _Suggested reading_:
 \textcolor{blue}{\textsc{Part III: Big Picture}} 
 \end{center}
 \bigskip
+<!--------------- Break --------------->
 <!--------------- Break --------------->
 ## `r advdate(mon, 14)`. Labor markets
 

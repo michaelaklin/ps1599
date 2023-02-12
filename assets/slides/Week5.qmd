@@ -25,6 +25,10 @@ bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
 
 - Workshops: rescheduling
 
+- Slides
+
+- Readings
+
 
 ##
 
@@ -32,7 +36,7 @@ bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
 What did we talk about last time?
 :::
 
-## Today
+## Next
 
 - [Politics]{.blue} of innovation, technology, development
 
@@ -42,212 +46,7 @@ What did we talk about last time?
 
   - At [diffusion]{.blue} of new prods
 
-- Today: finish inception, start diffusion
-
-
-## Supply-side
-
-![Source: @Foster1986.](./materials/foster1986_fig2.png)
-
-## Demand-side
-
-![Source: wikipedia](./materials/wiki_diff_of_ideas.png)
-
-##
-
-![Source: @en9120990](./materials/Bointner_et_al_2016.png)
-
-##
-
-!["[Swanson's law]{.red}" (-20% cost to produce PV cells when production doubles) (from "Moore's law")](./materials/owd_swansons_law.png)
-
-##
-
-![](./materials/seia_2020.png)
-
-
-##
-
-- What's the problem with R&D? Can't the market solve that?
-
-- Fundamental problem: [collective action failures]{.red}
-
-  - = indivs behave in a way that's not optimal for society
-
-  - Note: optimal$\neq$rational. Optimal=normative
-
-  - Politics = study of CA problems
-
-- Main types of CA probs: [public goods]{.red}, [coordination failures]{.red}, [commitment problems]{.red}
-
-- Today: public goods
-
-##
-
-| | **Excludable**      | **Non excludable** |
-| --- | ----------- | ----------- |
-| **Rival** | Private      | Open-access       |
-| **Non-rival** | Club   | Public        |
-
-- Definitions
-
-  - [Excludable]{.red}: users can be excluded from accessing good
-
-  - [Rival]{.red}: stock of good decreases with consumption
-
-##
-
-- [Private goods]{.red}: your pen
-
-- [Open access good]{.red}: public parc
-
-- [Club good]{.red}: Netflix
-
-- [Public goods]{.red}: ideas!
-
-- [Market failure]{.red}:
-
-  - Situations where markets don't work optimally
-
-  - Common outside of private goods
-
-## 
-
-- Problem: public goods are generally [under-produced]{.blue}
-
-- Why? [Free-riding]{.red}
-
-- Often captured by the [prisoner's dilemma]{.red}
-
-- Example: you are asked to contribute to a group project
-
-- PD is useful, but doesn't capture uncertainty of result
-
-## {.smaller}
-
-- N: people who would benefit from project
-
-- n: people who contribute (aside from you)
-
-- B: your benefit if project succeeds; everybody gets it (public good)
-
-- $\frac{n}{N}$: probability of success of project
-
-- c: your cost of participating
-
-- Cost-benefit:
-
-  - If you don't participate: $B\cdot\frac{n}{N}$
-
-  - If you participate: $B\cdot\frac{(n+1)}{N}-c$
-
-  - Participation is worth it if $\frac{B}{N}>c$
-
-## 
-
-- R&D is a [public good]{.red}!
-
-- Thus: here, research is done if $\frac{B}{N}>c$ (if model is true!)
-
-- Suppose $N$ is the US (300m), $B=\mbox{\$}1m$
-
-- You won't contribute if costs > 0.3 cents!
-
-- R&D will be underprovided...
-
-- General insight by @olson65: with public goods...
-
-  - Large N: bad
-
-  - [Diffuse interests]{.red}: bad
-
-##
-
-- Problem: you don't capture benefits from your investments
-
-- [Ideas]{.blue} are [domestic+global public goods]{.red}!
-
-- Need solution to free-riding
-
-- How can we solve this problem?
-
-## Side note: problem-solving
-
-- Many models (Define-Measure-Analyze-Improve-Control)
-
-- First: define the [problem]{.blue}
-
-  - What _should_ the goal be? Ethics!
-
-- Second: establish [mechanisms]{.red} leading to prob
-
-  - What is the [cause]{.blue} of prob? Theory and evidence
-
-- Third: design+test [interventions]{.blue} (policies)
-
-  - What is the [solution]{.blue}? Experiment
-
-::: footer
-@linderman2003six, @de2012analysis, @Samii2023
-:::
-
-##
-
-::: {.r-fit-text}
-Problem: research is a [global]{.blue} [public good]{.red}!
-:::
-
-::: {.r-fit-text}
-How do you solve it?
-:::
-
-- Define goals
-
-- Mechanisms of prob
-
-- Solutions to (root of) prob
-
-## Goals and mechanisms
-
-- **Goal(s)**
-
-  - Possibly: _High levels of R&D_, _$700b/year_, _$500b in clean energy, $200 in electric cars_, _1000 startups by 2050_, etc.
-
-  - Consequentialism ethical view
-
-- **Mechanisms**
-
-  - Free-riding: investors don't get rewarded
-
-  - Domestic + international
-
-## Solutions
-
-- Need to solve [domestic]{.blue} free-riding: 
-
-  - [Incentivize]{.blue} private sector: patents, prizes, subsidies
-
-  - [Socialize]{.blue} research: public unis, research centers
-
-- Need to solve [global]{.blue} free-riding: 
-
-  - World Intellectual Property Organization (WIPO)
-
-  - International treaties (Patent Cooperation Treaty, 1970)
-
-  - Punishment?
-
-# Conclusion
-
-##
-
-- We (often) want new goods/services
-
-- Innovations are generally needed to obtain them
-
-- Innovation is often [under-produced]{.red} ([public good]{.red} and [free-riding]{.red})
-
-- Solutions: domestic+international rules to solve free-riding
+- Today: diffusion
 
 
 # Non-market competition
@@ -277,7 +76,15 @@ How do you solve it?
 
 ![Source: Future Business Tech](./materials/futurebusinesstech.png)
  
+##
 
+::: {.r-fit-text}
+Why might [firms and workers]{.blue} try
+:::
+
+::: {.r-fit-text}
+to [slow down]{.blue} these transitions?
+:::
 
 ##
 
@@ -285,13 +92,13 @@ How do you solve it?
 
 - Market strategies
 
-  - Cut [prices]{.blue} (possibly after adopting similar tech)
+  - [Cut]{.red} [prices]{.blue} (maybe after invest in new tech)
 
-  - Increase [product differentiation]{.red}
+  - [Differentiate]{.red} [products]{.blue}
 
 - Not always feasible, affordable, efficient
 
-- Problem when new technologies appear
+- Esp. problem when new technologies appear
 
 ##
 
@@ -302,13 +109,22 @@ How do you solve it?
 
 ![Source: @Smil2018](./materials/smil_2017_fig7_7.png)
  
+
+##
+
+::: {.r-fit-text}
+[Why]{.blue} don't firms [adapt]{.red} to
+:::
+
+::: {.r-fit-text}
+new technologies?
+:::
+
 ## Puzzle
 
 - Before we go into NMS: why don't firms [adapt]{.blue}?
 
-- Firms adapt all the time
-
-  - Apple: computer to phone to iphone, etc.
+- Firms adapt sometimes (Apple)
 
 - Problem for firms: [disruptive]{.red} tech
 
@@ -316,10 +132,34 @@ How do you solve it?
 
   - [Sustaining]{.red} vs. [disruptive]{.red} tech
 
-  - Hard to switch to disruptive tech, thus NMS
+  - Hard to switch to disruptive tech: inv. in capacity, relation w/ existing customers, etc.
+
+  - Thus NMS
 
 :::{.footer}
 @christensen2013innovator
+:::
+
+
+
+## Non-market strategies
+
+- [NMS]{.red}: firms modify [(business) environment]{.blue}, not product
+
+- Some is "good": [corporate social responsibility]{.red}, [ESG]{.red}, ...
+
+- But some is "bad": eliminate competition
+
+- Bad = bad for consumers, society
+
+  - Higher prices
+
+  - Slower adoption of new tech
+
+- Happens: (1) politics + (2) society + (3) within markets
+
+:::{.footer}
+@mellahi2016review
 :::
 
 ## Non-market strategies
@@ -335,28 +175,37 @@ A[Politics] <--> B(Firm 1) & C(Firm 2) <--> D(Society)
     end
 ```
 
-## Non-market strategies
 
-- Idea: firms modify [(business) environment]{.blue}, not product
 
-- Some is "good": [corporate social responsibility]{.red}, ESG, ...
+##
 
-- But some is "bad": eliminate competition
-
-- Bad = bad for consumers, society
-
-  - Higher prices
-
-  - Slower adoption of new tech
-
-- Happens w/ politics + w/ society + within markets
-
-:::{.footer}
-@mellahi2016review
+::: {.r-fit-text}
+If you were a strategist for a [traditional]{.blue} firm...
 :::
 
+::: {.r-fit-text}
+how would you [fight]{.blue} new competitors?
+:::
 
-## Politics (1)
+::: {.r-fit-text}
+Use our [problem-solving strategy]{.red}!
+:::
+
+##
+
+
+```{mermaid}
+flowchart TB
+
+
+A[Politics] <--> B(Firm 1) & C(Firm 2) <--> D(Society)
+
+    subgraph Market
+    B <--> C
+    end
+```
+
+## Politics (1): ideology
 
 - [Ideology]{.red}: policy preferences of govs 
 
@@ -366,7 +215,9 @@ A[Politics] <--> B(Firm 1) & C(Firm 2) <--> D(Society)
 
 - [Myth]{.blue} of neutral/benevolent/scientific ruler
 
-- Problem: markets w/ market failures are exposed to change in gov preferences
+- Problem: firms w/ risk of market failures are vulernable to change in gov preferences
+
+- Reason: public goods often prod by gov ([political risk]{.red})
 
 ## Example
 
@@ -378,13 +229,13 @@ A[Politics] <--> B(Firm 1) & C(Firm 2) <--> D(Society)
 
 - 2019: 30% tariff (tax) on imports of solar equipment
 
-  - Domestic solar panel producers win (First Solar) (small share)
+  - (Small) dom solar panel producers win (First Solar) 
 
-  - Installer lose 
+  - Installers lose 
 
 ##
 
-![Source: @Aklin2018a](./materials/aklin2018_bp.png)
+![Effect of Trump surprise election on value of dom and international renewable energy firms. Source: @Aklin2018a](./materials/aklin2018_bp.png)
 
 ##
 
@@ -401,21 +252,21 @@ A[Politics] <--> B(Firm 1) & C(Firm 2) <--> D(Society)
 
 
 
-## Politics (2)
+## Politics (2): lobbying
 
-- [Lobbying]{.red} 
+- [Lobbying]{.red}: pressure on gov to change law
 
-- Modification of the law to disadvantage newcomers
+- Typically to disadvantage newcomers/advantage incumbants
 
   - Outlawing newcomers (Uber)
 
-  - Barriers to entry (cost, eg via taxes)
+  - Barriers to entry (cost, eg via taxes, subsidies to inc)
 
-  - Standards
+  - Technical/health standards
 
-- Note: often requires cooperation among firms (=public good)
+- Note: often requires cooperation among firms (=public good). 
 
-- Feasible for firms that can cooperate 
+- Which industries are more likely to lobby? Remember Olson!
 
 ## Example
 
@@ -425,24 +276,26 @@ A[Politics] <--> B(Firm 1) & C(Firm 2) <--> D(Society)
 
 - Not competitive against up-and-coming renewables
 
-- Solution: lobby Republican majority in Ohio House to subsidize their plants (2020) (House Bill 6)
+- Solution: lobby Rep majority in Ohio House to subsidize their plants (2020) (House Bill 6): $1.3b bailout
 
-- Problem: illegal contributions (about $6m in exchange for $1.3b subsidies – NB: not bad!)
+- Problem: illegal contributions (about $60m in exchange for $1.3b subsidies – NB: not bad!)
 
-- Ongoing legal battles
+- Ongoing legal battles; Ohioans pay $130k per day...
 
 
 ## Within markets (1)
 
 [Predatory pricing]{.red}
 
-- Idea: reduce price below prod cost in foreign markets
+- Idea: reduce price [below]{.blue} prod cost
 
 - Makes it impossible to newcomers to compete
 
 - Feasible for established firms with cash
 
 - Example: Walmart
+
+- Hard to prove
 
 ## Within markets (2)
 
@@ -460,35 +313,45 @@ A[Politics] <--> B(Firm 1) & C(Firm 2) <--> D(Society)
 
 - Monopolistic acquisitions
 
-- Acquisition of firms...
+- Sometimes: acquisition of firms...
 
 - Acquisition of talent ([human capital]{.red})
 
-- Example: facebook
-
+- Example: facebook and drop.io (Sam Lessin)
 
 ##
 
 ::: {.r-fit-text}
-How would you solve issues such as
+You work for a solar company.
 :::
 
 ::: {.r-fit-text}
-[dumping]{.red}, [lobbying]{.red}, etc.?
+How would you push back against [lobbying]{.red} by coal companies?
 :::
 
 ::: {.r-fit-text}
-Pick one and use problem-solving skills!
+Use problem-solving skills!
 :::
 
+##
+
+- Goal: make your firm robust to political change
+
+- Problem: imbalance in lobbying power between you and fossil competition
+
+- Strategies
+
+  - Create a clean energy trade lobby
+
+  - Encourage investments in fossil regions
+
+  - Others?
 
 # Conclusion
 
 ##
 
 - Price/product competition is good...
-
-- But often doesn't happen
 
 - Disruptive tech is a threat to firms
 
@@ -497,6 +360,8 @@ Pick one and use problem-solving skills!
 - Some are 'good'! But many are 'bad'
 
 - Threatens development
+
+- What about society NMS? Next topic!
 
 # Questions?
 
