@@ -11,7 +11,7 @@ format:
     center: true
     chalkboard: false
 title-slide-attributes: 
-    data-background-image: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/clock-of-universe-stoyanka-ivanova.jpg
+    data-background-image: https://collectionapi.metmuseum.org/api/collection/v1/iiif/679844/1571243/main-image
     data-background-opacity: "0.4"
 editor: visual
 bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
@@ -50,44 +50,82 @@ What did we talk about last time?
 
   - Start demand side issues
 
+##
 
-## Within markets (1)
-
-[Predatory pricing]{.red}
-
-- Idea: reduce price [below]{.blue} prod cost
-
-- Makes it impossible to newcomers to compete
-
-- Feasible for established firms with cash
-
-- Example: Walmart
-
-- Hard to prove
-
-## Within markets (2)
-
-[Dumping]{.red}
-
-- Same as predatory pricing, but global
-
-- Producer in cntry A exports at low price to cntry B
-
-- Producers in cntry B go bust
-
-- Producer in cntry A becomes dominant
-
-## Within markets (3)
-
-- Monopolistic acquisitions
-
-- Sometimes: acquisition of firms...
-
-- Acquisition of talent ([human capital]{.red})
-
-- Example: facebook and drop.io (Sam Lessin)
+::: {.r-fit-text}
+Is lobbying always a bad thing?
+:::
 
 ##
+
+- So far: lobbying=slow down transition=bad
+
+- But: good reasons for gov intervention exist!
+
+- First: help innovation (already discussed)
+
+- Second: address inequality between 'good' and 'bad' tech
+
+## Bad tech lock-in
+
+- Perfect market: superior tech replace inferior tech
+
+- Market failures: problem of externalities
+
+  - 'Good' tech produces [positive externalities]{.red}
+
+  - 'Bad' tech produces [negative externalities]{.red}
+
+- 'Good' tech cannot win alone **even** when it's socially desirable
+
+- Example: [carbon lock-in]{.red}
+
+
+::: footer
+@Unruh2000, @Unruh2002
+:::
+
+<!-- ##
+
+::: {.r-fit-text}
+You work for the White House...
+:::
+
+::: {.r-fit-text}
+Use your problem-solving skills
+:::
+
+::: {.r-fit-text}
+to address the externalities asymmetry
+::: -->
+
+## Within markets 
+
+- Next: within-markets
+
+- Note: not _exactly_ an NMS...
+
+- But still about changing business environment
+
+
+##  
+
+- [Predatory pricing]{.red} and [dumping]{.red}
+
+  - Idea: reduce price [below]{.blue} prod cost
+
+  - Dumping: same but export
+
+  - Makes it impossible to newcomers to compete
+
+  - Example: Walmart. But: hard to prove
+
+- Monopolistic acquisition(s): acquire firm/talent ([human capital]{.red})
+
+  - Example: facebook and drop.io (Sam Lessin) 
+
+
+<!-- ##
 
 ::: {.r-fit-text}
 You work for a solar company.
@@ -98,25 +136,24 @@ How would you push back against [lobbying]{.red} by coal companies?
 :::
 
 ::: {.r-fit-text}
-Use problem-solving skills!
-:::
+Use you problem-solving skills!
+::: -->
 
-##
+<!-- ##
 
-- Goal: make your firm robust to political change
+- Goal: make your firm robust to political turnover
 
 - Problem: imbalance in lobbying power between you and fossil competition
 
 - Strategies
 
-  - Create a clean energy trade lobby
+  - Create a clean energy trade lobby (=pool resources)
 
-  - Encourage investments in fossil regions
+  - Invest in fossil areas (=hard to overturn)
 
-  - Others?
+  - Support carbon tax? (Any risk it backfires?)
 
-
-
+  - Others? -->
 
 
 # Conclusion
@@ -127,20 +164,20 @@ Use problem-solving skills!
 
 - Disruptive tech is a threat to firms
 
-- In response: non-market strategies
+- Response is often: non-market strategies
 
 - Some are 'good'! But many are 'bad'
 
 - Threatens development
 
-- What about society NMS? Next topic!
+- What about _society_ NMS? Next topic!
 
 
 # Demand-side failures
 
 ##
 
-- Puzzle: why doesn't new+better tech replace old+bad tech?
+- Puzzle: why doesn't [new+better]{.blue} tech replace [old+bad]{.blue} tech?
 
 - So far: supply-side explanations
 
@@ -148,9 +185,9 @@ Use problem-solving skills!
 
   - Diffusion failures
 
-- Assumption: people want new+better tech
+- Hidden assumption: people want new+better tech
 
-- Is this true? [Demand-side] failures
+- Is this true? [Demand-side]{.red} failures
 
 ## 
 
@@ -159,30 +196,225 @@ Use problem-solving skills!
 2. 
 3. Coordination problems -->
 
-- [Demand-side] failures: problems with demand for 'good' tech
+- [Demand-side]{.red} prob: issues with demand for 'good' tech
 
-- Happens at three levels:
+- Happens at three (four) levels:
 
-  - Individual
+  - Individual, household, social/community, (firms)
+
+- The [calculus of demand]{.blue}
+
+  - Benefits
+
+  - Costs
+
+  - Misc.
+
+## Benefits
+
+- Two types of goods/services:
+
+  - Consumption goods
+
+  - Investment goods
+
+  - Some goods are both (eg internet)
+
+- Key Q: what is the [utility]{.red} of acquiring a given tech?
+
+  - At individual level, it's about [taste]{.red} and [cultural pref]{.red}
+
+  - At social level: [collective action issues]{.red}
+
+## 
+
+- Perfect market: supply responds to demand for new tech
+
+- But we are interested in cases w/ [market failures]{.red}
+
+- Problem: [positive externalities]{.red} are not captured
+
+- [Private]{.red} benefits < [social]{.red} benefits
+
+- Example: should I use an electric car or gasoline car?
+
+- Right now: electric car ~$10k more than gasoline
+
+
+
+## Costs
+
+- Need to include the cons side
+
+- Natural starting point: pecunary cost
+
+- Other costs (symbolic, etc)
+
+- Problem: [negative externalities]{.red} are not included!
+
+- Thus: good tech might be overpriced and bad tech underpriced
+
+##
+
+::: {.r-fit-text}
+How would you solve the pricing problem
+::: 
+
+::: {.r-fit-text}
+of 'good' tech being [overpriced]{.red}...
+::: 
+
+::: {.r-fit-text}
+and 'bad' tech being [underpriced]{.red}?
+::: 
+
+##
+
+- Increase private cost of negative externalities
   
-  - Household
+  - [Pigouvian]{.red} taxes
 
-  - Social/community
+  - Trading systems. Eg EU ETS
+
+  - Symbolic cost (eg fur)
+
+- Increase private value of positive externalities
+
+  - [Subsidies]{.red}. Eg tax credits
+
+  - Symbolic gains (eg make green cool)
+
+- [Which ones are politically more likely to work?]{.red}
+
+## Misc
+
+- Decision are never just a matter of money
+
+  - Signaling, branding, etc
+
+- Tech-specific issue: new products are unknown
+
+  - [Unawareness]{.red}
+
+  - [Uncertainty]{.red} regarding quality
+
+- Example: solar technology in India
+
+::: footer
+@Aklinetal2018d
+:::
+
+
+## Household dynamics
+
+- So far: discussion focused on [individuals]{.blue}
+
+- But what about [households]{.blue}?
 
 ##
 
+::: {.r-fit-text}
+Can you think of reasons why moving from
+::: 
+
+::: {.r-fit-text}
+[individuals]{.blue} to [households]{.blue}  
+:::
+
+::: {.r-fit-text}
+could change the [decision calculus]{.blue?
+:::
+
 ##
 
-![Source: wiki](./materials/Mary_Wollstonecraft_Shelley_Rothwell.tif.jpg){.absolute left=0}
+- Decision-maker is not an individual 'rational' actor
 
-![Source: wiki](./materials/1280px-Bram_Stoker_1906.jpg){.absolute right=0}
+- Instead: within household negotiations
 
-##
+- Builds in biases derived from economic and cultural factors
+
+  - Who earns the money?
+
+  - Who makes decisions about what?
+
+  - Whose views carry more weight?
+
+## Example: benefits of electricity access
+
+- Context: India
+
+- 1+b inhabitants. But until ~2010: 700m w/o electricity
+
+- Successful electrification programs (RGGVY, Saubhagya)
+
+- Question: who benefitted from electrification?
+
+- Study conducted in rural northern India
+
+- Answer: appliances by male head of HH
+
+::: footer
+@Rosenbergetal2019
+:::
+
+## Example (2): clean cook stoves
+
+- Modern economies: use non-solid fuel (elec, gas)
+
+- Poorer economies (~2.4b): solid fuel (wood, kerosene, charcoal, dung)
+
+- Impact: indoor air pollution. [Who will be affected?]{.red}
+
+- WHO: 3.2m deaths per year (2020); 237k children under 5
+
+- Pulmonary diseases, lung cancer, breathing issues
+
+<!-- Source: https://www.who.int/en/news-room/fact-sheets/detail/household-air-pollution-and-health -->
+
+
+## Example (continued)
+
+- [Solution]{.blue}: clean (or at least improved) cookstoves
+
+- [Diagnostic]{.blue}: problem of cost (externalities) for HH and for countries
+
+- [Solution]{.blue}: global funding effect led by Global Alliance for Clean Cookstoves (2010, Clinton)
+
+- [Goal]{.blue}: replace solid-fuel cookstoves w/ clean ones (~100m units)
+
+- In practice: distribution of 28m, seldom used
+
+## Example (fin)
+
+
+- Many problems...
+
+- [Benefits]{.blue}: air pollution is not seen as a threat
+
+  - Connects to inside hh bargaining
+
+- [Costs]{.blue}: good clean stoves are expensive
+
+- Misc: clean cookstoves are often not designed in a way that matches traditional cooking styles
+
+::: footer
+@Mobaraketal2012
+:::
+
 
 # Conclusion
 
 ##
 
+- 'Good' tech is often disadvantaged
+
+- Problem of positive/negative [externalities]{.red}
+
+- Good tech must be affordable!
+
+- But not just about money: beliefs about problems, cultural values, etc. 
+
+- Importance of social component in tech adoption
 
 # Questions?
 
@@ -196,6 +428,6 @@ aklin@pitt.edu
 
 <br>
 
-<font size="5">Source for title page painting: Stoyanka Ivanova, _Clock of Universe_</font>
+<font size="5">Source for title page painting:  Joachim Beuckelaer, _Fish market_</font>
 
 ## References{.scrollable .smaller}

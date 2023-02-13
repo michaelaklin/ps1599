@@ -12,12 +12,12 @@ description: Links to course material.
 * Week 2 [slides](./assets/slides/Week2.pdf)
 * Week 3 [slides](./assets/slides/Week3.pdf)
 * Week 4 [slides](./assets/slides/Week4.pdf)
-* Week 5 slides
+* Week 5 [slides](./assets/slides/Week5.pdf)
 * Week 6 slides
 * Week 7 slides
 * Week 8 slides
 * Week 9: spring break, no class
-* Week 10 slides
+* Week 10: midterm
 * Week 11 slides
 * Week 12 slides
 * Week 13 slides

@@ -283,69 +283,80 @@ A[Politics] <--> B(Firm 1) & C(Firm 2) <--> D(Society)
 - Ongoing legal battles; Ohioans pay $130k per day...
 
 
-## Within markets (1)
-
-[Predatory pricing]{.red}
-
-- Idea: reduce price [below]{.blue} prod cost
-
-- Makes it impossible to newcomers to compete
-
-- Feasible for established firms with cash
-
-- Example: Walmart
-
-- Hard to prove
-
-## Within markets (2)
-
-[Dumping]{.red}
-
-- Same as predatory pricing, but global
-
-- Producer in cntry A exports at low price to cntry B
-
-- Producers in cntry B go bust
-
-- Producer in cntry A becomes dominant
-
-## Within markets (3)
-
-- Monopolistic acquisitions
-
-- Sometimes: acquisition of firms...
-
-- Acquisition of talent ([human capital]{.red})
-
-- Example: facebook and drop.io (Sam Lessin)
-
 ##
 
 ::: {.r-fit-text}
-You work for a solar company.
-:::
-
-::: {.r-fit-text}
-How would you push back against [lobbying]{.red} by coal companies?
-:::
-
-::: {.r-fit-text}
-Use problem-solving skills!
+Is lobbying always a bad thing?
 :::
 
 ##
 
-- Goal: make your firm robust to political change
+- So far: lobbying=slow down transition=bad
 
-- Problem: imbalance in lobbying power between you and fossil competition
+- But: good reasons for gov intervention exist!
 
-- Strategies
+- First: help innovation (already discussed)
 
-  - Create a clean energy trade lobby
+- Second: address inequality between 'good' and 'bad' tech
 
-  - Encourage investments in fossil regions
+## Bad tech lock-in
 
-  - Others?
+- Perfect market: superior tech replace inferior tech
+
+- Market failures: problem of externalities
+
+  - 'Good' tech produces [positive externalities]{.red}
+
+  - 'Bad' tech produces [negative externalities]{.red}
+
+- 'Good' tech cannot win alone **even** when it's socially desirable
+
+- Example: [carbon lock-in]{.red}
+
+
+::: footer
+@Unruh2000, @Unruh2002
+:::
+
+<!-- ##
+
+::: {.r-fit-text}
+You work for the White House...
+:::
+
+::: {.r-fit-text}
+Use your problem-solving skills
+:::
+
+::: {.r-fit-text}
+to address the externalities asymmetry
+::: -->
+
+## Within markets 
+
+- Next: within-markets
+
+- Note: not _exactly_ an NMS...
+
+- But still about changing business environment
+
+
+##  
+
+- [Predatory pricing]{.red} and [dumping]{.red}
+
+  - Idea: reduce price [below]{.blue} prod cost
+
+  - Dumping: same but export
+
+  - Makes it impossible to newcomers to compete
+
+  - Example: Walmart. But: hard to prove
+
+- Monopolistic acquisition(s): acquire firm/talent ([human capital]{.red})
+
+  - Example: facebook and drop.io (Sam Lessin) 
+
 
 # Conclusion
 
@@ -355,13 +366,13 @@ Use problem-solving skills!
 
 - Disruptive tech is a threat to firms
 
-- In response: non-market strategies
+- Response is often: non-market strategies
 
 - Some are 'good'! But many are 'bad'
 
 - Threatens development
 
-- What about society NMS? Next topic!
+- What about _society_ NMS? Next topic!
 
 # Questions?
 
