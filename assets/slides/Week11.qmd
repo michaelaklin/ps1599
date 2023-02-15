@@ -1,0 +1,71 @@
+---
+title: "Analysis of IR"
+subtitle: "PS 1599 | Week 11: Policy workshop"
+institute: "University of Pittsburgh"
+author: "Michaël Aklin"
+format:
+  revealjs:
+    incremental: true
+    theme: [white, revealjs_customization.scss]
+    logo: materials/PASU_Logo.png
+    center: true
+    chalkboard: false
+title-slide-attributes: 
+    data-background-image: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/clock-of-universe-stoyanka-ivanova.jpg
+    data-background-opacity: "0.4"
+editor: visual
+bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
+---
+
+## Administration
+
+- Office hours
+
+- aklin@pitt.edu 
+
+- Updated schedule
+
+- Slides
+
+- Readings
+
+
+# Policy report
+
+## Aim of assignment
+
+## Requirement
+
+
+
+# Policymaking
+
+
+## Principles of policymaking
+
+## Problem-solving skills
+
+# Assignment
+
+##
+
+Solve the free-riding problem in your course project
+
+
+
+
+# Questions?
+
+aklin@pitt.edu
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<font size="5">Source for title page painting: Stoyanka Ivanova, _Clock of Universe_</font>
+
+## References{.scrollable .smaller}

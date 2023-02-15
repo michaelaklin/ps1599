@@ -42,7 +42,7 @@ What did we talk about last time?
 
 - In times of disruptive tech: non-market strategies
 
-- Two so far: lobbying and electing friendly pols
+- Two so far: [lobbying]{.blue} and [electing friendly pols]{.blue}
 
 - Today:
 
@@ -53,18 +53,24 @@ What did we talk about last time?
 ##
 
 ::: {.r-fit-text}
-Is lobbying always a bad thing?
+Is lobbying/influencing elections
+:::
+
+::: {.r-fit-text}
+always a [bad]{.red} thing?
 :::
 
 ##
 
-- So far: lobbying=slow down transition=bad
+- So far: lobbying = slow down transition = bad
 
-- But: good reasons for gov intervention exist!
+- But: good reasons for gov intervention exist (and lobbying)!
 
 - First: help innovation (already discussed)
 
-- Second: address inequality between 'good' and 'bad' tech
+- Second: lobbying helps provide information
+
+- Third: address inequality between 'good' and 'bad' tech
 
 ## Bad tech lock-in
 
@@ -101,7 +107,7 @@ to address the externalities asymmetry
 
 ## Within markets 
 
-- Next: within-markets
+- Next: within-markets NMS
 
 - Note: not _exactly_ an NMS...
 
@@ -120,7 +126,9 @@ to address the externalities asymmetry
 
   - Example: Walmart. But: hard to prove
 
-- Monopolistic acquisition(s): acquire firm/talent ([human capital]{.red})
+- Monopolistic acquisition(s): acquire/merge firm
+
+- Capturing talent ([human capital]{.red})
 
   - Example: facebook and drop.io (Sam Lessin) 
 
@@ -222,17 +230,17 @@ Use you problem-solving skills!
 
 - Key Q: what is the [utility]{.red} of acquiring a given tech?
 
-  - At individual level, it's about [taste]{.red} and [cultural pref]{.red}
+  - At indiv level: benefits are about [taste]{.red}, [cultural pref]{.red}
 
-  - At social level: [collective action issues]{.red}
+  - At social level: B conditioned by [collective action issues]{.red}
 
-## 
+## Problem
 
 - Perfect market: supply responds to demand for new tech
 
 - But we are interested in cases w/ [market failures]{.red}
 
-- Problem: [positive externalities]{.red} are not captured
+- Prob for goods w/ [positive externalities]{.red} (not captured)
 
 - [Private]{.red} benefits < [social]{.red} benefits
 
@@ -270,7 +278,7 @@ and 'bad' tech being [underpriced]{.red}?
 
 ##
 
-- Increase private cost of negative externalities
+- Increase [private cost]{.red} of negative externalities
   
   - [Pigouvian]{.red} taxes
 
@@ -278,7 +286,7 @@ and 'bad' tech being [underpriced]{.red}?
 
   - Symbolic cost (eg fur)
 
-- Increase private value of positive externalities
+- Increase [private benefit]{.red} of positive externalities
 
   - [Subsidies]{.red}. Eg tax credits
 
@@ -322,16 +330,16 @@ Can you think of reasons why moving from
 :::
 
 ::: {.r-fit-text}
-could change the [decision calculus]{.blue?
+could change the [decision calculus]{.blue}?
 :::
 
 ##
 
-- Decision-maker is not an individual 'rational' actor
+- Decision-maker is not an individual '[rational]{.red}' actor
 
-- Instead: within household negotiations
+- Instead: [within-household bargaining]{.blue}
 
-- Builds in biases derived from economic and cultural factors
+- Includes biases derived from econ and cultural factors
 
   - Who earns the money?
 
@@ -341,17 +349,17 @@ could change the [decision calculus]{.blue?
 
 ## Example: benefits of electricity access
 
-- Context: India
+- Context: India, >1b inhabitants, GDP/cap $2k
 
-- 1+b inhabitants. But until ~2010: 700m w/o electricity
+- But until ~2010: 700m w/o electricity
 
 - Successful electrification programs (RGGVY, Saubhagya)
 
-- Question: who benefitted from electrification?
+- Question: who benefited from electrification?
 
 - Study conducted in rural northern India
 
-- Answer: appliances by male head of HH
+- Answer: appliances by male head of HH (TV, non-kitchen fan, phone)
 
 ::: footer
 @Rosenbergetal2019
@@ -389,9 +397,7 @@ could change the [decision calculus]{.blue?
 
 - Many problems...
 
-- [Benefits]{.blue}: air pollution is not seen as a threat
-
-  - Connects to inside hh bargaining
+- [Benefits]{.blue}: air pollution is not seen as a threat: awareness + intra-hh bargaining
 
 - [Costs]{.blue}: good clean stoves are expensive
 
