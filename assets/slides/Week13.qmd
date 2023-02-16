@@ -1,6 +1,6 @@
 ---
 title: "Analysis of IR"
-subtitle: "PS 1599 | Week 6: Demand failures"
+subtitle: "PS 1599 | Week 11: Coordination"
 institute: "University of Pittsburgh"
 author: "Michaël Aklin"
 format:
@@ -25,32 +25,16 @@ bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
 
 
 
+![EE News, Feb 15, 2023](./materials/eenews_tesla_1.png)
 
+![](./materials/eenews_tesla_2.png)
+
+<!-- Source: https://www.eenews.net/articles/tesla-opens-its-ev-charging-network-to-the-masses/ -->
 ##
 
-::: {.r-fit-text}
-What did we talk about last time?
-:::
+Solve the free-riding problem in your course project
 
-##
 
-<!-- 
-
-Amish
-Luddite
-Techo-optimists
-
- -->
-
-![Source: wiki](./materials/Mary_Wollstonecraft_Shelley_Rothwell.tif.jpg){.absolute left=0}
-
-![Source: wiki](./materials/1280px-Bram_Stoker_1906.jpg){.absolute right=0}
-
-##
-
-# Conclusion
-
-##
 
 
 # Questions?

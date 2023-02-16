@@ -1,0 +1,106 @@
+---
+title: "Analysis of IR"
+subtitle: "PS 1599 | Research Report"
+institute: "University of Pittsburgh"
+author: "Michaël Aklin"
+format:
+  revealjs:
+    incremental: true
+    theme: [white, revealjs_customization.scss]
+    logo: materials/PASU_Logo.png
+    center: true
+    chalkboard: false
+editor: visual
+bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
+---
+
+
+
+# Research report
+
+## Overview
+
+- [Problem-solving skills]{.blue} are essential
+
+  - Identify problems
+
+  - Find their causes
+
+  - Design solutions
+
+- ["Analysis"]{.blue} courses are about analytical skills
+
+- Here: [data literacy]{.blue}...
+
+- Connected to [sustainable development]{.blue}
+
+## Assignment
+
+- Research report = 40% of final grade
+
+- Your task: **[Who is (or isn’t) interested in, and supportive of, renewable energy technology?]{.blue}**
+
+- 1st: Literature review
+
+- 2nd: *Analyze*, *summarize*, *communicate* survey data (Pew)
+
+- People's views about clean energy
+
+- Demographics, politics, etc.
+
+## Report
+
+- Introduction (1-2 paragraphs)
+
+- Literature review (2-3)
+
+- Data & methods (2-3)
+
+- Finding (however much space you need)
+
+- Conclusion (1-2)
+
+- Template+instructions on Canvas
+
+## Workshops
+
+- Starts next Monday
+
+  - Introduce the project+data
+
+  - How to analyze data
+
+  - How to summarize/present data
+
+  - Small (ungraded) exercises
+
+- Material will be shared on Canvas
+
+- Bring laptop/tablet (zoom if needed)
+
+## Grading
+
+- Ability to identify and interpret research
+
+- Ability to analyze, summarize, and communicate data accurately
+
+- More details to be provided...
+
+- Questions?
+
+
+# Questions?
+
+aklin@pitt.edu
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<font size="5">Source for title page painting:  Joachim Beuckelaer, _Fish market_</font>
+
+## References{.scrollable .smaller}

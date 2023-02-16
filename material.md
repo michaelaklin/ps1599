@@ -13,7 +13,7 @@ description: Links to course material.
 * Week 3 [slides](./assets/slides/Week3.pdf)
 * Week 4 [slides](./assets/slides/Week4.pdf)
 * Week 5 [slides](./assets/slides/Week5.pdf)
-* Week 6 slides
+* Week 6 [slides](./assets/slides/Week6.pdf)
 * Week 7 slides
 * Week 8 slides
 * Week 9: spring break, no class
@@ -22,6 +22,15 @@ description: Links to course material.
 * Week 12 slides
 * Week 13 slides
 * Week 14 slides
+
+# Assignments
+
+[Research report slides (pdf)](./assets/slides/ResearchReport.pdf)
+
+[Research report instructions (docx)](./assets/assignments/Research%20Report%20Instructions.docx)
+
+[Research report template (docx)](./assets/assignments/Research%20Report%20Template.docx)
+
 
 # Readings
 

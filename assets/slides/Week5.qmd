@@ -286,18 +286,24 @@ A[Politics] <--> B(Firm 1) & C(Firm 2) <--> D(Society)
 ##
 
 ::: {.r-fit-text}
-Is lobbying always a bad thing?
+Is lobbying/influencing elections
+:::
+
+::: {.r-fit-text}
+always a [bad]{.red} thing?
 :::
 
 ##
 
-- So far: lobbying=slow down transition=bad
+- So far: lobbying = slow down transition = bad
 
-- But: good reasons for gov intervention exist!
+- But: good reasons for gov intervention exist (and lobbying)!
 
 - First: help innovation (already discussed)
 
-- Second: address inequality between 'good' and 'bad' tech
+- Second: lobbying helps provide information
+
+- Third: address inequality between 'good' and 'bad' tech
 
 ## Bad tech lock-in
 
@@ -318,23 +324,11 @@ Is lobbying always a bad thing?
 @Unruh2000, @Unruh2002
 :::
 
-<!-- ##
 
-::: {.r-fit-text}
-You work for the White House...
-:::
-
-::: {.r-fit-text}
-Use your problem-solving skills
-:::
-
-::: {.r-fit-text}
-to address the externalities asymmetry
-::: -->
 
 ## Within markets 
 
-- Next: within-markets
+- Next: within-markets NMS
 
 - Note: not _exactly_ an NMS...
 
@@ -353,9 +347,13 @@ to address the externalities asymmetry
 
   - Example: Walmart. But: hard to prove
 
-- Monopolistic acquisition(s): acquire firm/talent ([human capital]{.red})
+- Monopolistic acquisition(s): acquire/merge firm
+
+- Capturing talent ([human capital]{.red})
 
   - Example: facebook and drop.io (Sam Lessin) 
+
+
 
 
 # Conclusion
@@ -373,6 +371,7 @@ to address the externalities asymmetry
 - Threatens development
 
 - What about _society_ NMS? Next topic!
+
 
 # Questions?
 

@@ -36,149 +36,6 @@ bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
 What did we talk about last time?
 :::
 
-##
-
-- In 'regular' times: mostly competition via prices and quality
-
-- In times of disruptive tech: non-market strategies
-
-- Two so far: [lobbying]{.blue} and [electing friendly pols]{.blue}
-
-- Today:
-
-  - Finish NMS
-
-  - Start demand side issues
-
-##
-
-::: {.r-fit-text}
-Is lobbying/influencing elections
-:::
-
-::: {.r-fit-text}
-always a [bad]{.red} thing?
-:::
-
-##
-
-- So far: lobbying = slow down transition = bad
-
-- But: good reasons for gov intervention exist (and lobbying)!
-
-- First: help innovation (already discussed)
-
-- Second: lobbying helps provide information
-
-- Third: address inequality between 'good' and 'bad' tech
-
-## Bad tech lock-in
-
-- Perfect market: superior tech replace inferior tech
-
-- Market failures: problem of externalities
-
-  - 'Good' tech produces [positive externalities]{.red}
-
-  - 'Bad' tech produces [negative externalities]{.red}
-
-- 'Good' tech cannot win alone **even** when it's socially desirable
-
-- Example: [carbon lock-in]{.red}
-
-
-::: footer
-@Unruh2000, @Unruh2002
-:::
-
-<!-- ##
-
-::: {.r-fit-text}
-You work for the White House...
-:::
-
-::: {.r-fit-text}
-Use your problem-solving skills
-:::
-
-::: {.r-fit-text}
-to address the externalities asymmetry
-::: -->
-
-## Within markets 
-
-- Next: within-markets NMS
-
-- Note: not _exactly_ an NMS...
-
-- But still about changing business environment
-
-
-##  
-
-- [Predatory pricing]{.red} and [dumping]{.red}
-
-  - Idea: reduce price [below]{.blue} prod cost
-
-  - Dumping: same but export
-
-  - Makes it impossible to newcomers to compete
-
-  - Example: Walmart. But: hard to prove
-
-- Monopolistic acquisition(s): acquire/merge firm
-
-- Capturing talent ([human capital]{.red})
-
-  - Example: facebook and drop.io (Sam Lessin) 
-
-
-<!-- ##
-
-::: {.r-fit-text}
-You work for a solar company.
-:::
-
-::: {.r-fit-text}
-How would you push back against [lobbying]{.red} by coal companies?
-:::
-
-::: {.r-fit-text}
-Use you problem-solving skills!
-::: -->
-
-<!-- ##
-
-- Goal: make your firm robust to political turnover
-
-- Problem: imbalance in lobbying power between you and fossil competition
-
-- Strategies
-
-  - Create a clean energy trade lobby (=pool resources)
-
-  - Invest in fossil areas (=hard to overturn)
-
-  - Support carbon tax? (Any risk it backfires?)
-
-  - Others? -->
-
-
-# Conclusion
-
-##
-
-- Price/product competition is good...
-
-- Disruptive tech is a threat to firms
-
-- Response is often: non-market strategies
-
-- Some are 'good'! But many are 'bad'
-
-- Threatens development
-
-- What about _society_ NMS? Next topic!
 
 
 # Demand-side failures
@@ -335,9 +192,11 @@ could change the [decision calculus]{.blue}?
 
 ##
 
+- Individuals: cost-benefit
+
 - Decision-maker is not an individual '[rational]{.red}' actor
 
-- Instead: [within-household bargaining]{.blue}
+- Instead: [intra-household bargaining]{.blue}+[externalities]{.red}
 
 - Includes biases derived from econ and cultural factors
 
@@ -355,15 +214,34 @@ could change the [decision calculus]{.blue}?
 
 - Successful electrification programs (RGGVY, Saubhagya)
 
-- Question: who benefited from electrification?
+- Questions: who [benefits]{.blue} from electrification?
 
 - Study conducted in rural northern India
 
-- Answer: appliances by male head of HH (TV, non-kitchen fan, phone)
+- Ownership and use of appliances
 
-::: footer
-@Rosenbergetal2019
-:::
+
+##
+
+![Source: @Rosenbergetal2019](./materials/rosenberg_et_al_1.png)
+
+##
+
+![Source: @Rosenbergetal2019](./materials/rosenberg_et_al_2.png)
+
+##
+
+![Source: @Rosenbergetal2019](./materials/rosenberg_et_al_3.png)
+
+##
+
+- Electrification is great!
+
+- But uneven benefits...
+
+- Technology is not neutral: interacts with local politics, culture, economics
+
+- Here: gendered dimension of technology
 
 ## Example (2): clean cook stoves
 
@@ -379,6 +257,13 @@ could change the [decision calculus]{.blue}?
 
 <!-- Source: https://www.who.int/en/news-room/fact-sheets/detail/household-air-pollution-and-health -->
 
+##
+
+![](./materials/courtesy_cookstoves.jpg)
+
+##
+
+~[Source: GNESD](./materials/gnesed.jpg)
 
 ## Example (continued)
 
@@ -392,8 +277,7 @@ could change the [decision calculus]{.blue}?
 
 - In practice: distribution of 28m, seldom used
 
-## Example (fin)
-
+## Example (continued)
 
 - Many problems...
 
@@ -401,12 +285,51 @@ could change the [decision calculus]{.blue}?
 
 - [Costs]{.blue}: good clean stoves are expensive
 
-- Misc: clean cookstoves are often not designed in a way that matches traditional cooking styles
+- Study by @Alemetal2023: 
+
+  - Experiment on clean cookstoves in Ethiopia, 2013
+
+  - Randomize offer to buy to spouse, men, women
+
+  - Evaluate willingnes to pay and usage
 
 ::: footer
 @Mobaraketal2012
 :::
 
+##
+
+![Source: @Alemetal2023](./materials/Alem_et_al_2023.png)
+
+##
+
+::: {.r-fit-text}
+Based on what you now know...
+:::
+
+::: {.r-fit-text}
+How would you [improve sales+use]{.blue} of clean cookstoves?
+:::
+
+##
+
+- **Goal**: replace trad cookstoves with improved/clean ones in rural areas
+
+- **Problem**: current tech isn't designed
+
+- Adapt goods/services to meet cultural preferences
+
+  - Not just about engineering!
+
+- Women sale's representative
+
+  - Example from India
+
+- Subsidies specific for cookstoves (can't be captured by husband)
+
+  - Not something economists would recommend!
+
+- Others?
 
 # Conclusion
 
