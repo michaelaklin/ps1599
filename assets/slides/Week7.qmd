@@ -1,6 +1,6 @@
 ---
 title: "Analysis of IR"
-subtitle: "PS 1599 | Week 6: Demand failures"
+subtitle: "PS 1599 | Week 7: Social dynamics"
 institute: "University of Pittsburgh"
 author: "Michaël Aklin"
 format:
@@ -11,7 +11,7 @@ format:
     center: true
     chalkboard: false
 title-slide-attributes: 
-    data-background-image: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/clock-of-universe-stoyanka-ivanova.jpg
+    data-background-image: https://images.squarespace-cdn.com/content/v1/5329b201e4b09fd47861cac1/1476203606038-BFZGD8SC4QO7CVX65K8T/Art+History+for+Kids+%E2%80%93+Discussing+the+idea+of+community+as+seen+in+famous+paintings.?format=750w
     data-background-opacity: "0.4"
 editor: visual
 bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
@@ -23,7 +23,7 @@ bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
 
 - aklin@pitt.edu 
 
-
+- Workshop
 
 
 ##
@@ -34,6 +34,22 @@ What did we talk about last time?
 
 ##
 
+- [Demand]{.red} matters for sustainable development
+
+- [Individual]{.red} factors: income, age, gender, education
+
+- [Household]{.red} dynamics: gender, age inequality
+
+  - Example: clean cookstoves, electricity access
+
+- Next: demand at the [societal]{.red} level
+
+  - Social preferences: community, society, state
+
+  - Social failures (next class)
+
+
+
 <!-- 
 
 Amish
@@ -42,16 +58,411 @@ Techo-optimists
 
  -->
 
-![Source: wiki](./materials/Mary_Wollstonecraft_Shelley_Rothwell.tif.jpg){.absolute left=0}
+##
 
-![Source: wiki](./materials/1280px-Bram_Stoker_1906.jpg){.absolute right=0}
+- Many decisions are made by [individuals/households]{.blue}...
+
+- Sometimes, [society]{.blue} "makes" decisions
+
+  - Collective decision
+
+  - Example: demand for GMO, local wind turbines, AI
+
+- Three levels
+
+  - [Socio-political]{.red} acceptance
+
+  - [Community]{.red} acceptance
+
+  - [Market]{.red} acceptance
+
+::: footer
+@Wuestenhagenetal2007
+:::
 
 ##
+
+::: {.r-fit-text}
+[Who]{.blue} are these people?
+:::
+
+##
+
+![Source: wikipedia](./materials/Mary_Wollstonecraft_Shelley_Rothwell.tif.jpg)
+
+##
+
+![Source: wikipedia](./materials/1280px-Bram_Stoker_1906.jpg)
+
+##
+
+- Two very different view of sustainability of development
+
+- Mary Shelley (1797-1851)
+
+  - [Dr.]{.blue} Frankenstein [creates]{.blue} a beast
+
+  - Nature > human rationality
+
+- Bram Stoker (1847-1912)
+
+  - [Dr.]{.blue} Van Helsing [solves]{.blue} the beast
+
+  <!-- - Dracula: repulsive but (kind of) natural -->
+
+  - Human rationality > nature
+
+- Conflicting views by society on tech development
+
+# Social acceptance
+
+##
+
+- Culture
+
+  - Attitudes toward technology
+
+  - Depends on priorities, values, and impact
+
+- Economic factors
+
+  - Threat to specific workers
+
+  - Threat to [regions]{.red} ([poverty traps]{.red})
+
+## Example: Amish
+
+- Amish: Christian protestant subgroup, DE-FR-CH
+
+- First wave in US/PA early 1700s (rel tolerance)
+
+- Focus on [community]{.red} (vs individual pride) 
+
+  - Tech rejection: threat to social ties+values ("_Ordnung_")
+
+  - Tech rejection: defines against outsiders ("English")
+
+  - Hard to change ([veto power]{.red} of 2+indiv and neighbor [peer pressure]{.red})
+
+- Elec (1910): threat to indep, fight w/ Mennonites
+
+::: footer
+@wetmore2007amish
+:::
+
+## Example: Luddites and machines
+
+- Nottingham, 1811: mob led by "Ned Lud" destroys new textile tech (+1 death)
+
+- Origin of the term "[luddite]{.red}"
+
+- Mistakenly interpreted as anti-tech
+
+- Instead: worry of high- (vs low-)skilled workers
+
+- Impact of tech depends on complementarity with workers
+
+  - 20th century: tech helps high-skilled workers
+
+  - Before+after: tech often hurts high-skilled workers
+
+::: footer
+@hobsbawm1952machine, @acemoglu2002directed, @o2013luddites
+:::
+
+##
+
+::: {.r-fit-text}
+Consider the threat from [automation]{.red}.
+:::
+
+::: {.r-fit-text}
+Can you design policies to both [promote]{.blue} new tech...
+:::
+
+::: {.r-fit-text}
+and [protect]{.blue} at-risk people?
+:::
+
+##
+
+- 1st approach: reduce inequality _ex ante_
+
+  - Even the playground
+
+  - Eg tax on robots, subsidies for workers
+
+  - Downside: slows tech
+
+- 2nd approach: compensate _ex post_
+
+  - Let tech be deployed, help those hurt
+
+  - Eg: unemployment insurance, re-skilling programs, etc.
+
+  - Downside: not always [credible]{.red}
+
+
+
+# Community acceptance
+
+##
+
+- Society is often too broad
+
+- Community: local society
+
+- Decisions over tech: often at community level
+
+- Culture + economics still matter...
+
+- Here: importance of [equality]{.red}/[justice]{.red}
+
+- Tech often has [distributional consequences]{.red}: winners/losers
+
+
+##
+
+::: {.r-fit-text}
+[Who]{.blue} will host [unsustainable]{.red} tech?
+:::
+
+::: {.r-fit-text}
+[Who]{.blue} will host [sustainable]{.red} tech?
+:::
+
+##
+
+- Who hosts bad tech is never neutral
+
+- Some distributional consequences depend on [econ]{.red} factors...
+
+- But many depend on [politics]{.red}
+
+- Top-down biases: who controls the agenda?
+
+- Bottom-up biases: who mobilizes?
+
+
+## Example: NIMBY-ism
+
+- Consider transportation: roads=critical infrastructure
+
+- But where should they be built? 
+
+- NIMBYism: not in my backyward
+
+- Three problems
+
+  - Infrastructure (roads) are needed for econ growth!
+
+  - Decision-makers will not treat everyone equally
+
+  - Communities won't all mobilize equally
+
+<!-- ## Example: pollution inequality
+
+## Example: New York City highways -->
+
+##
+
+![Jane Jacobs vs. Robert Moses. Source: NYC Urbanism](./materials/nyc_arterial_system_1964.jpg)
+
+##
+
+::: {.r-fit-text}
+How would you overcome [NIMBY]{.red}-ism?
+:::
+
+::: {.r-fit-text}
+And how would you run a NIMBY campaign?
+:::
+
+
+# Country-level demand
+
+##
+
+- So far: individuals, households, community, society
+
+- Some decisions: country- or nation-level
+
+- Two ways to think about this:
+
+  - Culture
+
+  - Politics/international relations 
+
+# Culture
+
+## Impact of culture
+
+- [Culture]{.red} = "shared values, norms, beliefs, and preferences" of a society [@galor2022journey]
+
+- Individuals are embedded in culture
+
+- Affects:
+
+  - Priorities $\rightarrow$ development of new ideas
+
+  - Acceptance $\rightarrow$ adoption of new ideas
+
+- Markets depend on trust, networks ([social capital]{.red}) (eg S vs N Italy)
+
+## Origins of culture
+
+- General rule: culture is [conservative]{.blue}
+
+  - Old norms/values: proven track record
+
+  - Role of religions, arts, etc.
+
+- "[Evolutionary theory]{.blue}" of cultural change
+
+  - Accidental new cultural traits (eg conflict)
+
+  - Survival depends on advantage they provide
+
+- In post-Ind Rev: cultural traits that help w/ new tech
+
+  - Enlightenment (Kant, etc.)
+
+  - Eg: literacy in Protestant (and Jewish) culture (Weber)
+
+<!-- ::: footer
+@galor2022journey
+::: -->
+
+# Politics & international relations
+
+## Adoption
+
+- Technology is broadly a [public good]{.red}
+
+- Spreads [within]{.blue} and [across]{.blue} countries
+
+- [2nd image reversed]{.red}
+
+  - "2nd image": countries affect global politics
+
+  - "2nd image reversed": global pol affect countries
+
+  - [(Policy) diffusion]{.red} processes
+
+::: footer
+@Gourevitch1978
+:::
+
+## Mechanisms of diffusion
+
+- Why do tech spread globally? Many mechanisms
+
+- [Learning]{.red}
+
+  - 1st-mover country in R&D: public good
+
+  - 2nd-mover advantage
+
+- [Competition]{.red}
+
+  - International markets
+
+  - Evolutionary process
+
+- [Coercion]{.red}: forced acquisition of goods/tech
+
+::: footer
+@berger2013commercial, @Dobbinetal2007
+:::
+
+## Rejection
+
+- Why would tech ever be rejected?
+
+- Adoption of (sustainable) tech has [distributional]{.red} consequences
+
+- "Selectorate": govs cater to whoever keeps them in power
+
+  - Democracies: broad set of supporters needed
+
+  - Autocracies: narrow set (eg army)
+
+- General rule: need to look at [who]{.blue} is affected
+
+::: footer
+@BDMetal2003
+:::
+
+##
+
+::: {.r-fit-text}
+What do you think the [political rationale]{.blue}
+:::
+
+::: {.r-fit-text}
+to promote/block internet is?
+:::
+
+## Example: internet
+
+- New technology
+
+- Considerable economic benefits
+
+  - Access, diffusion of information
+
+  - Access to customers
+
+  - = good for economic growth
+
+- But considerable hostility from autocracies
+
+  - Lower cost of social mobilization
+
+##
+
+![Source: @Milner2006](./materials/milner2006_fig1.png)
+
+##
+
+- How can you combine growth and control?
+
+- Solution: more tech (firewalls, internet police, software filters, etc) + barriers (cost)
+
+- China: censorship of...
+
+  - certain websites
+
+  - publications
+
+  - private speech, when about collection action
+
+::: footer
+@Milner2006, @king2013censorship
+:::
+
 
 # Conclusion
 
 ##
 
+- Tech adoption is not just an individual decision
+
+- Society+community+state matter
+
+  - Culture
+
+  - Economy
+
+  - Politics
+
+- Not a good vs. bad
+
+  - Different priorities (eg Amish)
+
+  - NIMBYism: sometimes good, sometimes bad
+
+- But for sustainable tech to work: need community+political support
 
 # Questions?
 
@@ -65,6 +476,6 @@ aklin@pitt.edu
 
 <br>
 
-<font size="5">Source for title page painting: Stoyanka Ivanova, _Clock of Universe_</font>
+<font size="5">Source for title page painting: Georges Seurat, _A Sunday Afternoon on the Island of La Grande Jatte_, 1884</font>
 
 ## References{.scrollable .smaller}
