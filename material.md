@@ -15,7 +15,7 @@ description: Links to course material.
 * Week 5 [slides](./assets/slides/Week5.pdf)
 * Week 6 [slides](./assets/slides/Week6.pdf)
 * Week 7 [slides](./assets/slides/Week7.pdf)
-* Week 8 (same as Week 7)
+* Week 8 (same as Week 7; course split over two weeks)
 * Week 9: spring break, no class
 * Week 10: midterm
 * Week 11 slides
