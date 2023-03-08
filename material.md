@@ -23,6 +23,10 @@ description: Links to course material.
 * Week 13 slides
 * Week 14 slides
 
+# Midterm
+
+[Instructions](./assets/slides/Midterm.pdf)
+
 # Assignments
 
 [Research report slides (pdf)](./assets/slides/ResearchReport.pdf)

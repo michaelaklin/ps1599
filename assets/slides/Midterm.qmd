@@ -1,0 +1,37 @@
+---
+title: "Analysis of IR"
+subtitle: "PS 1599 | Midterm"
+institute: "University of Pittsburgh"
+author: "Michaël Aklin"
+format:
+  revealjs:
+    incremental: true
+    theme: [white, revealjs_customization.scss]
+    logo: materials/PASU_Logo.png
+    center: true
+    chalkboard: false
+title-slide-attributes: 
+    data-background-image: https://images.squarespace-cdn.com/content/v1/5329b201e4b09fd47861cac1/1476203606038-BFZGD8SC4QO7CVX65K8T/Art+History+for+Kids+%E2%80%93+Discussing+the+idea+of+community+as+seen+in+famous+paintings.?format=750w
+    data-background-opacity: "0.4"
+editor: visual
+bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
+---
+
+
+## Exam
+
+- Monday, March 13: optional review session
+
+  - Based on your questions!
+
+- Wed, March 15: exam (in class, 75min), one sheet of letter-sized paper
+
+- Fair game: lecture content, required readings
+
+- Focus on understanding key concepts...
+
+  - what they explain
+
+  - what explains them
+
+  - Often flaged in [red]{.red}
