@@ -27,6 +27,8 @@ description: Links to course material.
 
 [Instructions](./assets/slides/Midterm.pdf)
 
+[Midterm review](./assets/slides/ReviewSession.pdf)
+
 # Assignments
 
 [Research report slides (pdf)](./assets/slides/ResearchReport.pdf)

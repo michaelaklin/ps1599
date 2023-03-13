@@ -1,0 +1,133 @@
+---
+title: "Analysis of IR"
+subtitle: "PS 1599 | Midterm Review"
+institute: "University of Pittsburgh"
+author: "Michaël Aklin"
+format:
+  revealjs:
+    incremental: true
+    theme: [white, revealjs_customization.scss]
+    logo: materials/PASU_Logo.png
+    center: true
+    chalkboard: false
+# title-slide-attributes: 
+#     data-background-image: https://images.squarespace-cdn.com/content/v1/5329b201e4b09fd47861cac1/1476203606038-BFZGD8SC4QO7CVX65K8T/Art+History+for+Kids+%E2%80%93+Discussing+the+idea+of+community+as+seen+in+famous+paintings.?format=750w
+#     data-background-opacity: "0.4"
+editor: visual
+bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
+---
+
+## Format
+
+- A few multiple-choice questions
+
+- A few open-ended, short questions
+
+- 30 points total (1 pt = 1% of your final grade)
+
+- One sheet of paper, regular size, with notes
+
+- Course content + readings
+
+##
+
+> what we should know from the required readings
+
+> if you could provide a one sentence summary or one general concept we were supposed to take from each reading.
+
+> is it sufficient to know the general arguments made/thesis of the various readings or should there be a more substantive knowledge of each reading?
+
+- You should focus on key concepts...
+
+- ... not on math/stats/etc.
+
+##
+
+- Bueno de Mesquita: key ethical concepts (utilitarianism, egalitarianism, etc)
+
+- Jones: interesting facts, don't worry about exact numbers/maths
+
+- Solow: sustainable development; definition(s), etc.
+
+- Foster: S-curve; definition, examples, etc.
+
+- Martin and Scott: market failure in innovation/R&D
+
+##
+
+- Unruh: carbon lock-in, definition, etc.
+
+- Breetz et al: politics and strategies of clean energy transition
+
+- Brown: read for your own interest
+
+- Wüstenhagen: concept of acceptance (three dimensions: community, socio-political, and market)
+
+##
+
+> How sustainable development impacts welfare? I understand that development directly correlates to welfare, but how does its sustainability factor in?
+
+- Definition of welfare
+
+- Growth w/o sustainability vs. w/ sustainability
+
+
+##
+
+> By saying research and development is a public good, does that mean that its innovation deserves to be shared with all or simply that it can? And would this meant that corporations or countries that invest in it for their own interest are denying the public of a public good? Is this essentially free-riding?
+
+- R&D as public good
+
+##
+
+> Can you explain the S-curves, specifically how they play into diffusion?
+
+- Supply- vs. demand-side S curve
+
+## Supply-side
+
+![Firm perspective. Source: @Foster1986.](./materials/foster1986_fig2.png)
+
+## Demand-side
+
+![Market penetration perspective. Source: wikipedia](./materials/wiki_diff_of_ideas.png)
+
+## 
+
+- Supply side: 
+
+  - Failures at 'birth' (public goods)
+
+  - Failures of diffusion (non-market competition)
+
+- Demand side: individual, hh, social, state-level failures
+
+##
+
+> Can you explain how non-market strategies take place in society and within markets and provide examples, specifically ones that are commonly viewed as both “good” and “bad”?
+
+##
+
+![Source: Future Business Tech](./materials/futurebusinesstech.png)
+ 
+##
+
+- [Sustaining]{.red} vs. [disruptive]{.red} tech
+
+- Firms struggle to deal with disruptive tech
+
+  - Wrong expertise, wrong customers, etc.
+
+- Use of non-market strategies: modify your environment (society, markets, state) rather than your product (quality, price)
+
+- Society. Eg "environment, social, and governance" (ESG)
+
+- Market. Eg predatory pricing.
+
+
+# Questions?
+
+aklin@pitt.edu
+
+
+## References{.scrollable .smaller}
