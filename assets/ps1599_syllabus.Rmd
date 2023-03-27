@@ -433,7 +433,7 @@ _Suggested reading (for policy workshop)_:
 
 \textcolor{red}{Monday 3/27}: research workshop
 
-\textcolor{red}{Wednesday 3/22}: policy workshop
+\textcolor{red}{Wednesday 3/29}: policy workshop
 
 <!--------------- Break --------------->
 ## `r advdate(mon, 13)`. Demand failures -- coordination problems

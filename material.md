@@ -33,9 +33,9 @@ description: Links to course material.
 
 [Research report slides (pdf)](./assets/slides/ResearchReport.pdf)
 
-[Research report instructions (docx)](./assets/assignments/Research%20Report%20Instructions.docx)
+[Research report instructions (docx)](./assets/assignments/ResearchReportInstructions.docx)
 
-[Research report template (docx)](./assets/assignments/Research%20Report%20Template.docx)
+[Research report template (docx)](./assets/assignments/ResearchReportTemplate.docx)
 
 
 # Readings
