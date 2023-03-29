@@ -11,7 +11,7 @@ format:
     center: true
     chalkboard: false
 title-slide-attributes: 
-    data-background-image: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/clock-of-universe-stoyanka-ivanova.jpg
+    data-background-image: https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg
     data-background-opacity: "0.4"
 editor: visual
 bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
@@ -23,34 +23,317 @@ bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
 
 - aklin@pitt.edu 
 
-- Updated schedule
+- Schedule: to be updated
 
-- Slides
+# Policy as problem-solving
 
-- Readings
+## Why problem-solving?
 
+Jobs vary on two dimensions
+
+- [Cognitive]{.red} vs [manual]{.red}: workers provide thoughts or manual labor
+
+- [Routine]{.red} vs [non-routine]{.red}: tasks are being repeated or not
+
+- Most jobs have a mix of all four 
+
+  - Eg doctor does admin, helps physically move patients, thinks about diagnosis
+
+- Prospects for routine jobs/tasks are not great...
+
+##
+
+![Source: Federal Reserve](./materials/mohirta_negurita_et_al_2018.png)
+
+##
+
+![](./materials/equitable_growth.png)
+
+##
+
+![](./materials/fred_labor2.jpg)
+
+##
+
+|             | **Routine**     | **Non-routine** |
+| ----------- | ----------- | ----------- |
+| **Manual**      | Assembly line worker      | Nursing home |
+| **Cognitive**   | Data entry  | [You?]{.red} |
+
+Policymaking, inventor, manager, artist, social service, education, etc.
+
+## Cognitive/non-routine tasks
+
+- Innovation
+
+- Prediction
+
+- Evaluation
+
+- Strategization
+
+- [Problem-solving]{.red}
+
+:::footer
+@page2019diversity
+:::
+
+
+##
+
+- Future labor market...
+
+  - topic of this class
+
+  - train you to overcome it!
+
+- Assignments:
+
+  - Data analysis
+
+  - Solving problems
 
 # Policy report
 
 ## Aim of assignment
 
+- Take your research report and show that you can think about its implications + solve problem(s)
+
+- Research report: _who is/isn't interested in and supportive of renewable energy technology_
+
+- Now: think about policy solutions to increase support among those who aren't interested/supportive
+
+- Audience: President Biden or Governor Shapiro (PA)
+
+## Illustration
+
+> My research report shows that people with _low levels of education_ are _less_ supportive of _renewable energy_. Possibly, this is because they are unaware of the benefits of renewable energy. Thus, I recomment (a) an information campaign targeted toward adults, (b) an education campaign in high schools.
+
 ## Requirement
 
+- Short paper (3-5 pages)
+
+- Worth 30% 
+
+- Due on 4/21
+
+- Template + instructions on the website
+
+## Content
+
+- Executive summary (0.5-1 page): overview of the paper
+
+- Literature review + your finding(s) (research report) (~1p)
+
+  - Adapt your literature review from research report
+
+  - Add your own findings at the end
+
+- Policy options (1-2p)
+
+  - Provide 3 policy ideas
+
+  - Explain which one should be prioritized
+
+- Next steps (0.5p)
+
+  - How will you favorite policy be implemented?
+
+## Grading
+
+- Effective policies (do they address the problem?)
+
+- Balance creativity/realism (are the policies realistic and do they overcome typical bottlenecks?)
+
+- Clarity of paper (direct, jargon-free language)
+
+# Questions?
 
 
-# Policymaking
-
+# Policymaking and problem-solving
 
 ## Principles of policymaking
 
-## Problem-solving skills
+![](./materials/publicpolicy.png)
 
-# Assignment
+## 1st step: aim/goal
+
+- Identify a goal
+
+- Politics/society: what do you want the world to be like (ethics)
+
+- Business: market shares, profits, etc.
+
+- Others: achievements (sports), personal goals, etc.
+
+- In general: helps to draw a measurable target
+
+  - "Reduce poverty by 10%" vs "Making people happy"
+
+## 2nd step: diagnostics
+
+- Explain why the problem is happening
+
+- Different types of problems
+
+- 1. [Individual problems]{.blue}. Eg smoking.
+
+- 2. [Social problems]{.blue}. Eg prisoner's dilemma.
+
+- 3. ["Natural" problems]{.blue}. Eg natural disasters, sickness.
+
+- Often: problems are a combo of these!
+
+
+## 3rd step: solutions
+
+- Look for solutions (policymaking!)
+
+- Type of solutions depends on type of problems
+
+- Need to solve the fundamental cause(s) of the problem
+
+- Eg for climate change:
+
+  - CC is caused by evil oil companies
+
+  - CC is caused because negative externalities aren't 'internalized'
+
+## Public policy
+
+[Tools]{.blue} used by [public authorities]{.blue} to [modify]{.blue} our environment to (presumably) [solve]{.blue} individual/social/natural problems
+
+- Often: solve [social]{.blue} problems. Eg
+
+  - R&D as public good
+
+  - Carbon emissions as negative externalities
+
+  - Electric infrastructure as a coordination problem
+
+- Sometimes [individual]{.blue} problems
+
+  - Knowledge/awareness
+
+  - Individual commitment problem (addiction)
 
 ##
 
-Solve the free-riding problem in your course project
+- The set of tools you have depends on your [position]{.blue}
 
+- [Inside]{.blue} the state: mayor, governor, bureaucrat, etc.
+
+- [Outside]{.blue} the state: firms, nonprofits, etc. (lobbying)
+
+- Variation in resources + legal rights
+
+## Domestic policy tools
+
+1. [Law]{.red}. Eg no smoking zones. 
+
+2. [Services]{.red}. Eg public schools, law enforcement, etc.
+
+3. [Money]{.red}. Eg subsidies for low-income households.
+
+4. [Taxes]{.red}. Eg Pigouvian taxes
+
+5. [Morality]{.red}. Eg calls for masking.
+
+::: footer
+@Peters2016
+:::
+
+##
+
+::: {.r-fit-text}
+Often, we have several tools for a problem.
+:::
+
+::: {.r-fit-text}
+How should we [select]{.blue} policies?
+:::
+
+## Criteria
+
+- [Efficiency]{.blue}: does policy A achieve a goal at lowest cost?
+
+- [Equity]{.blue}: is the outcome fair to stakeholders?
+
+- [Due process]{.blue}: is the policy legal and moral?
+
+- [Effectiveness]{.blue}: can it realistically be adopted?
+
+- Also:
+
+  - Does the policy have side effects?
+
+  - Could the policy be misused?
+
+
+
+## Example: climate change
+
+1. Law: emission standards for cars
+
+2. Services: subsidized public transports
+
+3. Money: subsidies for renewable energy companies, industrial policy (eg IRA)
+
+4. Taxes: carbon tax
+
+5. Morality: 'evil' oil companies
+
+- [Which one should be picked?]{.red}
+
+## 
+
+- Economists: like carbon taxes (efficient)
+
+- Economists: dislike industrial policy and subsidies (bureaucratis picking winners)
+
+- Politics: like industrial policy and subsidies (buys off supporters) 
+
+- Politics: dislike carbon taxes (vote loser)
+
+- Nonprofits: complicated goals
+
+## International policy tools
+
+- Policy tools so far work for domestic sovereign
+
+- But: no global government to deal with global problems
+
+##
+
+::: {.r-fit-text}
+What kind of [policy tools]{.red} can states use
+:::
+
+::: {.r-fit-text}
+to deal with [global]{.blue} issues?
+:::
+
+##
+
+1. Law: international treaties, international organizations
+
+2. Services: defense umbrella
+
+3. Money: foreign aid
+
+4. Taxes: tariffs on imported goods
+
+5. Morality: soft power, military coercion (?)
+
+## Your turn
+
+Objective: reduce car pollution in Pittsburgh
+
+1. Design goals
+
+2. Identify fundamental causes
+
+3. List solutions
 
 
 
@@ -66,6 +349,6 @@ aklin@pitt.edu
 
 <br>
 
-<font size="5">Source for title page painting: Stoyanka Ivanova, _Clock of Universe_</font>
+<font size="5">Source for title page painting: Dali, _The Persistence of Memory_</font>
 
 ## References{.scrollable .smaller}

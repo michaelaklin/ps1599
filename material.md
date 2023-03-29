@@ -37,6 +37,9 @@ description: Links to course material.
 
 [Research report template (docx)](./assets/assignments/ResearchReportTemplate.docx)
 
+[Policy report slides (pdf)](./assets/slides/PolicyReport.pdf)
+
+[Policy report template (docx)](./assets/assignments/PolicyReportTemplate.docx)
 
 # Readings
 

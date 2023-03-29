@@ -1,0 +1,90 @@
+---
+title: "Analysis of IR"
+subtitle: "PS 1599 | Week 11: Policy workshop"
+institute: "University of Pittsburgh"
+author: "Michaël Aklin"
+format:
+  revealjs:
+    incremental: true
+    theme: [white, revealjs_customization.scss]
+    logo: materials/PASU_Logo.png
+    center: true
+    chalkboard: false
+title-slide-attributes: 
+    data-background-image: https://upload.wikimedia.org/wikipedia/en/d/dd/The_Persistence_of_Memory.jpg
+    data-background-opacity: "0.4"
+editor: visual
+bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
+---
+
+
+# Policy report
+
+## Aim of assignment
+
+- Take your research report and show that you can think about its implications + solve problem(s)
+
+- Research report: _who is/isn't interested in and supportive of renewable energy technology_
+
+- Now: think about policy solutions to increase support among those who aren't interested/supportive
+
+- Audience: President Biden or Governor Shapiro (PA)
+
+## Illustration
+
+> My research report shows that people with _low levels of education_ are _less_ supportive of _renewable energy_. Possibly, this is because they are unaware of the benefits of renewable energy. Thus, I recomment (a) an information campaign targeted toward adults, (b) an education campaign in high schools.
+
+## Requirement
+
+- Short paper (3-5 pages)
+
+- Worth 30% 
+
+- Due on 4/21
+
+- Template + instructions on the website
+
+## Content
+
+- Executive summary (0.5-1 page): overview of the paper
+
+- Literature review + your finding(s) (research report) (~1p)
+
+  - Adapt your literature review from research report
+
+  - Add your own findings at the end
+
+- Policy options (1-2p)
+
+  - Provide 3 policy ideas
+
+  - Explain which one should be prioritized
+
+- Next steps (0.5p)
+
+  - How will you favorite policy be implemented?
+
+## Grading
+
+- Effective policies (do they address the problem?)
+
+- Balance creativity/realism (are the policies realistic and do they overcome typical bottlenecks?)
+
+- Clarity of paper (direct, jargon-free language)
+
+
+# Questions?
+
+aklin@pitt.edu
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<font size="5">Source for title page painting: Dali, _The Persistence of Memory_</font>
+
+## References{.scrollable .smaller}
