@@ -1,6 +1,6 @@
 ---
 title: "Analysis of IR"
-subtitle: "PS 1599 | Week 11: Coordination"
+subtitle: "PS 1599 | Week 13: Coordination"
 institute: "University of Pittsburgh"
 author: "Michaël Aklin"
 format:
@@ -11,7 +11,7 @@ format:
     center: true
     chalkboard: false
 title-slide-attributes: 
-    data-background-image: https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/clock-of-universe-stoyanka-ivanova.jpg
+    data-background-image: https://arthive.net/res/media/img/oy800/work/b87/253927.webp
     data-background-opacity: "0.4"
 editor: visual
 bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
@@ -19,21 +19,324 @@ bibliography: /Users/AKLIN/Dropbox/BibLibrary.bib
 
 ## Administration
 
-- Office hours
+- Office hours, aklin@pitt.edu 
 
-- aklin@pitt.edu 
+- Exam
 
+- Shorter class today
 
-
-![EE News, Feb 15, 2023](./materials/eenews_tesla_1.png)
-
-![](./materials/eenews_tesla_2.png)
-
-<!-- Source: https://www.eenews.net/articles/tesla-opens-its-ev-charging-network-to-the-masses/ -->
 ##
 
-Solve the free-riding problem in your course project
+Brief reminder
 
+- Research paper: who is supportive/unsupportive of clean energy (age, education, gender, etc.)
+
+- Policy paper: suggest policies to deal with the problems identified in _Research Paper_
+
+- Chuang's office hours: Fr 12-2:30pm
+
+- Next two Mondays: drop-in session for your final projects
+
+- Lots of material on course website!
+
+##
+
+::: {.r-fit-text}
+What did we talk about
+:::
+
+::: {.r-fit-text}
+last time?
+:::
+
+##
+
+- Problem-solving addresses...
+
+  - [Natural]{.blue} problems
+  - [Individual]{.blue} problems
+  - [Social]{.red} problems
+
+- Social problems have many causes
+
+  - So far: public goods/externalities
+
+  - Next: [coordination]{.red} and [commitment]{.red} problems
+
+  - Matters for policy
+
+# Coordination problems
+
+## Definition
+
+- People benefit if they [coordinate]{.red} their behavior
+
+  - I don't care strongly what we do as long as we adapt to each other
+
+  - Canonical example: driving side
+
+- When actors fail: coordination failure
+
+- Differs from public goods
+
+  - [no]{.blue} incentive to free-ride
+  
+  - problem is to select an equilibrium
+
+## Coordination problems in markets
+
+- (a) [Format wars]{.red}: sectors often create industry-wide [formats]{.blue}
+
+  - Consumers don't care which format (smaller=better)
+
+  - Important for firm planning
+
+  - Eg: blu-ray vs HD DVD, QWERTY
+
+- (b) [Network effects]{.red}
+
+  - = value to consumers goes up w/ more consumers
+
+  - Eg: phones, vaccines, Playstation, Minidiscs
+
+- Both relevant for sustainable technology
+
+## Case 1: network effects
+
+- Consider electric vehicles (EV) and ignore externalities
+
+- Still a challenge to switch from gas to EV
+
+- Reason: both EV and gas require [infrastructures]{.red}
+
+  - Infra is only provided if enough customers exist
+
+  - If not: useless car
+
+##
+
+|    _Jane_ \ _John_    | **Gasoline car**     | **Electric car** |
+| ----------- | ----------- | ----------- |
+| **Gasoline car**      | 1, 1     | 0, 0 |
+| **Electric**   | 0, 0  | 1, 1 |
+
+- Equilibria?
+
+##
+
+|    _Jane_ \ _John_    | **Gasoline car**     | **Electric car** |
+| ----------- | ----------- | ----------- |
+| **Gasoline car**      | 1, 1     | 0, 0 |
+| **Electric**   | 0, 0  | 2, 2 |
+
+- Equilibria?
+
+##
+
+|    _Jane_ \ _John_    | **Gasoline car**     | **Electric car** |
+| ----------- | ----------- | ----------- |
+| **Gasoline car**      | 2, 2     | 0, 0 |
+| **Electric**   | 0, 0  | 1, 1 |
+
+- Equilibria?
+
+##
+
+::: {.r-fit-text}
+Assume you're working for the White House. 
+:::
+
+::: {.r-fit-text}
+How would you ensure [a transition to EV]{.blue}?
+:::
+
+## Policies
+
+- Classic (same solutions as for [public goods]{.red})
+
+  - Pigouvian tax on cars
+
+  - Subsidies for EV
+
+- Coordination-specific solutions
+
+  - Subsidy for infrastructure (charging stations)
+
+  - R&D on flexible charging stations 
+
+  - Regulations on new apartment buildings
+
+##
+
+1. Law. Rule out one some options. Eg EU and gasoline cars
+
+2. Services. Build charging stations. 
+
+3. Money. Subsidize EV
+
+4. Taxes. Tax gasoline cars
+
+5. Moral. ?
+
+##
+
+![Source: Wall Street Journal (Feb 14, 2023)](./materials/wsj_02142023.png)
+
+##
+
+![](./materials/eenews_tesla_1.png)
+
+![EE News, Feb 15, 2023](./materials/eenews_tesla_2.png)
+
+
+
+<!-- Source: https://www.eenews.net/articles/tesla-opens-its-ev-charging-network-to-the-masses/ -->
+
+## Case 2: format wars
+
+- Electric vehicles must be charged
+
+- Currently: <300 miles
+
+- Problem: brands have competing charging standards
+
+- Equivalent: having different plugs based on your electric supplier
+
+##
+
+![Source: https://electrek.co.](./materials/electrek.png)
+
+##
+
+|    _Tesla_ \ _BMW_    | **Tesla supercharger**     | **CCS** |
+| ----------- | ----------- | ----------- |
+| **Tesla supercharger**      | 2, 1     | 0, 0 |
+| **CCS**   | 0, 0  | 1, 2 |
+
+- Two equilibria
+
+- But [distributional]{.red} impact 
+
+##
+
+::: {.r-fit-text}
+Assume you're working for the White House. 
+:::
+
+::: {.r-fit-text}
+How would you pick a standard?
+:::
+
+
+##
+
+- Difficult choice: can the White House predict the future?
+
+- One possibility: let the market decide (like blu-ray vs HD DVD)
+
+- Problem: slows down the transition to EV
+
+- Can use technical criteria. But same problem: no idea which format is superior in the long term
+
+- Maybe best (?): force industry to pick
+
+##
+
+1. Law. Impose to all a standard that you think is superior
+
+2. Services. Build charging stations.
+
+3. Money. Compensate the loser
+
+4. Taxes. Compensate the loser (lower taxes)
+
+5. Moral. ?
+
+
+##
+
+![Source: White House, February 15, 2023](./materials/white_house.png)
+
+<!-- By doing so, actors can unleash benefits (or avoid costs) that they might suffer if they don’t 
+Difference with public goods:
+Public goods: our incentives push us to a bad equilibrium 
+With coordination problems: no incentive to free-ride; the problem is to select an equilibrium
+Many examples: driving side, investments, technological standards, selecting a technology (electric cars) w/ network effects, etc. -->
+
+## Conclusion
+
+- Public goods are not the only social problems
+
+- Coordination failures are also important
+
+- Relevant for sustainable technology
+
+  - Network effects
+  
+  - Format coordination
+
+- Policies are different from those for public goods
+
+- Implication for your projects
+
+# Commitment problems
+
+## Definition
+
+- Actors sometimes make promise about the future
+
+- These promises might not be [credible]{.red}
+
+- Eg: teenage wanting to go out tonight and clean room tomorrow
+
+- Problem: knowing this, actors will make worse decisions today
+
+- Eg: peace treaty, long-term subsidies
+
+## 
+
+![](./materials/commitment_aklin.png)
+
+## Example: political risk
+
+- Commitment problems are common in new industries
+
+  - Need gov support to grow
+
+  - But govs come and go
+
+- Creates [political risks]{.red}
+
+- Issue: who will invest in clean tech if govs might pull the plug later? 
+
+::: footer
+@BusseHefeker2007, @Kellyetal2014
+:::
+
+
+# Industrial Policy: The IRA
+
+##
+
+- Three problems: public goods, coordination, commitment
+
+- Can be addressed individually
+
+- But that's sometimes insufficient
+
+- Solution (?): [industrial policy]{.red}
+
+## History
+
+## Content
+
+## Solutions
+
+- Public goods: public resources
+
+- Coordination: creates entire markets
+
+- Commitment: tries to create constituencies who will fight for it even if Republicans win
 
 
 
@@ -49,6 +352,6 @@ aklin@pitt.edu
 
 <br>
 
-<font size="5">Source for title page painting: Stoyanka Ivanova, _Clock of Universe_</font>
+<font size="5">Source for title page painting: Alberto Rossi, _The Arab market in kalona_</font>
 
 ## References{.scrollable .smaller}

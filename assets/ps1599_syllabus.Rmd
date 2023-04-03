@@ -480,6 +480,8 @@ _Suggested reading_:
 
 Sustainable technology will require dramatic changes in the ways in which our societies work. 
 
+\textcolor{red}{Monday 4/10}: drop-in session.
+
 <!-- Themes: 
 Models/theory:
 - Capital labor
@@ -509,6 +511,9 @@ _Suggested reading_:
 ## `r advdate(mon, 15)`. Conclusion
 
 What could a sustainable society look like?
+
+\textcolor{red}{Monday 4/17}: drop-in session.
+
 
 <!-- Themes
 Models/theory
