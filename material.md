@@ -18,8 +18,8 @@ description: Links to course material.
 * Week 8 (same as Week 7; course split over two weeks)
 * Week 9: spring break, no class
 * Week 10: midterm
-* Week 11 slides
-* Week 12 slides
+* Week 11 [slides](./assets/slides/Week11.pdf)
+* Week 12 [slides](./assets/slides/Week13.pdf)
 * Week 13 slides
 * Week 14 slides
 

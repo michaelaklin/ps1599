@@ -224,7 +224,7 @@ Assume you're working for the White House.
 :::
 
 ::: {.r-fit-text}
-How would you pick a standard?
+How would you select an EV standard?
 :::
 
 
@@ -291,13 +291,43 @@ Many examples: driving side, investments, technological standards, selecting a t
 
 - Problem: knowing this, actors will make worse decisions today
 
-- Eg: peace treaty, long-term subsidies
+- Eg: peace treaty
 
 ## 
 
 ![](./materials/commitment_aklin.png)
 
-## Example: political risk
+##
+
+- Despite peace being superior, actors with foresight will not go for it
+
+- Problem: risk of being vulnerable later if you agree to disarm now
+
+- Thus: need to find a way to generate a [credible commitment]{.red}
+
+##
+
+::: {.r-fit-text}
+How would you overcome this
+:::
+
+::: {.r-fit-text}
+[commitment problem]{.red}? 
+:::
+
+##
+
+- Law. Joint control of gov/legislature? Legal institutions? UN Blue Helmets?
+
+- Services. Shift control of military?
+
+- Money. Provide separatist resources to re-buy weapons if needed?
+
+- Taxes?
+
+- Moral: publicly tie your hands.
+
+## Risk and sustainable industries
 
 - Commitment problems are common in new industries
 
@@ -309,12 +339,100 @@ Many examples: driving side, investments, technological standards, selecting a t
 
 - Issue: who will invest in clean tech if govs might pull the plug later? 
 
+
 ::: footer
 @BusseHefeker2007, @Kellyetal2014
 :::
 
+## Case: off-grid renewable energy
 
-# Industrial Policy: The IRA
+- About 700m w/o electricity
+
+- Could be powered w/ coal...
+
+- Better solution: off-grid tech
+
+- Electricity is generated locally 
+
+
+
+##
+
+- In practice: off-grid mostly provided by private firms
+
+  - Material (turbines, solar panels, etc.)
+
+  - Sales (connection of households, firms)
+
+- Requires public support 
+
+- Two problems
+
+  - Governments change. Democracy!
+
+  - Customers: unwillingness to pay bills
+
+- In India: both problems very relevant
+
+##
+
+![Source: Fortune, January 21, 2020](./materials/fortune.png)
+
+##
+
+::: {.r-fit-text}
+How can you overcome this commitment problem? 
+:::
+
+
+::: {.r-fit-text}
+From the side of (a) the [gov]{.blue} and (b) the [firm]{.blue}...
+:::
+
+## Government strategies
+
+- Law: legal rules (eg SupC vs gov), law enforcement (customers)
+
+- Services: ?
+
+- Money: fund gov projects upfront 
+
+- Taxes?
+
+- Morality: public commitments/[audience costs]{.red}
+
+## Firm strategies
+
+- Law: n/a (reserved to governments)
+
+- Services: smart metering
+
+- Money: upfront payment, pay-as-you-go
+
+- Taxes: n/a (reserved to governments)
+
+- Morality?
+
+<!-- - Note: prob is gov itself!
+
+- Smart metering
+
+- Robust contract enforcement
+
+- Internationalization of firms -->
+
+## Conclusion
+
+- Credible commitments are very important
+
+- Yet different from coordination/public goods
+
+- Dynamic problem
+
+- Requires to find [credible commitments]{.red}
+
+
+# Industrial policy and climate change
 
 ##
 
@@ -328,16 +446,120 @@ Many examples: driving side, investments, technological standards, selecting a t
 
 ## History
 
-## Content
+- 19th century: conservation
 
-## Solutions
+- Up to 1960s: other priorities (WWI, Great Depression, WWII, Cold War)
 
-- Public goods: public resources
+- Since 1960s: growth of environmental movement
 
-- Coordination: creates entire markets
+- Since 1980s: concern about climate change and ozone layer
 
-- Commitment: tries to create constituencies who will fight for it even if Republicans win
+- To keep warming limited: need to reach net-zero by 2050
 
+- [Wicked problem]{.red}: dom/global public goods, coordination, commitments
+
+## Climate policy
+
+- Clinton: [international]{.blue} climate treaty (Kyoto Protocol)
+
+  - Treaty to deal w/ global negative externalities
+  - Tech transfer to deal w/ domestic social problems 
+
+- Congress: [domestic]{.blue} carbon pricing
+
+  - Failures in 2003, 2005, 2008
+
+  - Waxman–Markey: carbon trading scheme (2009)
+
+
+##
+
+- Problem: all these efforts failed
+
+- Domestic: no carbon pricing
+
+- International: very soft global rules
+
+- [Political]{.blue} problem: hard to mobilize voters
+
+  - Taxes create [distributional]{.red} effects
+
+  - Hard for green voters to vote for others ([credibility]{.red})
+
+::: footer
+@Skocpol2013
+:::
+
+## Solution
+
+- Potential solution: [industrial policy]{.red}
+
+- Idea: vast set of policies to jumpstart an industry
+
+- Deals with all 3 problems:
+
+  - Public goods: public resources
+
+  - Coordination: creates entire markets
+
+  - Commitment: creates pro-policy constituencies 
+
+::: footer
+@Nahm2021
+:::
+
+## Biden
+
+- Three packages passed 2021-2022 ([law]{.red})
+
+  - Infrastructure Investment and Jobs Act (IIJA)
+  - CHIPS and Science Act (CHIPS) 
+  - Inflation Reduction Act (IRA) 
+
+- Total: over $500b public investments ([service]{.red}), research ([service]{.red}), and tax credits ([money/tax]{.red}) for clean energy
+
+## Economic effects
+
+- Makes clean energy cheaper via [subsidies]{.blue}
+
+- Makes clean energy cheaper via [tech innovation]{.blue}
+
+- [Incentivizes]{.blue} private sector
+
+- Addresses [public good]{.red} and [commitment]{.red} problems
+
+- What about [commitment]{.red} problem (by government)?
+
+
+##
+
+![](./materials/fed_dallas.png)
+
+##
+
+![Source: Guardian, February 22, 2023](./materials/guardian_02_22_2023.png)
+
+##
+
+- **Not** just about economics
+
+- Politics: create strong pro-climate policy constituencies
+
+- Important: could overcome commitment problem depending on next elections
+
+- But could [backfire]{.blue}: picking winners, inefficiencies, consumer costs
+
+## Conclusion
+
+- Major social problems: public goods, coordination, commitment
+
+- Policies can address each
+
+- But when all happen together: [wicked problem]{.red}
+
+- One solution: [industrial policy]{.red}
+
+- Pessimism: rarely works as intended: larger the policy, the higher the odds that something goes wrong...
 
 
 # Questions?
